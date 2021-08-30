@@ -1,0 +1,7 @@
+copy("copy_mips_gcc") {
+    sources = [
+      "${board_toolchain_path}/../mips-linux-gnu/libc/mfp64/usr/lib/libgomp.so.1.0.0",
+      "${board_toolchain_path}/../mips-linux-gnu/libc/mfp64/usr/lib/libstdc++.so.6.0.24",
+    ]
+    outputs = [ "$root_out_dir/libs/lib/{{source_file_part}}" ]
+}

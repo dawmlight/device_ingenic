@@ -1,0 +1,15 @@
+import("//build/lite/config/component/lite_component.gni")
+import("//build/lite/config/subsystem/lite_subsystem.gni")
+
+lite_subsystem("uboot") {
+  subsystem_components = []
+
+  deps = [ ":make" ]
+}
+
+build_ext_component("make") {
+  print("${board_name} ${ohos_build_compiler} ${root_build_dir} ${ohos_build_type} ")
+  exec_path = rebase_path(".")
+  out_path = rebase_path(root_out_dir)
+  command = "sh build.sh ${exec_path} ${out_path}"
+}

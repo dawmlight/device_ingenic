@@ -1,0 +1,1895 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A2DPCheckConnect	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPCheckConnect(int &is_connect) {$/;"	f	class:BluetoothController
+A2DPNotify	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPNotify(void (*a2dp_callback)(int state)) {$/;"	f	class:BluetoothController
+A2DPSendVolume	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPSendVolume(int volume) {$/;"	f	class:BluetoothController
+A2DPSocketReady	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPSocketReady() {$/;"	f	class:BluetoothController
+A2DPSouceLinkDown	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPSouceLinkDown() {$/;"	f	class:BluetoothController
+A2DPSouceLinkUp	sdk/BluetoothController.cpp	/^bool BluetoothController::A2DPSouceLinkUp(const BD_ADDR addr) {$/;"	f	class:BluetoothController
+A2DP_SOURCE_DOMAIN	source/app_av.c	50;"	d	file:
+A2DP_SOURCE_DOMAIN	source/app_av_ipc.c	51;"	d	file:
+A2DP_SOURCE_SHM_KEY	source/app_av_ipc.c	52;"	d	file:
+A2DP_SOURCE_SHM_SIZE	source/app_av_ipc.c	53;"	d	file:
+AD_NODE_BUFSIZ	source/app_hs.c	87;"	d	file:
+AGCloseAudio	sdk/BluetoothController.cpp	/^bool BluetoothController::AGCloseAudio() {$/;"	f	class:BluetoothController
+AGOpenAudio	sdk/BluetoothController.cpp	/^bool BluetoothController::AGOpenAudio() {$/;"	f	class:BluetoothController
+ALLOC_ZEROIZE	source/app_common/nanoxml.c	21;"	d	file:
+ALOGD	protocol/SyncData.cpp	21;"	d	file:
+ALOGD	protocol/UnBindModule.cpp	14;"	d	file:
+ALOGD	sdk/BluetoothController.cpp	18;"	d	file:
+ALOGD	sdk/HilinkModule.cpp	18;"	d	file:
+ALOGD	sdk/ThirdPartyModule.cpp	18;"	d	file:
+ALOGE	incall/InCall.cpp	10;"	d	file:
+ALOGE	ohos_bt.c	41;"	d	file:
+ALOGE	protocol/SyncData.cpp	22;"	d	file:
+ALOGE	sdk/BluetoothController.cpp	19;"	d	file:
+ALOGE	sdk/HilinkModule.cpp	19;"	d	file:
+ALOGE	sdk/ThirdPartyModule.cpp	19;"	d	file:
+ALOGE	source/app_hs.c	52;"	d	file:
+ALOGE	source/app_unit.c	39;"	d	file:
+ALOGV	incall/InCall.cpp	9;"	d	file:
+ALOGV	protocol/SyncData.cpp	23;"	d	file:
+ALOGV	sdk/BluetoothController.cpp	17;"	d	file:
+ALOGV	sdk/HilinkModule.cpp	17;"	d	file:
+ALOGV	sdk/ThirdPartyModule.cpp	17;"	d	file:
+APP_AG_BITS_PER_SAMPLE	source/app_ag.c	34;"	d	file:
+APP_AG_CHANNEL_NB	source/app_ag.c	35;"	d	file:
+APP_AG_FEATURES	source/app_ag.c	42;"	d	file:
+APP_AG_SAMPLE_RATE	source/app_ag.c	33;"	d	file:
+APP_AG_XML_REM_DEVICES_FILE_PATH	source/app_ag.c	47;"	d	file:
+APP_AVK_ASLA_DEV	source/app_avk.c	39;"	d	file:
+APP_AVK_SOUND_FILE	source/app_avk.c	50;"	d	file:
+APP_AV_COMPENSATION_HIGH_WM	source/app_av.c	98;"	d	file:
+APP_AV_COMPENSATION_HIGH_WM	source/app_av_ipc.c	100;"	d	file:
+APP_AV_COMPENSATION_LOW_WM	source/app_av.c	102;"	d	file:
+APP_AV_COMPENSATION_LOW_WM	source/app_av_ipc.c	104;"	d	file:
+APP_AV_FEAT_MASK	source/app_av.c	66;"	d	file:
+APP_AV_FEAT_MASK	source/app_av_ipc.c	68;"	d	file:
+APP_AV_LENGTH_MAX	source/app_av.c	91;"	d	file:
+APP_AV_LENGTH_MAX	source/app_av_ipc.c	93;"	d	file:
+APP_AV_LENGTH_MIN	source/app_av.c	90;"	d	file:
+APP_AV_LENGTH_MIN	source/app_av_ipc.c	92;"	d	file:
+APP_AV_MAX_AUDIO_BUF	source/app_av.c	80;"	d	file:
+APP_AV_MAX_AUDIO_BUF	source/app_av_ipc.c	82;"	d	file:
+APP_AV_MAX_AUDIO_BUF_MAX	source/app_av.c	94;"	d	file:
+APP_AV_MAX_AUDIO_BUF_MAX	source/app_av_ipc.c	96;"	d	file:
+APP_AV_MAX_CONNECTIONS	source/app_av.c	78;"	d	file:
+APP_AV_MAX_CONNECTIONS	source/app_av_ipc.c	80;"	d	file:
+APP_AV_PERIOD_MAX	source/app_av.c	88;"	d	file:
+APP_AV_PERIOD_MAX	source/app_av_ipc.c	90;"	d	file:
+APP_AV_PERIOD_MIN	source/app_av.c	87;"	d	file:
+APP_AV_PERIOD_MIN	source/app_av_ipc.c	89;"	d	file:
+APP_AV_PLAYTYPE_AVK	source/app_av.c	167;"	d	file:
+APP_AV_PLAYTYPE_AVK	source/app_av_ipc.c	169;"	d	file:
+APP_AV_PLAYTYPE_FILE	source/app_av.c	164;"	d	file:
+APP_AV_PLAYTYPE_FILE	source/app_av_ipc.c	166;"	d	file:
+APP_AV_PLAYTYPE_MIC	source/app_av.c	165;"	d	file:
+APP_AV_PLAYTYPE_MIC	source/app_av_ipc.c	167;"	d	file:
+APP_AV_PLAYTYPE_TEST	source/app_av.c	166;"	d	file:
+APP_AV_PLAYTYPE_TEST	source/app_av_ipc.c	168;"	d	file:
+APP_AV_PLAYTYPE_TONE	source/app_av.c	163;"	d	file:
+APP_AV_PLAYTYPE_TONE	source/app_av_ipc.c	165;"	d	file:
+APP_AV_REMOTE_DEVICES_XML_FILE	source/app_av.c	82;"	d	file:
+APP_AV_REMOTE_DEVICES_XML_FILE	source/app_av_ipc.c	84;"	d	file:
+APP_AV_SOUND_FILE	source/app_av.c	84;"	d	file:
+APP_AV_SOUND_FILE	source/app_av_ipc.c	86;"	d	file:
+APP_AV_TIMESPEC_ADD	source/app_av.c	4536;"	d	file:
+APP_AV_TIMESPEC_ADD	source/app_av_ipc.c	4416;"	d	file:
+APP_AV_USE_RC	source/app_av.c	70;"	d	file:
+APP_AV_USE_RC	source/app_av_ipc.c	72;"	d	file:
+APP_BLE_ADV_CONF_IS_SCAN_RSP	source/app_ble_server.c	32;"	d	file:
+APP_BLE_ADV_CONF_UUID_VAL	source/app_ble_server.c	31;"	d	file:
+APP_BLE_ADV_VALUE_LEN	source/app_ble_server.c	30;"	d	file:
+APP_BLE_ENABLE_WAKE_GPIO_VSC	source/app_ble.c	40;"	d	file:
+APP_BLE_MAIN_INVALID_UUID	source/app_unit.c	44;"	d	file:
+APP_BLE_PF_MANU_DATA_COND_TYPE	source/app_ble.c	42;"	d	file:
+APP_BLE_PF_MANU_DATA_CO_ID	source/app_ble.c	41;"	d	file:
+APP_BLE_REGISTER_UUID	source/app_ble_server.c	52;"	d	file:
+APP_BLE_SENDIND_NEED_CONFIRM	source/app_ble_server.c	36;"	d	file:
+APP_BLE_SERVICE_IS_PRIMARY	BtMain.cpp	27;"	d	file:
+APP_BLE_SERVICE_IS_PRIMARY	source/app_ble_server.c	35;"	d	file:
+APP_BLE_SERVICE_NUM	source/app_ble_server.c	27;"	d	file:
+APP_BLE_SERVICE_NUM_HANDLE	BtMain.cpp	28;"	d	file:
+APP_BLE_SERVICE_NUM_HANDLE	source/app_ble_server.c	45;"	d	file:
+APP_BLE_UNBOND_END	source/app_ble_server.c	38;"	d	file:
+APP_DEFAULT_BD_ADDR	source/app_manager.c	40;"	d	file:
+APP_DEFAULT_CLASS_OF_DEVICE	source/app_manager.c	47;"	d	file:
+APP_DEFAULT_PIN_CODE	source/app_manager.c	51;"	d	file:
+APP_DEFAULT_PIN_LEN	source/app_manager.c	52;"	d	file:
+APP_DEFAULT_ROOT_PATH	source/app_manager.c	49;"	d	file:
+APP_DG_BAD_HANDLE	source/app_dg.c	42;"	d	file:
+APP_DG_BAD_UIPC	source/app_dg.c	43;"	d	file:
+APP_DG_NB_CON_MAX	source/app_dg.c	41;"	d	file:
+APP_DG_RX_BUFFER_SIZE	source/app_dg.c	39;"	d	file:
+APP_DG_TEST_FILE	source/app_unit.c	43;"	d	file:
+APP_DG_TX_BUFFER_SIZE	source/app_dg.c	38;"	d	file:
+APP_HS_BITS_PER_SAMPLE	source/app_hs.c	67;"	d	file:
+APP_HS_CHANNEL_NB	source/app_hs.c	68;"	d	file:
+APP_HS_FEATURES	source/app_hs.c	70;"	d	file:
+APP_HS_HFP_SERVICE_NAME	source/app_hs.c	81;"	d	file:
+APP_HS_HSP_SERVICE_NAME	source/app_hs.c	80;"	d	file:
+APP_HS_KEY_CLOSE	source/app_hs.c	/^    APP_HS_KEY_CLOSE,$/;"	e	enum:__anon11	file:
+APP_HS_KEY_OPEN	source/app_hs.c	/^    APP_HS_KEY_OPEN = 1,$/;"	e	enum:__anon11	file:
+APP_HS_KEY_PLAY	source/app_hs.c	/^    APP_HS_KEY_PLAY,$/;"	e	enum:__anon11	file:
+APP_HS_KEY_PRESS	source/app_hs.c	/^    APP_HS_KEY_PRESS,$/;"	e	enum:__anon11	file:
+APP_HS_KEY_QUIT	source/app_hs.c	/^    APP_HS_KEY_QUIT = 99$/;"	e	enum:__anon11	file:
+APP_HS_KEY_RECORD	source/app_hs.c	/^    APP_HS_KEY_RECORD,$/;"	e	enum:__anon11	file:
+APP_HS_KEY_STOP_RECORDING	source/app_hs.c	/^    APP_HS_KEY_STOP_RECORDING,$/;"	e	enum:__anon11	file:
+APP_HS_MAX_AUDIO_BUF	source/app_hs.c	83;"	d	file:
+APP_HS_MIC_VOL	source/app_hs.c	74;"	d	file:
+APP_HS_SAMPLE_RATE	source/app_hs.c	66;"	d	file:
+APP_HS_SCO_IN_SOUND_FILE	source/app_hs.c	77;"	d	file:
+APP_HS_SCO_OUT_SOUND_FILE	source/app_hs.c	78;"	d	file:
+APP_HS_SPK_VOL	source/app_hs.c	75;"	d	file:
+APP_HS_XML_REM_DEVICES_FILE_PATH	source/app_hs.c	85;"	d	file:
+APP_LINK_NB_MAX	source/app_common/app_link.c	20;"	d	file:
+APP_SEC_IO_CAPABILITIES	source/app_manager.c	68;"	d	file:
+APP_SEC_SP_AUTO_ACCEPT	source/app_manager.c	73;"	d	file:
+APP_TIMESTAMP_LEN	source/app_common/app_utils.c	49;"	d	file:
+APP_VENDOR_APPLE_COUNT	source/app_common/app_disc.c	38;"	d	file:
+APP_WAVE_HDR_SIZE	source/app_common/app_wav.c	34;"	d	file:
+APP_XML_CONFIG_FILE_PATH	source/app_common/app_xml_utils.c	31;"	d	file:
+APP_XML_CONFIG_FILE_PATH	source/app_manager.c	54;"	d	file:
+APP_XML_CONF_BDADDR_KEY	source/app_common/app_xml_param.c	36;"	d	file:
+APP_XML_CONF_BLE_NAME_KEY	source/app_common/app_xml_param.c	35;"	d	file:
+APP_XML_CONF_CLASS_KEY	source/app_common/app_xml_param.c	37;"	d	file:
+APP_XML_CONF_CONNECTABLE_KEY	source/app_common/app_xml_param.c	33;"	d	file:
+APP_XML_CONF_DISCOVERABLE_KEY	source/app_common/app_xml_param.c	32;"	d	file:
+APP_XML_CONF_ENABLE_KEY	source/app_common/app_xml_param.c	31;"	d	file:
+APP_XML_CONF_IO_CAP_KEY	source/app_common/app_xml_param.c	41;"	d	file:
+APP_XML_CONF_KEY	source/app_common/app_xml_param.c	30;"	d	file:
+APP_XML_CONF_NAME_KEY	source/app_common/app_xml_param.c	34;"	d	file:
+APP_XML_CONF_PINCODE_KEY	source/app_common/app_xml_param.c	38;"	d	file:
+APP_XML_CONF_PINLEN_KEY	source/app_common/app_xml_param.c	39;"	d	file:
+APP_XML_CONF_ROOTPATH_KEY	source/app_common/app_xml_param.c	40;"	d	file:
+APP_XML_CR	source/app_common/app_xml_utils.c	27;"	d	file:
+APP_XML_DEVS_KEY	source/app_common/app_xml_param.c	43;"	d	file:
+APP_XML_DEV_BDADDR_KEY	source/app_common/app_xml_param.c	46;"	d	file:
+APP_XML_DEV_BLE_ADDR_TYPE	source/app_common/app_xml_param.c	60;"	d	file:
+APP_XML_DEV_BLE_LINKKEYP_KEY	source/app_common/app_xml_param.c	63;"	d	file:
+APP_XML_DEV_CLASS_KEY	source/app_common/app_xml_param.c	48;"	d	file:
+APP_XML_DEV_DEVICE_TYPE	source/app_common/app_xml_param.c	61;"	d	file:
+APP_XML_DEV_FEATURES	source/app_common/app_xml_param.c	56;"	d	file:
+APP_XML_DEV_INQ_RESULT_TYPE	source/app_common/app_xml_param.c	62;"	d	file:
+APP_XML_DEV_INST_KEY	source/app_common/app_xml_param.c	45;"	d	file:
+APP_XML_DEV_KEY	source/app_common/app_xml_param.c	44;"	d	file:
+APP_XML_DEV_KEYTYPE_KEY	source/app_common/app_xml_param.c	51;"	d	file:
+APP_XML_DEV_LCSRK_COUNTER	source/app_common/app_xml_param.c	75;"	d	file:
+APP_XML_DEV_LCSRK_DIV	source/app_common/app_xml_param.c	76;"	d	file:
+APP_XML_DEV_LCSRK_SEC_LEVEL	source/app_common/app_xml_param.c	77;"	d	file:
+APP_XML_DEV_LENC_DIV	source/app_common/app_xml_param.c	78;"	d	file:
+APP_XML_DEV_LENC_KEY_SIZE	source/app_common/app_xml_param.c	79;"	d	file:
+APP_XML_DEV_LENC_SEC_LEVEL	source/app_common/app_xml_param.c	80;"	d	file:
+APP_XML_DEV_LINKKEYP_KEY	source/app_common/app_xml_param.c	50;"	d	file:
+APP_XML_DEV_LINKKEY_KEY	source/app_common/app_xml_param.c	49;"	d	file:
+APP_XML_DEV_LMP_VERSION	source/app_common/app_xml_param.c	57;"	d	file:
+APP_XML_DEV_NAME_KEY	source/app_common/app_xml_param.c	47;"	d	file:
+APP_XML_DEV_PCSRK_COUNTER	source/app_common/app_xml_param.c	72;"	d	file:
+APP_XML_DEV_PCSRK_CSRK	source/app_common/app_xml_param.c	73;"	d	file:
+APP_XML_DEV_PCSRK_SEC_LEVEL	source/app_common/app_xml_param.c	74;"	d	file:
+APP_XML_DEV_PENC_EDIV	source/app_common/app_xml_param.c	66;"	d	file:
+APP_XML_DEV_PENC_KEY_SIZE	source/app_common/app_xml_param.c	68;"	d	file:
+APP_XML_DEV_PENC_LTK	source/app_common/app_xml_param.c	64;"	d	file:
+APP_XML_DEV_PENC_RAND	source/app_common/app_xml_param.c	65;"	d	file:
+APP_XML_DEV_PENC_SEC_LEVEL	source/app_common/app_xml_param.c	67;"	d	file:
+APP_XML_DEV_PID_ADDR_TYPE	source/app_common/app_xml_param.c	70;"	d	file:
+APP_XML_DEV_PID_IRK	source/app_common/app_xml_param.c	69;"	d	file:
+APP_XML_DEV_PID_KEY	source/app_common/app_xml_param.c	53;"	d	file:
+APP_XML_DEV_PID_STATIC_ADDR	source/app_common/app_xml_param.c	71;"	d	file:
+APP_XML_DEV_TRUSTED_KEY	source/app_common/app_xml_param.c	52;"	d	file:
+APP_XML_DEV_VERSION_KEY	source/app_common/app_xml_param.c	55;"	d	file:
+APP_XML_DEV_VID_KEY	source/app_common/app_xml_param.c	54;"	d	file:
+APP_XML_REM_DEVICES_FILE_PATH	source/app_avk.c	48;"	d	file:
+APP_XML_REM_DEVICES_FILE_PATH	source/app_common/app_xml_utils.c	32;"	d	file:
+APP_XML_REM_DEVICES_FILE_PATH	source/app_manager.c	55;"	d	file:
+APP_XML_ROOT_KEY	source/app_common/app_xml_param.c	28;"	d	file:
+APP_XML_SI_DEVICES_FILE_PATH	source/app_common/app_xml_utils.c	33;"	d	file:
+APP_XML_SI_DEVS_KEY	source/app_common/app_xml_param.c	83;"	d	file:
+APP_XML_SI_DEV_BDADDR_KEY	source/app_common/app_xml_param.c	86;"	d	file:
+APP_XML_SI_DEV_INST_KEY	source/app_common/app_xml_param.c	85;"	d	file:
+APP_XML_SI_DEV_KEY	source/app_common/app_xml_param.c	84;"	d	file:
+APP_XML_SI_DEV_PLATFORM_KEY	source/app_common/app_xml_param.c	87;"	d	file:
+APP_XML_TAG_CLOSE_PREFIX	source/app_common/app_xml_utils.c	25;"	d	file:
+APP_XML_TAG_OPEN_CLOSE_SUFFIX	source/app_common/app_xml_utils.c	29;"	d	file:
+APP_XML_TAG_OPEN_PREFIX	source/app_common/app_xml_utils.c	24;"	d	file:
+APP_XML_TAG_SUFFIX	source/app_common/app_xml_utils.c	26;"	d	file:
+APP_XML_TAG_SUFFIX_CR	source/app_common/app_xml_utils.c	28;"	d	file:
+AVRCP_NOW_PLAYING_FILE_ID	source/app_av.c	676;"	d	file:
+AVRCP_NOW_PLAYING_FILE_ID	source/app_av_ipc.c	672;"	d	file:
+AVRCP_NOW_PLAYING_FOLDER_ID	source/app_av.c	674;"	d	file:
+AVRCP_NOW_PLAYING_FOLDER_ID	source/app_av_ipc.c	670;"	d	file:
+AVRCP_NOW_PLAYING_FOLDER_ID_FIRST_BYTE	source/app_av.c	673;"	d	file:
+AVRCP_NOW_PLAYING_FOLDER_ID_FIRST_BYTE	source/app_av_ipc.c	669;"	d	file:
+AVRCP_NO_NOW_PLAYING_FILE_ID	source/app_av.c	678;"	d	file:
+AVRCP_NO_NOW_PLAYING_FILE_ID	source/app_av_ipc.c	674;"	d	file:
+AVRCP_NO_NOW_PLAYING_FOLDER_ID	source/app_av.c	677;"	d	file:
+AVRCP_NO_NOW_PLAYING_FOLDER_ID	source/app_av_ipc.c	673;"	d	file:
+AVRCP_PLAY_LISTS_FOLDER_ID	source/app_av.c	675;"	d	file:
+AVRCP_PLAY_LISTS_FOLDER_ID	source/app_av_ipc.c	671;"	d	file:
+AcceptThreadFunc	sdk/BluetoothServer.cpp	/^void BluetoothServer::AcceptThreadFunc(){$/;"	f	class:android::BluetoothServer
+AcceptThreadFunc	sdk/HilinkServer.cpp	/^void HilinkServer::AcceptThreadFunc(){$/;"	f	class:android::HilinkServer
+AcceptThreadFunc	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::AcceptThreadFunc(){$/;"	f	class:android::ThirdPartyServer
+AcceptThreadWrapper	sdk/BluetoothServer.cpp	/^void *BluetoothServer::AcceptThreadWrapper(void *me) {$/;"	f	class:android::BluetoothServer
+AcceptThreadWrapper	sdk/HilinkServer.cpp	/^void *HilinkServer::AcceptThreadWrapper(void *me) {$/;"	f	class:android::HilinkServer
+AcceptThreadWrapper	sdk/ThirdPartyServer.cpp	/^void *ThirdPartyServer::AcceptThreadWrapper(void *me) {$/;"	f	class:android::ThirdPartyServer
+BD_ADDR	sdk/BluetoothUtils.h	/^typedef unsigned char BD_ADDR[BD_ADDR_SIZE];         \/* Device address *\/$/;"	t
+BD_ADDR_SIZE	sdk/BluetoothUtils.h	5;"	d
+BD_NAME_SIZE	sdk/BluetoothUtils.h	6;"	d
+BD_TYPE_A2DP	sdk/BluetoothUtils.h	/^    BD_TYPE_A2DP = 3,$/;"	e	enum:__anon39
+BD_TYPE_BLE	sdk/BluetoothUtils.h	/^    BD_TYPE_BLE = 1,$/;"	e	enum:__anon39
+BD_TYPE_ENUM	sdk/BluetoothUtils.h	/^} BD_TYPE_ENUM;$/;"	t	typeref:enum:__anon39
+BD_TYPE_SPP	sdk/BluetoothUtils.h	/^    BD_TYPE_SPP = 2,$/;"	e	enum:__anon39
+BD_TYPE_UNKNOWN	sdk/BluetoothUtils.h	/^	BD_TYPE_UNKNOWN = 0,$/;"	e	enum:__anon39
+BLACK	source/app_common/app_utils.c	39;"	d	file:
+BLE_BEACON_HUAWEI_UUID	BtMain.cpp	68;"	d	file:
+BLE_BOND_FAILED	ble/BleProtocol.cpp	29;"	d	file:
+BLE_BOND_OK	ble/BleProtocol.cpp	28;"	d	file:
+BLE_BOND_REQ_PREFIX	ble/BleProtocol.cpp	23;"	d	file:
+BLE_CONTACT_PKG	ble/BleProtocol.cpp	33;"	d	file:
+BLE_DATA_MAX_SIZE	ble/BleProtocol.cpp	20;"	d	file:
+BLE_NORMAL_PKG	ble/BleProtocol.cpp	32;"	d	file:
+BLE_RECONN_REQ_PREFIX	ble/BleProtocol.cpp	24;"	d	file:
+BLE_UNBOND_END_REQ	ble/BleProtocol.cpp	26;"	d	file:
+BLE_UNBOND_REQ	ble/BleProtocol.cpp	25;"	d	file:
+BLE_UNBOND_RSP	ble/BleProtocol.cpp	30;"	d	file:
+BLINK	source/app_common/app_utils.c	34;"	d	file:
+BLUE	source/app_common/app_utils.c	43;"	d	file:
+BLUETOOTHSERVER_H_	sdk/BluetoothServer.h	2;"	d
+BLUETOOTH_CONTROLLER_H_	sdk/BluetoothController.h	250;"	d
+BRIGHT	source/app_common/app_utils.c	31;"	d	file:
+BSA_ATTR_STRING_LEN	source/app_av.c	611;"	d	file:
+BSA_ATTR_STRING_LEN	source/app_av_ipc.c	607;"	d	file:
+BSA_AVK_AAC_SUPPORTED	source/app_avk.c	66;"	d	file:
+BSA_AVK_DUMP_RX_DATA	source/app_avk.c	62;"	d	file:
+BSA_AVK_FEATURES	source/app_avk.c	56;"	d	file:
+BSA_AVK_SECURITY	source/app_avk.c	53;"	d	file:
+BSA_AV_DUMP_TX_DATA	source/app_av.c	74;"	d	file:
+BSA_AV_DUMP_TX_DATA	source/app_av_ipc.c	76;"	d	file:
+BSA_AV_NUMSONGS	source/app_av.c	599;"	d	file:
+BSA_AV_NUMSONGS	source/app_av_ipc.c	592;"	d	file:
+BSA_AV_NUM_MPLAYERS	source/app_av.c	175;"	d	file:
+BSA_AV_NUM_MPLAYERS	source/app_av_ipc.c	177;"	d	file:
+BSA_AV_PLAYER_ID_FILES	source/app_av.c	171;"	d	file:
+BSA_AV_PLAYER_ID_FILES	source/app_av_ipc.c	173;"	d	file:
+BSA_AV_PLAYER_ID_INVALID	source/app_av.c	170;"	d	file:
+BSA_AV_PLAYER_ID_INVALID	source/app_av_ipc.c	172;"	d	file:
+BSA_AV_PLAYER_ID_MPLAYER	source/app_av.c	172;"	d	file:
+BSA_AV_PLAYER_ID_MPLAYER	source/app_av_ipc.c	174;"	d	file:
+BT_POWER_STATE	ohos_bt.c	42;"	d	file:
+BT_POWER_STATE	source/app_unit.c	45;"	d	file:
+BUFFER_SIZE	sdk/BluetoothController.cpp	21;"	d	file:
+BUFFER_SIZE	sdk/BluetoothServer.cpp	17;"	d	file:
+BUFFER_SIZE	sdk/HilinkModule.cpp	21;"	d	file:
+BUFFER_SIZE	sdk/HilinkServer.cpp	27;"	d	file:
+BUFFER_SIZE	sdk/ThirdPartyModule.cpp	21;"	d	file:
+BUFFER_SIZE	sdk/ThirdPartyServer.cpp	29;"	d	file:
+BYTES_PER_MEMBER	protocol/SppProtocol.cpp	/^    static const int BYTES_PER_MEMBER = 4;$/;"	m	class:android::ExtraHeader	file:
+BindedStateChange	sdk/HilinkServer.cpp	/^void HilinkServer::BindedStateChange(bool isBinded,bool isBle){$/;"	f	class:android::HilinkServer
+BindedStateChange	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::BindedStateChange(bool isBinded,bool isBle){$/;"	f	class:android::ThirdPartyServer
+BleGattRegisterCallbacks	ohos_bt.c	/^int BleGattRegisterCallbacks(BtGattCallbacks *func)$/;"	f
+BleGattSecurityRsp	ohos_bt.c	/^int BleGattSecurityRsp(BdAddr bdAddr, bool accept)$/;"	f
+BleGattsAddCharacteristic	ohos_bt.c	/^int BleGattsAddCharacteristic(int serverId, int srvcHandle, BtUuid characUuid,$/;"	f
+BleGattsAddDescriptor	ohos_bt.c	/^int BleGattsAddDescriptor(int serverId, int srvcHandle, BtUuid descUuid, int permissions)$/;"	f
+BleGattsAddIncludedService	ohos_bt.c	/^int BleGattsAddIncludedService(int serverId, int srvcHandle, int includedHandle)$/;"	f
+BleGattsAddService	ohos_bt.c	/^int BleGattsAddService(int serverId, BtUuid srvcUuid, bool isPrimary, int number)$/;"	f
+BleGattsClearServices	ohos_bt.c	/^int BleGattsClearServices(int serverId)$/;"	f
+BleGattsDeleteService	ohos_bt.c	/^int BleGattsDeleteService(int serverId, int srvcHandle)$/;"	f
+BleGattsDisconnect	ohos_bt.c	/^int BleGattsDisconnect(int serverId, BdAddr bdAddr, int connId)$/;"	f
+BleGattsRegister	ohos_bt.c	/^int BleGattsRegister(BtUuid appUuid)$/;"	f
+BleGattsRegisterCallbacks	ohos_bt.c	/^int BleGattsRegisterCallbacks(BtGattServerCallbacks *func)$/;"	f
+BleGattsSendIndication	ohos_bt.c	/^int BleGattsSendIndication(int serverId, GattsSendIndParam *param)$/;"	f
+BleGattsSendResponse	ohos_bt.c	/^int BleGattsSendResponse(int serverId, GattsSendRspParam *param)$/;"	f
+BleGattsSetEncryption	ohos_bt.c	/^int BleGattsSetEncryption(BdAddr bdAddr, BleSecAct secAct)$/;"	f
+BleGattsStartService	ohos_bt.c	/^int BleGattsStartService(int serverId, int srvcHandle)$/;"	f
+BleGattsStartServiceEx	ohos_bt.c	/^int BleGattsStartServiceEx(int *srvcHandle, BleGattService *srvcInfo)$/;"	f
+BleGattsStopService	ohos_bt.c	/^int BleGattsStopService(int serverId, int srvcHandle)$/;"	f
+BleGattsStopServiceEx	ohos_bt.c	/^int BleGattsStopServiceEx(int srvcHandle)$/;"	f
+BleGattsUnRegister	ohos_bt.c	/^int BleGattsUnRegister(int serverId)$/;"	f
+BleProtocol	ble/BleProtocol.cpp	/^BleProtocol::BleProtocol()$/;"	f	class:android::BleProtocol
+BleProtocol_instance	ble/BleProtocol.cpp	/^void BleProtocol_instance(){$/;"	f
+BleSetAdvData	ohos_bt.c	/^int BleSetAdvData(int advId, const BleConfigAdvData *data)$/;"	f
+BleSetScanParameters	ohos_bt.c	/^int BleSetScanParameters(int clientId, BleScanParams *param)$/;"	f
+BleSetSecurityAuthReq	ohos_bt.c	/^int BleSetSecurityAuthReq(BleAuthReqMode mode)$/;"	f
+BleSetSecurityIoCap	ohos_bt.c	/^int BleSetSecurityIoCap(BleIoCapMode mode)$/;"	f
+BleStartAdv	ohos_bt.c	/^int BleStartAdv(int advId, const BleAdvParams *param)$/;"	f
+BleStartAdvEx	ohos_bt.c	/^int BleStartAdvEx(int *advId, const StartAdvRawData rawData, BleAdvParams advParam)$/;"	f
+BleStartScan	ohos_bt.c	/^int BleStartScan(void)$/;"	f
+BleStopAdv	ohos_bt.c	/^int BleStopAdv(int advId)$/;"	f
+BleStopScan	ohos_bt.c	/^int BleStopScan(void)$/;"	f
+BleUpdateAdv	ohos_bt.c	/^int BleUpdateAdv(int advId, const BleAdvParams *param)$/;"	f
+BluetoothController	sdk/BluetoothController.cpp	/^BluetoothController::BluetoothController() {$/;"	f	class:BluetoothController
+BluetoothController	sdk/BluetoothController.h	/^class BluetoothController{$/;"	c
+BluetoothContrroller_cmd_type	sdk/BluetoothController.cpp	/^} BluetoothContrroller_cmd_type;$/;"	t	typeref:enum:__anon37	file:
+BluetoothServer	sdk/BluetoothServer.cpp	/^BluetoothServer::BluetoothServer(){$/;"	f	class:android::BluetoothServer
+BluetoothServer	sdk/BluetoothServer.h	/^class BluetoothServer : public RefBase{$/;"	c	namespace:android
+BluetoothServer_instance	sdk/BluetoothServer.cpp	/^void BluetoothServer_instance(){$/;"	f
+BtMain	BtMain.cpp	/^int BtMain()$/;"	f
+CAP	protocol/SyncDataTools.cpp	/^    static const int CAP = 4 * 1024;$/;"	m	class:android::SyncDataTools::Encoder	file:
+CAP	protocol/SyncModule.cpp	/^static const int CAP = 4 * 1024;$/;"	m	namespace:android	file:
+CAP	sdk/BluetoothController.cpp	/^static const int CAP = 4 * 1024;$/;"	v	file:
+CAP	sdk/HilinkModule.cpp	/^static const int CAP = 4 * 1024;$/;"	m	namespace:android	file:
+CAP	sdk/ThirdPartyModule.cpp	/^static const int CAP = 4 * 1024;$/;"	m	namespace:android	file:
+CFG	protocol/SppProtocol.cpp	/^    static const int CFG = 0x1;$/;"	m	class:android::Header	file:
+CHAR_UUID128	source/app_ble_server.c	/^static UINT8 CHAR_UUID128[MAX_UUID_SIZE] = {0x7D, 0x57, 0x18, 0x0B, 0x3C, 0x7B, 0xC8, 0xB0, 0x6D, 0x4B, 0x21, 0x55, 0x1D, 0xD9, 0xAB, 0x1F};$/;"	v	file:
+CMD_A2DP_AV_CHECK_CONNECT	sdk/BluetoothController.cpp	/^    CMD_A2DP_AV_CHECK_CONNECT,$/;"	e	enum:__anon37	file:
+CMD_A2DP_AV_NOTIFY	sdk/BluetoothController.cpp	/^    CMD_A2DP_AV_NOTIFY,$/;"	e	enum:__anon37	file:
+CMD_A2DP_AV_SEND_VOLUME_FAILED	sdk/BluetoothController.cpp	/^    CMD_A2DP_AV_SEND_VOLUME_FAILED, \/\/$/;"	e	enum:__anon37	file:
+CMD_A2DP_AV_SEND_VOLUME_OK	sdk/BluetoothController.cpp	/^    CMD_A2DP_AV_SEND_VOLUME_OK,     \/\/$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_CLOSE_FAILED_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_CLOSE_FAILED_IDX, \/\/    7$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_CLOSE_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_CLOSE_IDX,        \/\/   16$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_CLOSE_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_CLOSE_OK_IDX,     \/\/    6$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_OPEN_FAILED_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_OPEN_FAILED_IDX,  \/\/ 5$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_OPEN_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_OPEN_IDX,         \/\/     15$/;"	e	enum:__anon37	file:
+CMD_A2DP_SOURCE_OPEN_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_A2DP_SOURCE_OPEN_OK_IDX,      \/\/ 4$/;"	e	enum:__anon37	file:
+CMD_AG_SOURCE_CLOSE	sdk/BluetoothController.cpp	/^    CMD_AG_SOURCE_CLOSE,$/;"	e	enum:__anon37	file:
+CMD_AG_SOURCE_OPEN	sdk/BluetoothController.cpp	/^    CMD_AG_SOURCE_OPEN,$/;"	e	enum:__anon37	file:
+CMD_CLOSE_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_CLOSE_OK_IDX,                 \/\/    1$/;"	e	enum:__anon37	file:
+CMD_DELLINKED_FAILED_IDX	sdk/BluetoothController.cpp	/^    CMD_DELLINKED_FAILED_IDX,         \/\/            9$/;"	e	enum:__anon37	file:
+CMD_DELLINKED_IDX	sdk/BluetoothController.cpp	/^    CMD_DELLINKED_IDX,                \/\/       17$/;"	e	enum:__anon37	file:
+CMD_DELLINKED_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_DELLINKED_OK_IDX,             \/\/                8$/;"	e	enum:__anon37	file:
+CMD_DISABLE_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_DISABLE_OK_IDX,               \/\/  2$/;"	e	enum:__anon37	file:
+CMD_DISCMPL_IDX	sdk/BluetoothController.cpp	/^    CMD_DISCMPL_IDX,                  \/\/     3$/;"	e	enum:__anon37	file:
+CMD_DISCOVERY_IDX	sdk/BluetoothController.cpp	/^    CMD_DISCOVERY_IDX,                \/\/       14$/;"	e	enum:__anon37	file:
+CMD_LINKEDCMPL_IDX	sdk/BluetoothController.cpp	/^    CMD_LINKEDCMPL_IDX,               \/\/     12$/;"	e	enum:__anon37	file:
+CMD_LINKED_IDX	sdk/BluetoothController.cpp	/^    CMD_LINKED_IDX,                   \/\/          13$/;"	e	enum:__anon37	file:
+CMD_LINKINGCMPL_IDX	sdk/BluetoothController.cpp	/^    CMD_LINKINGCMPL_IDX,              \/\/                 10$/;"	e	enum:__anon37	file:
+CMD_LINKING_IDX	sdk/BluetoothController.cpp	/^    CMD_LINKING_IDX,                  \/\/                     11$/;"	e	enum:__anon37	file:
+CMD_OPEN_OK_IDX	sdk/BluetoothController.cpp	/^    CMD_OPEN_OK_IDX = 0,              \/\/     0$/;"	e	enum:__anon37	file:
+CONFIG_REMOTE_IS_AUDIO_SPEAKER	source/app_av.c	44;"	d	file:
+CONFIG_REMOTE_IS_AUDIO_SPEAKER	source/app_av_ipc.c	44;"	d	file:
+CONFIG_SIZE	protocol/SppProtocol.cpp	42;"	d	file:
+CONF_BDADDR_KEY	source/app_common/app_xml_param.c	/^	CONF_BDADDR_KEY,$/;"	e	enum:__anon1	file:
+CONF_BLE_NAME_KEY	source/app_common/app_xml_param.c	/^	CONF_BLE_NAME_KEY,$/;"	e	enum:__anon1	file:
+CONF_CLASS_KEY	source/app_common/app_xml_param.c	/^	CONF_CLASS_KEY,$/;"	e	enum:__anon1	file:
+CONF_CONNECTABLE_KEY	source/app_common/app_xml_param.c	/^	CONF_CONNECTABLE_KEY,$/;"	e	enum:__anon1	file:
+CONF_DISCOVERABLE_KEY	source/app_common/app_xml_param.c	/^	CONF_DISCOVERABLE_KEY,$/;"	e	enum:__anon1	file:
+CONF_ENABLE_KEY	source/app_common/app_xml_param.c	/^	CONF_ENABLE_KEY,$/;"	e	enum:__anon1	file:
+CONF_IOCAP_KEY	source/app_common/app_xml_param.c	/^	CONF_IOCAP_KEY,$/;"	e	enum:__anon1	file:
+CONF_NAME_KEY	source/app_common/app_xml_param.c	/^	CONF_NAME_KEY,$/;"	e	enum:__anon1	file:
+CONF_PINCODE_KEY	source/app_common/app_xml_param.c	/^	CONF_PINCODE_KEY,$/;"	e	enum:__anon1	file:
+CONF_PINLEN_KEY	source/app_common/app_xml_param.c	/^	CONF_PINLEN_KEY,$/;"	e	enum:__anon1	file:
+CONF_ROOTPATH_KEY	source/app_common/app_xml_param.c	/^	CONF_ROOTPATH_KEY,$/;"	e	enum:__anon1	file:
+CONTACT_PKG	ble/BleProtocol.cpp	/^    static const int CONTACT_PKG = 0x1;$/;"	m	class:android::Header	file:
+CYAN	source/app_common/app_utils.c	45;"	d	file:
+ClientReadThreadFunc	sdk/BluetoothServer.cpp	/^void BluetoothServer::ClientReadThreadFunc(int client_fd_arg){$/;"	f	class:android::BluetoothServer
+ClientReadThreadFunc	sdk/HilinkServer.cpp	/^void HilinkServer::ClientReadThreadFunc(int client_fd_arg){$/;"	f	class:android::HilinkServer
+ClientReadThreadFunc	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::ClientReadThreadFunc(int client_fd_arg){$/;"	f	class:android::ThirdPartyServer
+ClientReadThreadWrapper	sdk/BluetoothServer.cpp	/^void *BluetoothServer::ClientReadThreadWrapper(void *arg) {$/;"	f	class:android::BluetoothServer
+ClientReadThreadWrapper	sdk/HilinkServer.cpp	/^void *HilinkServer::ClientReadThreadWrapper(void *arg) {$/;"	f	class:android::HilinkServer
+ClientReadThreadWrapper	sdk/ThirdPartyServer.cpp	/^void *ThirdPartyServer::ClientReadThreadWrapper(void *arg) {$/;"	f	class:android::ThirdPartyServer
+DB_CONFIG_FILE_PATH	protocol/DBHelper.cpp	15;"	d	file:
+DB_DIR_PATH	protocol/DBHelper.cpp	14;"	d	file:
+DEVS_KEY	source/app_common/app_xml_param.c	/^	DEVS_KEY,$/;"	e	enum:__anon1	file:
+DEV_BDADDR_KEY	source/app_common/app_xml_param.c	/^	DEV_BDADDR_KEY,$/;"	e	enum:__anon1	file:
+DEV_BLE_ADDR_TYPE_KEY	source/app_common/app_xml_param.c	/^	DEV_BLE_ADDR_TYPE_KEY,$/;"	e	enum:__anon1	file:
+DEV_BLE_LINKKEYP_KEY	source/app_common/app_xml_param.c	/^	DEV_BLE_LINKKEYP_KEY,$/;"	e	enum:__anon1	file:
+DEV_CLASS_KEY	source/app_common/app_xml_param.c	/^	DEV_CLASS_KEY,$/;"	e	enum:__anon1	file:
+DEV_DEVICE_TYPE_KEY	source/app_common/app_xml_param.c	/^	DEV_DEVICE_TYPE_KEY,$/;"	e	enum:__anon1	file:
+DEV_FEATURES_KEY	source/app_common/app_xml_param.c	/^	DEV_FEATURES_KEY,$/;"	e	enum:__anon1	file:
+DEV_INFO_READ_MAX_LEN	BtMain.cpp	111;"	d	file:
+DEV_INQ_RESULT_TYPE	source/app_common/app_xml_param.c	/^	DEV_INQ_RESULT_TYPE,$/;"	e	enum:__anon1	file:
+DEV_INST_KEY	source/app_common/app_xml_param.c	/^	DEV_INST_KEY,$/;"	e	enum:__anon1	file:
+DEV_KEY	source/app_common/app_xml_param.c	/^	DEV_KEY,$/;"	e	enum:__anon1	file:
+DEV_KEYTYPE_KEY	source/app_common/app_xml_param.c	/^	DEV_KEYTYPE_KEY,$/;"	e	enum:__anon1	file:
+DEV_LCSRK_COUNTER_KEY	source/app_common/app_xml_param.c	/^	DEV_LCSRK_COUNTER_KEY,$/;"	e	enum:__anon1	file:
+DEV_LCSRK_DIV_KEY	source/app_common/app_xml_param.c	/^	DEV_LCSRK_DIV_KEY,$/;"	e	enum:__anon1	file:
+DEV_LCSRK_SEC_LEVEL_KEY	source/app_common/app_xml_param.c	/^	DEV_LCSRK_SEC_LEVEL_KEY,$/;"	e	enum:__anon1	file:
+DEV_LENC_DIV_KEY	source/app_common/app_xml_param.c	/^	DEV_LENC_DIV_KEY,$/;"	e	enum:__anon1	file:
+DEV_LENC_KEY_SIZE_KEY	source/app_common/app_xml_param.c	/^	DEV_LENC_KEY_SIZE_KEY,$/;"	e	enum:__anon1	file:
+DEV_LENC_SEC_LEVEL_KEY	source/app_common/app_xml_param.c	/^	DEV_LENC_SEC_LEVEL_KEY,$/;"	e	enum:__anon1	file:
+DEV_LINKKEYP_KEY	source/app_common/app_xml_param.c	/^	DEV_LINKKEYP_KEY,$/;"	e	enum:__anon1	file:
+DEV_LINKKEY_KEY	source/app_common/app_xml_param.c	/^	DEV_LINKKEY_KEY,$/;"	e	enum:__anon1	file:
+DEV_LMP_VERSION_KEY	source/app_common/app_xml_param.c	/^	DEV_LMP_VERSION_KEY,$/;"	e	enum:__anon1	file:
+DEV_NAME_KEY	source/app_common/app_xml_param.c	/^	DEV_NAME_KEY,$/;"	e	enum:__anon1	file:
+DEV_PCSRK_COUNTER_KEY	source/app_common/app_xml_param.c	/^	DEV_PCSRK_COUNTER_KEY,$/;"	e	enum:__anon1	file:
+DEV_PCSRK_CSRK_KEY	source/app_common/app_xml_param.c	/^	DEV_PCSRK_CSRK_KEY,$/;"	e	enum:__anon1	file:
+DEV_PCSRK_SEC_LEVEL_KEY	source/app_common/app_xml_param.c	/^	DEV_PCSRK_SEC_LEVEL_KEY,$/;"	e	enum:__anon1	file:
+DEV_PENC_EDIV_KEY	source/app_common/app_xml_param.c	/^	DEV_PENC_EDIV_KEY,$/;"	e	enum:__anon1	file:
+DEV_PENC_KEY_SIZE_KEY	source/app_common/app_xml_param.c	/^	DEV_PENC_KEY_SIZE_KEY,$/;"	e	enum:__anon1	file:
+DEV_PENC_LTK_KEY	source/app_common/app_xml_param.c	/^	DEV_PENC_LTK_KEY,$/;"	e	enum:__anon1	file:
+DEV_PENC_RAND_KEY	source/app_common/app_xml_param.c	/^	DEV_PENC_RAND_KEY,$/;"	e	enum:__anon1	file:
+DEV_PENC_SEC_LEVEL_KEY	source/app_common/app_xml_param.c	/^	DEV_PENC_SEC_LEVEL_KEY,$/;"	e	enum:__anon1	file:
+DEV_PID_ADDR_TYPE_KEY	source/app_common/app_xml_param.c	/^	DEV_PID_ADDR_TYPE_KEY,$/;"	e	enum:__anon1	file:
+DEV_PID_IRK_KEY	source/app_common/app_xml_param.c	/^	DEV_PID_IRK_KEY,$/;"	e	enum:__anon1	file:
+DEV_PID_KEY	source/app_common/app_xml_param.c	/^	DEV_PID_KEY,$/;"	e	enum:__anon1	file:
+DEV_PID_STATIC_ADDR_KEY	source/app_common/app_xml_param.c	/^	DEV_PID_STATIC_ADDR_KEY,$/;"	e	enum:__anon1	file:
+DEV_REG	BtMain.cpp	/^    DEV_REG,$/;"	e	enum:__anon36	file:
+DEV_TRUSTED_KEY	source/app_common/app_xml_param.c	/^	DEV_TRUSTED_KEY,$/;"	e	enum:__anon1	file:
+DEV_UNREG	BtMain.cpp	/^    DEV_UNREG = 0,$/;"	e	enum:__anon36	file:
+DEV_VERSION_KEY	source/app_common/app_xml_param.c	/^	DEV_VERSION_KEY,$/;"	e	enum:__anon1	file:
+DEV_VID_KEY	source/app_common/app_xml_param.c	/^	DEV_VID_KEY,$/;"	e	enum:__anon1	file:
+DIM	source/app_common/app_utils.c	32;"	d	file:
+DISC_CMPL_EVT	sdk/BluetoothUtils.h	/^    DISC_CMPL_EVT, \/* End of Discovery *\/$/;"	e	enum:__anon38
+DISC_EVT	sdk/BluetoothUtils.h	/^} DISC_EVT;$/;"	t	typeref:enum:__anon38
+DISC_NEW_EVT	sdk/BluetoothUtils.h	/^    DISC_NEW_EVT, \/* a New Device has been discovered *\/$/;"	e	enum:__anon38
+Decoder	protocol/SyncDataTools.cpp	/^    Decoder(char* data,int size)$/;"	f	class:android::SyncDataTools::Decoder
+Decoder	protocol/SyncDataTools.cpp	/^class SyncDataTools::Decoder {$/;"	c	class:android::SyncDataTools	file:
+DisableBtStack	ohos_bt.c	/^int DisableBtStack(void)$/;"	f
+EXTRA_HEADER_SIZE	protocol/SppProtocol.cpp	45;"	d	file:
+EnableBtStack	ohos_bt.c	/^int EnableBtStack(void)$/;"	f
+Encoder	protocol/SyncDataTools.cpp	/^    Encoder(const sp<SyncData>& data)$/;"	f	class:android::SyncDataTools::Encoder
+Encoder	protocol/SyncDataTools.cpp	/^class SyncDataTools::Encoder {$/;"	c	class:android::SyncDataTools	file:
+ExtraHeader	protocol/SppProtocol.cpp	/^    ExtraHeader (char* bytes) {$/;"	f	class:android::ExtraHeader
+ExtraHeader	protocol/SppProtocol.cpp	/^    ExtraHeader (int type, int num, int dataLen) {$/;"	f	class:android::ExtraHeader
+ExtraHeader	protocol/SppProtocol.cpp	/^class ExtraHeader : public RefBase{$/;"	c	namespace:android	file:
+FAIL_ADDRESS_MISMATCH	protocol/SppProtocol.cpp	/^    static const int FAIL_ADDRESS_MISMATCH = 1;$/;"	m	class:android::Neg	file:
+FAIL_VERSION_MISMATCH	protocol/SppProtocol.cpp	/^    static const int FAIL_VERSION_MISMATCH = 2;$/;"	m	class:android::Neg	file:
+GREEN	source/app_common/app_utils.c	41;"	d	file:
+HCI_EIR_DEVICE_ID_TYPE	source/app_common/app_disc.c	21;"	d	file:
+HEADER_SIZE	protocol/SppProtocol.cpp	44;"	d	file:
+HFPAGLinkDown	sdk/BluetoothController.cpp	/^bool BluetoothController::HFPAGLinkDown() {$/;"	f	class:BluetoothController
+HFPAGLinkUp	sdk/BluetoothController.cpp	/^bool BluetoothController::HFPAGLinkUp(const BD_ADDR addr) {$/;"	f	class:BluetoothController
+HIDDEN	source/app_common/app_utils.c	36;"	d	file:
+HILINKSERVER_H_	sdk/HilinkServer.h	2;"	d
+HILINK_CHAR_DATA_READ	BtMain.cpp	/^static UINT8 HILINK_CHAR_DATA_READ[MAX_UUID_SIZE] = {0x00, 0x91, 0x8a, 0xef, 0x39, 0xdd, 0x84, 0xa4, 0xfc, 0x43, 0x77, 0xa2, 0x01, 0xe6, 0xf1, 0x15};$/;"	v	file:
+HILINK_CHAR_DATA_WRITE	BtMain.cpp	/^static UINT8 HILINK_CHAR_DATA_WRITE[MAX_UUID_SIZE] = {0x00, 0x91, 0x8a, 0xef, 0x39, 0xdd, 0x84, 0xa4, 0xfc, 0x43, 0x77, 0xa2, 0x02, 0xe6, 0xf1, 0x15};$/;"	v	file:
+HILINK_CHAR_REGISTER	BtMain.cpp	/^static UINT8 HILINK_CHAR_REGISTER[MAX_UUID_SIZE] = {0x00, 0x91, 0x8a, 0xef, 0x39, 0xdd, 0x84, 0xa4, 0xfc, 0x43, 0x77, 0xa2, 0x01, 0xe5, 0xf1, 0x15};$/;"	v	file:
+HILINK_SERVICE_REGISTER	BtMain.cpp	/^static UINT8 HILINK_SERVICE_REGISTER[MAX_UUID_SIZE] = {0x00, 0x91, 0x8a, 0xef, 0x39, 0xdd, 0x84, 0xa4, 0xfc, 0x43, 0x77, 0xa2, 0x00, 0xe5, 0xf1, 0x15};$/;"	v	file:
+HILINK_SERVICE_RW	BtMain.cpp	/^static UINT8 HILINK_SERVICE_RW[MAX_UUID_SIZE] = {0x00, 0x91, 0x8a, 0xef, 0x39, 0xdd, 0x84, 0xa4, 0xfc, 0x43, 0x77, 0xa2, 0x00, 0xe6, 0xf1, 0x15};$/;"	v	file:
+HILINK_SERVICE_SUM	BtMain.cpp	/^static const unsigned char HILINK_SERVICE_SUM = 2;$/;"	v	file:
+HILINK_SERVICE_SUM	source/app_ble_server.c	/^static const UINT8 HILINK_SERVICE_SUM = 2;$/;"	v	file:
+HeadSetAnswerCall	sdk/BluetoothController.cpp	/^bool BluetoothController::HeadSetAnswerCall() {$/;"	f	class:BluetoothController
+HeadSetHangUp	sdk/BluetoothController.cpp	/^bool BluetoothController::HeadSetHangUp() {$/;"	f	class:BluetoothController
+Header	ble/BleProtocol.cpp	/^    Header(char *data, int len) {$/;"	f	class:android::Header
+Header	ble/BleProtocol.cpp	/^    Header(const char *moduleName, char *data, int size) {$/;"	f	class:android::Header
+Header	ble/BleProtocol.cpp	/^class Header : public RefBase {$/;"	c	namespace:android	file:
+Header	protocol/SppProtocol.cpp	/^    Header (char *data) {$/;"	f	class:android::Header
+Header	protocol/SppProtocol.cpp	/^    Header (int type, int len) {$/;"	f	class:android::Header
+Header	protocol/SppProtocol.cpp	/^class Header : public RefBase{$/;"	c	namespace:android	file:
+HilinkModule	sdk/HilinkModule.cpp	/^HilinkModule::HilinkModule(const string &name) {$/;"	f	class:android::HilinkModule
+HilinkModule	sdk/HilinkModule.h	/^class HilinkModule{$/;"	c	namespace:android
+HilinkModule_H_	sdk/HilinkModule.h	2;"	d
+HilinkServer	sdk/HilinkServer.cpp	/^HilinkServer::HilinkServer(RefBase* protocol){$/;"	f	class:android::HilinkServer
+HilinkServer	sdk/HilinkServer.h	/^class HilinkServer : public RefBase{$/;"	c	namespace:android
+IDX_SEND_2_PHONE_SERVER	ble/BleProtocol.cpp	470;"	d	file:
+ID_FILE	source/app_manager.c	1414;"	d	file:
+InCall	incall/InCall.cpp	/^InCall::InCall(){$/;"	f	class:android::InCall
+InitBtStack	ohos_bt.c	/^int InitBtStack(void)$/;"	f
+LOCAL_COPY_FILES	sdk/Build.mk	/^LOCAL_COPY_FILES := \\$/;"	m
+LOCAL_C_INCLUDES	sdk/Build.mk	/^LOCAL_C_INCLUDES := ..\/include\/protocol \\$/;"	m
+LOCAL_DEPANNER_MODULES	sdk/Build.mk	/^LOCAL_DEPANNER_MODULES := BluetoothSDK$/;"	m
+LOCAL_LDFLAGS	sdk/Build.mk	/^LOCAL_LDFLAGS := -rpath-link=$(OUT_DEVICE_SHARED_DIR)$/;"	m
+LOCAL_LDLIBS	sdk/Build.mk	/^LOCAL_LDLIBS := -lstdc++ -lrt -lpthread -lm -lc$/;"	m
+LOCAL_MODULE	sdk/Build.mk	/^LOCAL_MODULE := BluetoothSDK$/;"	m
+LOCAL_MODULE	sdk/Build.mk	/^LOCAL_MODULE = libBluetoothSDK$/;"	m
+LOCAL_MODULE_PATH	sdk/Build.mk	/^LOCAL_MODULE_PATH :=$(OUT_DEVICE_INCLUDE_DIR)$/;"	m
+LOCAL_MODULE_TAGS	sdk/Build.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	sdk/Build.mk	/^LOCAL_MODULE_TAGS :=optional$/;"	m
+LOCAL_PATH	sdk/Build.mk	/^LOCAL_PATH := $(my-dir)$/;"	m
+LOCAL_SHARED_LIBRARIES	sdk/Build.mk	/^LOCAL_SHARED_LIBRARIES := libdlog libcutils libutils$/;"	m
+LOCAL_SRC_FILES	sdk/Build.mk	/^LOCAL_SRC_FILES :=                      \\$/;"	m
+LOG_NDEBUG	ble/BleProtocol.cpp	1;"	d	file:
+LOG_NDEBUG	incall/InCall.cpp	1;"	d	file:
+LOG_NDEBUG	protocol/DBHelper.cpp	1;"	d	file:
+LOG_NDEBUG	protocol/SppProtocol.cpp	5;"	d	file:
+LOG_NDEBUG	protocol/SyncData.cpp	5;"	d	file:
+LOG_NDEBUG	protocol/SyncDataTools.cpp	5;"	d	file:
+LOG_NDEBUG	protocol/SyncModule.cpp	6;"	d	file:
+LOG_TAG	BtMain.cpp	7;"	d	file:
+LOG_TAG	ble/BleProtocol.cpp	2;"	d	file:
+LOG_TAG	incall/InCall.cpp	2;"	d	file:
+LOG_TAG	protocol/DBHelper.cpp	2;"	d	file:
+LOG_TAG	protocol/SppProtocol.cpp	6;"	d	file:
+LOG_TAG	protocol/SyncData.cpp	6;"	d	file:
+LOG_TAG	protocol/SyncDataTools.cpp	6;"	d	file:
+LOG_TAG	protocol/SyncModule.cpp	7;"	d	file:
+LOG_TAG	protocol/UnBindModule.cpp	1;"	d	file:
+LOG_TAG	sdk/BluetoothController.cpp	2;"	d	file:
+LOG_TAG	sdk/BluetoothServer.cpp	2;"	d	file:
+LOG_TAG	sdk/HilinkModule.cpp	2;"	d	file:
+LOG_TAG	sdk/HilinkServer.cpp	2;"	d	file:
+LOG_TAG	sdk/ThirdPartyModule.cpp	2;"	d	file:
+LOG_TAG	sdk/ThirdPartyServer.cpp	2;"	d	file:
+LONGDATA_CRC_LENGTH	ble/BleProtocol.cpp	18;"	d	file:
+LONGDATA_FLAG_LENGTH	ble/BleProtocol.cpp	19;"	d	file:
+MAC_ADDRESS_SIZE	protocol/SppProtocol.cpp	46;"	d	file:
+MAGENTA	source/app_common/app_utils.c	44;"	d	file:
+MANU_DATA	BtMain.cpp	/^static UINT8 MANU_DATA[] = {0x01, 0x31, 0x11, 0x22, 0x33, 0x44, 0x55, 0x66};$/;"	v	file:
+MAX_SN_LENGTH	BtMain.cpp	142;"	d	file:
+MEMBER_NUM	protocol/SppProtocol.cpp	/^    static const int MEMBER_NUM = 3;$/;"	m	class:android::ExtraHeader	file:
+MODULEMAP	sdk/HilinkServer.h	/^    typedef std::map<string, int> MODULEMAP;$/;"	t	class:android::HilinkServer
+MODULEMAP	sdk/ThirdPartyServer.h	/^    typedef std::map<string, int> MODULEMAP;$/;"	t	class:android::ThirdPartyServer
+MODULE_NAME	protocol/UnBindModule.cpp	/^static const string MODULE_NAME = "system_module";$/;"	m	namespace:android	file:
+MODULE_NAME	sdk/HilinkServer.cpp	/^static const string MODULE_NAME = "thirdparty_m";$/;"	m	namespace:android	file:
+MODULE_NAME	sdk/ThirdPartyServer.cpp	/^static const string MODULE_NAME = "thirdparty_m";$/;"	m	namespace:android	file:
+MODULE_SYSTEM	protocol/SppProtocol.cpp	/^static const string MODULE_SYSTEM = "SYSTEM";$/;"	m	namespace:android	file:
+MODULE_UNBIND	protocol/SppProtocol.cpp	/^static const string MODULE_UNBIND = "system_module";$/;"	m	namespace:android	file:
+NEG	protocol/SppProtocol.cpp	/^    static const int NEG = 0x2;$/;"	m	class:android::Header	file:
+NEG_SIZE	protocol/SppProtocol.cpp	43;"	d	file:
+NORMAL_PKG	ble/BleProtocol.cpp	/^    static const int NORMAL_PKG = 0x0;$/;"	m	class:android::Header	file:
+Neg	protocol/SppProtocol.cpp	/^    Neg(bool pass, int reason) {$/;"	f	class:android::Neg
+Neg	protocol/SppProtocol.cpp	/^    Neg(char* data) {$/;"	f	class:android::Neg
+Neg	protocol/SppProtocol.cpp	/^class Neg : public RefBase{$/;"	c	namespace:android	file:
+PCM_ALSA	source/app_avk.c	36;"	d	file:
+PKG	protocol/SppProtocol.cpp	/^    static const int PKG  = 0x0;$/;"	m	class:android::Header	file:
+PTHREAD_ENTRY	source/app_common/app_thread.c	/^typedef void *(*PTHREAD_ENTRY)(void*);$/;"	t	file:
+RED	source/app_common/app_utils.c	40;"	d	file:
+REG_ST	BtMain.cpp	/^} REG_ST;$/;"	t	typeref:enum:__anon36	file:
+REMOTE_DEVICE	sdk/BluetoothUtils.h	/^} REMOTE_DEVICE;$/;"	t	typeref:struct:__anon40
+REMOTE_DEVICE_UUID_SIZE	ble/BleProtocol.cpp	21;"	d	file:
+REMOTE_DEVICE_UUID_SIZE	protocol/SyncModule.cpp	28;"	d	file:
+RESET	source/app_common/app_utils.c	30;"	d	file:
+REVERSE	source/app_common/app_utils.c	35;"	d	file:
+RSP_DEV_NAME	BtMain.cpp	/^static UINT8 RSP_DEV_NAME[32] = "Hi-VIATON-2DDZ00";$/;"	v	file:
+ReadBtMacAddr	ohos_bt.c	/^int ReadBtMacAddr(unsigned char *mac, unsigned int len)$/;"	f
+ReadThreadFunc	sdk/BluetoothController.cpp	/^void BluetoothController::ReadThreadFunc() {$/;"	f	class:BluetoothController
+ReadThreadFunc	sdk/HilinkModule.cpp	/^void HilinkModule::ReadThreadFunc() {$/;"	f	class:android::HilinkModule
+ReadThreadFunc	sdk/ThirdPartyModule.cpp	/^void ThirdPartyModule::ReadThreadFunc(){$/;"	f	class:android::ThirdPartyModule
+ReadThreadWrapper	sdk/BluetoothController.cpp	/^void *BluetoothController::ReadThreadWrapper(void *me) {$/;"	f	class:BluetoothController
+ReadThreadWrapper	sdk/HilinkModule.cpp	/^void *HilinkModule::ReadThreadWrapper(void *me) {$/;"	f	class:android::HilinkModule
+ReadThreadWrapper	sdk/ThirdPartyModule.cpp	/^void *ThirdPartyModule::ReadThreadWrapper(void *me) {$/;"	f	class:android::ThirdPartyModule
+SERVICE_UUID128	source/app_ble_server.c	/^static UINT8 SERVICE_UUID128[MAX_UUID_SIZE] = {0x86, 0xBC, 0xFA, 0xF4, 0xD0, 0x50, 0x05, 0xA4, 0x86, 0x45, 0x4B, 0xD6, 0x03, 0xCF, 0x9E, 0xCE};$/;"	v	file:
+SI_DEVS_KEY	source/app_common/app_xml_param.c	/^	SI_DEVS_KEY,$/;"	e	enum:__anon1	file:
+SI_DEV_BDADDR_KEY	source/app_common/app_xml_param.c	/^	SI_DEV_BDADDR_KEY,$/;"	e	enum:__anon1	file:
+SI_DEV_INST_KEY	source/app_common/app_xml_param.c	/^	SI_DEV_INST_KEY,$/;"	e	enum:__anon1	file:
+SI_DEV_KEY	source/app_common/app_xml_param.c	/^	SI_DEV_KEY,$/;"	e	enum:__anon1	file:
+SI_DEV_PLATFORM_KEY	source/app_common/app_xml_param.c	/^	SI_DEV_PLATFORM_KEY,$/;"	e	enum:__anon1	file:
+SNDCTL_EXT_STOP_DMA	source/app_hs.c	86;"	d	file:
+SUCCESS	protocol/SppProtocol.cpp	/^    static const int SUCCESS = 0;$/;"	m	class:android::Neg	file:
+SetBTVisibiltiy	sdk/HilinkServer.cpp	/^void *HilinkServer::SetBTVisibiltiy( void *ptr )$/;"	f	class:android::HilinkServer
+SetBTVisibiltiy	sdk/ThirdPartyServer.cpp	/^void *ThirdPartyServer::SetBTVisibiltiy( void *ptr )$/;"	f	class:android::ThirdPartyServer
+SetDeviceName	ohos_bt.c	/^int SetDeviceName(const char *name, unsigned int len)$/;"	f
+SppProtocol	protocol/SppProtocol.cpp	/^SppProtocol::SppProtocol()$/;"	f	class:android::SppProtocol
+SppProtocol_instance	protocol/SppProtocol.cpp	/^void SppProtocol_instance(){$/;"	f
+SyncData	protocol/SyncData.cpp	/^SyncData::SyncData(){$/;"	f	class:android::SyncData
+SyncModule	protocol/SyncModule.cpp	/^SyncModule::SyncModule(const string & name, RefBase* protocol)$/;"	f	class:android::SyncModule
+THIRDPARTYMODULE_H_	sdk/ThirdPartyModule.h	2;"	d
+THIRDPARTYSERVER_H_	sdk/ThirdPartyServer.h	2;"	d
+THREAD_ARG	sdk/BluetoothServer.h	/^    struct THREAD_ARG{$/;"	s	class:android::BluetoothServer
+THREAD_ARG	sdk/HilinkServer.h	/^    struct THREAD_ARG{$/;"	s	class:android::HilinkServer
+THREAD_ARG	sdk/ThirdPartyServer.h	/^    struct THREAD_ARG{$/;"	s	class:android::ThirdPartyServer
+TIME_BEACON_KEEP_20MS_S	BtMain.cpp	303;"	d	file:
+TRUE	protocol/SyncDataTools.cpp	/^    static const int TRUE = 1;$/;"	m	class:android::SyncDataTools::Decoder	file:
+TYPE_ACK	protocol/SppProtocol.cpp	/^    static const int TYPE_ACK = 1;$/;"	m	class:android::ExtraHeader	file:
+TYPE_USER_DATA	protocol/SppProtocol.cpp	/^    static const int TYPE_USER_DATA  = 0;$/;"	m	class:android::ExtraHeader	file:
+ThirdPartyModule	sdk/ThirdPartyModule.cpp	/^ThirdPartyModule::ThirdPartyModule(const string & name)$/;"	f	class:android::ThirdPartyModule
+ThirdPartyModule	sdk/ThirdPartyModule.h	/^class ThirdPartyModule{$/;"	c	namespace:android
+ThirdPartyServer	sdk/ThirdPartyServer.cpp	/^ThirdPartyServer::ThirdPartyServer(RefBase* protocol){$/;"	f	class:android::ThirdPartyServer
+ThirdPartyServer	sdk/ThirdPartyServer.h	/^class ThirdPartyServer : public RefBase{$/;"	c	namespace:android
+UINT8	BtMain.cpp	/^typedef unsigned char   UINT8;$/;"	t	file:
+UNBIND_TYPE	protocol/SppProtocol.cpp	/^static const string UNBIND_TYPE = "unbind";$/;"	m	namespace:android	file:
+UNBIND_TYPE	protocol/UnBindModule.cpp	/^static const string UNBIND_TYPE = "unbind";$/;"	m	namespace:android	file:
+UNDERLINE	source/app_common/app_utils.c	33;"	d	file:
+UNIX_DOMAIN	sdk/BluetoothController.cpp	20;"	d	file:
+UNIX_DOMAIN	sdk/BluetoothServer.cpp	16;"	d	file:
+UNIX_DOMAIN	sdk/HilinkModule.cpp	20;"	d	file:
+UNIX_DOMAIN	sdk/HilinkServer.cpp	26;"	d	file:
+UNIX_DOMAIN	sdk/ThirdPartyModule.cpp	20;"	d	file:
+UNIX_DOMAIN	sdk/ThirdPartyServer.cpp	28;"	d	file:
+UNIX_DOMAIN	source/app_dg.c	1804;"	d	file:
+UNIX_DOMAIN	source/ingenic_oss_output.c	13;"	d	file:
+UnBindModule	protocol/UnBindModule.cpp	/^UnBindModule::UnBindModule(RefBase* protocol) : SyncModule(MODULE_NAME, protocol)$/;"	f	class:android::UnBindModule
+VENDOR_SOURCE_BT	source/app_common/app_disc.c	39;"	d	file:
+VENDOR_SOURCE_USB	source/app_common/app_disc.c	40;"	d	file:
+WHITE	source/app_common/app_utils.c	46;"	d	file:
+WHITESPACE	source/app_common/nanoxml.c	51;"	d	file:
+X	source/app_common/app_disc.c	55;"	d	file:
+X	source/app_common/app_disc.c	60;"	d	file:
+X	source/app_common/app_disc.c	71;"	d	file:
+X	source/app_common/app_disc.c	76;"	d	file:
+X	source/app_common/app_disc.c	86;"	d	file:
+X	source/app_common/app_disc.c	91;"	d	file:
+YELLOW	source/app_common/app_utils.c	42;"	d	file:
+__BLUETOOTH_UTILS_H__	sdk/BluetoothUtils.h	2;"	d
+_get_sys_dev_info	BtMain.cpp	/^static int _get_sys_dev_info(char *dev_name, char *data, off_t off) {$/;"	f	file:
+a2dp_notify_call_back	sdk/BluetoothController.cpp	/^void (*a2dp_notify_call_back)(int state) = NULL;$/;"	v
+a2dp_playback_context	source/app_av_ipc.c	/^static int a2dp_playback_context;$/;"	v	file:
+add	protocol/SyncData.cpp	/^void SyncData::add(const string & key, char* values,int size) {$/;"	f	class:android::SyncData
+addr_player_id	source/app_av.c	/^	UINT16                 addr_player_id;$/;"	m	struct:__anon20	file:
+addr_player_id	source/app_av_ipc.c	/^	UINT16                 addr_player_id;$/;"	m	struct:__anon32	file:
+agLinked	sdk/BluetoothController.cpp	/^static bool agLinked = false;$/;"	v	file:
+alsa_capture_opened	source/app_ag.c	/^static BOOLEAN alsa_capture_opened = FALSE;$/;"	v	file:
+alsa_capture_opened	source/app_hs.c	/^static BOOLEAN alsa_capture_opened = FALSE;$/;"	v	file:
+alsa_device	source/app_ag.c	/^static char *alsa_device = "default"; \/* ALSA playback device *\/$/;"	v	file:
+alsa_device	source/app_avk.c	/^static char *alsa_device = "default"; \/* ALSA playback device *\/$/;"	v	file:
+alsa_device	source/app_hs.c	/^static char *alsa_device = "default"; \/* ALSA playback device *\/$/;"	v	file:
+alsa_handle	source/app_avk.c	/^    snd_pcm_t *alsa_handle;$/;"	m	struct:__anon35	file:
+alsa_handle_capture	source/app_ag.c	/^static snd_pcm_t *alsa_handle_capture = NULL;$/;"	v	file:
+alsa_handle_capture	source/app_hs.c	/^static snd_pcm_t *alsa_handle_capture = NULL;$/;"	v	file:
+alsa_handle_playback	source/app_ag.c	/^static snd_pcm_t *alsa_handle_playback = NULL;$/;"	v	file:
+alsa_handle_playback	source/app_hs.c	/^static snd_pcm_t *alsa_handle_playback = NULL;$/;"	v	file:
+alsa_playback_opened	source/app_ag.c	/^static BOOLEAN alsa_playback_opened = FALSE;$/;"	v	file:
+alsa_playback_opened	source/app_hs.c	/^static BOOLEAN alsa_playback_opened = FALSE;$/;"	v	file:
+android	ble/BleProtocol.cpp	/^namespace android {$/;"	n	file:
+android	incall/InCall.cpp	/^namespace android {$/;"	n	file:
+android	protocol/DBHelper.cpp	/^namespace android{$/;"	n	file:
+android	protocol/SppProtocol.cpp	/^namespace android {$/;"	n	file:
+android	protocol/SyncData.cpp	/^namespace android {$/;"	n	file:
+android	protocol/SyncDataTools.cpp	/^namespace android {$/;"	n	file:
+android	protocol/SyncModule.cpp	/^namespace android {$/;"	n	file:
+android	protocol/UnBindModule.cpp	/^namespace android {$/;"	n	file:
+android	sdk/BluetoothServer.cpp	/^namespace android {$/;"	n	file:
+android	sdk/BluetoothServer.h	/^namespace android {$/;"	n
+android	sdk/HilinkModule.cpp	/^namespace android {$/;"	n	file:
+android	sdk/HilinkModule.h	/^namespace android {$/;"	n
+android	sdk/HilinkServer.cpp	/^namespace android {$/;"	n	file:
+android	sdk/HilinkServer.h	/^namespace android {$/;"	n
+android	sdk/ThirdPartyModule.cpp	/^namespace android {$/;"	n	file:
+android	sdk/ThirdPartyModule.h	/^namespace android {$/;"	n
+android	sdk/ThirdPartyServer.cpp	/^namespace android {$/;"	n	file:
+android	sdk/ThirdPartyServer.h	/^namespace android {$/;"	n
+app_acl_link	source/app_common/app_link.c	/^tAPP_ACL_LINK app_acl_link[APP_LINK_NB_MAX];$/;"	v
+app_ag_cb	source/app_ag.c	/^tAPP_AG_CB app_ag_cb;$/;"	v
+app_ag_cback	source/app_ag.c	/^void app_ag_cback(tBSA_AG_EVT event, tBSA_AG_MSG *p_data)$/;"	f
+app_ag_close	source/app_ag.c	/^tBSA_STATUS app_ag_close(void)$/;"	f
+app_ag_close_alsa_duplex	source/app_ag.c	/^int app_ag_close_alsa_duplex(void)$/;"	f
+app_ag_close_audio	source/app_ag.c	/^void app_ag_close_audio(void)$/;"	f
+app_ag_close_playing_file	source/app_ag.c	/^void app_ag_close_playing_file(void)$/;"	f
+app_ag_close_rec_file	source/app_ag.c	/^void app_ag_close_rec_file(void)$/;"	f
+app_ag_deregister	source/app_ag.c	/^tBSA_STATUS app_ag_deregister(void)$/;"	f
+app_ag_disable	source/app_ag.c	/^tBSA_STATUS app_ag_disable(void)$/;"	f
+app_ag_enable	source/app_ag.c	/^tBSA_STATUS app_ag_enable(void)$/;"	f
+app_ag_end	source/app_ag.c	/^void app_ag_end(void)$/;"	f
+app_ag_get_index_by_handle	source/app_ag.c	/^static UINT8 app_ag_get_index_by_handle(UINT16 handle)$/;"	f	file:
+app_ag_hangupcall	source/app_ag.c	/^void app_ag_hangupcall(UINT16 handle)$/;"	f
+app_ag_init	source/app_ag.c	/^void app_ag_init(void)$/;"	f
+app_ag_open	source/app_ag.c	/^int app_ag_open(BD_ADDR *bd_addr_in \/*= NULL*\/)$/;"	f
+app_ag_open_alsa_duplex	source/app_ag.c	/^int app_ag_open_alsa_duplex(void)$/;"	f
+app_ag_open_audio	source/app_ag.c	/^void app_ag_open_audio(void)$/;"	f
+app_ag_open_rec_file	source/app_ag.c	/^void app_ag_open_rec_file(char *filename)$/;"	f
+app_ag_pickupcall	source/app_ag.c	/^void app_ag_pickupcall(UINT16 handle)$/;"	f
+app_ag_play_file	source/app_ag.c	/^int app_ag_play_file(void)$/;"	f
+app_ag_play_file_thread	source/app_ag.c	/^static void  app_ag_play_file_thread(void)$/;"	f	file:
+app_ag_read_xml_remote_devices	source/app_ag.c	/^int app_ag_read_xml_remote_devices(void)$/;"	f
+app_ag_register	source/app_ag.c	/^tBSA_STATUS app_ag_register(UINT8 sco_route)$/;"	f
+app_ag_sco_out_read_file	source/app_ag.c	/^int app_ag_sco_out_read_file(void)$/;"	f
+app_ag_sco_uipc_cback	source/app_ag.c	/^void app_ag_sco_uipc_cback(BT_HDR *p_buf)$/;"	f
+app_ag_set_cback	source/app_ag.c	/^void app_ag_set_cback(tBSA_AG_CBACK pcb)$/;"	f
+app_ag_start	source/app_ag.c	/^tBSA_STATUS app_ag_start(UINT8 sco_route)$/;"	f
+app_ag_status_2_str	source/app_ag.c	/^char *app_ag_status_2_str(tBSA_STATUS status)$/;"	f
+app_ag_stop	source/app_ag.c	/^tBSA_STATUS app_ag_stop(void)$/;"	f
+app_ag_stop_play_file	source/app_ag.c	/^int app_ag_stop_play_file(void)$/;"	f
+app_ag_write_to_file	source/app_ag.c	/^int app_ag_write_to_file(UINT8 *p_buf, int size)$/;"	f
+app_av_ask_uipc_config	source/app_av.c	/^int app_av_ask_uipc_config(void)$/;"	f
+app_av_ask_uipc_config	source/app_av_ipc.c	/^int app_av_ask_uipc_config(void)$/;"	f
+app_av_build_notification_response	source/app_av.c	/^static int app_av_build_notification_response(UINT8 event_id, tBSA_AV_META_RSP_CMD *p_bsa_av_meta_rsp_cmd)$/;"	f	file:
+app_av_build_notification_response	source/app_av_ipc.c	/^static int app_av_build_notification_response(UINT8 event_id, tBSA_AV_META_RSP_CMD *p_bsa_av_meta_rsp_cmd)$/;"	f	file:
+app_av_cb	source/app_av.c	/^} app_av_cb;$/;"	v	typeref:struct:__anon22
+app_av_cb	source/app_av_ipc.c	/^} app_av_cb;$/;"	v	typeref:struct:__anon34
+app_av_cback	source/app_av.c	/^void app_av_cback(tBSA_AV_EVT event, tBSA_AV_MSG *p_data)$/;"	f
+app_av_cback	source/app_av_ipc.c	/^void app_av_cback(tBSA_AV_EVT event, tBSA_AV_MSG *p_data)$/;"	f
+app_av_change_cp	source/app_av.c	/^int app_av_change_cp(void)$/;"	f
+app_av_change_cp	source/app_av_ipc.c	/^			int app_av_change_cp(void)$/;"	f
+app_av_check_feeding	source/app_av.c	/^BOOLEAN app_av_check_feeding(const tAPP_WAV_FILE_FORMAT *p_format)$/;"	f
+app_av_check_feeding	source/app_av_ipc.c	/^BOOLEAN app_av_check_feeding(const tAPP_WAV_FILE_FORMAT *p_format)$/;"	f
+app_av_close	source/app_av.c	/^int app_av_close(void)$/;"	f
+app_av_close	source/app_av_ipc.c	/^int app_av_close(void)$/;"	f
+app_av_compute_uipc_param	source/app_av.c	/^int app_av_compute_uipc_param(tAPP_AV_UIPC *p_uipc_cfg, tBSA_AV_MEDIA_FEEDINGS *p_media_feeding)$/;"	f
+app_av_compute_uipc_param	source/app_av_ipc.c	/^int app_av_compute_uipc_param(tAPP_AV_UIPC *p_uipc_cfg, tBSA_AV_MEDIA_FEEDINGS *p_media_feeding)$/;"	f
+app_av_delay_start	source/app_av.c	/^static void app_av_delay_start(tAPP_AV_DELAY *p_delay)$/;"	f	file:
+app_av_delay_start	source/app_av_ipc.c	/^			static void app_av_delay_start(tAPP_AV_DELAY *p_delay)$/;"	f	file:
+app_av_deregister	source/app_av.c	/^int app_av_deregister(int index)$/;"	f
+app_av_deregister	source/app_av_ipc.c	/^int app_av_deregister(int index)$/;"	f
+app_av_display_connections	source/app_av.c	/^int app_av_display_connections(void)$/;"	f
+app_av_display_connections	source/app_av_ipc.c	/^int app_av_display_connections(void)$/;"	f
+app_av_display_playlist	source/app_av.c	/^int app_av_display_playlist(void)$/;"	f
+app_av_display_playlist	source/app_av_ipc.c	/^int app_av_display_playlist(void)$/;"	f
+app_av_display_vendor_command	source/app_av.c	/^static char *app_av_display_vendor_command(UINT8 command)$/;"	f	file:
+app_av_display_vendor_command	source/app_av_ipc.c	/^static char *app_av_display_vendor_command(UINT8 command)$/;"	f	file:
+app_av_end	source/app_av.c	/^int app_av_end(void)$/;"	f
+app_av_end	source/app_av_ipc.c	/^int app_av_end(void)$/;"	f
+app_av_find_connection_by_bd_addr	source/app_av.c	/^static tAPP_AV_CONNECTION *app_av_find_connection_by_bd_addr(BD_ADDR bd_addr)$/;"	f	file:
+app_av_find_connection_by_bd_addr	source/app_av_ipc.c	/^static tAPP_AV_CONNECTION *app_av_find_connection_by_bd_addr(BD_ADDR bd_addr)$/;"	f	file:
+app_av_find_connection_by_handle	source/app_av.c	/^tAPP_AV_CONNECTION *app_av_find_connection_by_handle(tBSA_AV_HNDL handle)$/;"	f
+app_av_find_connection_by_handle	source/app_av_ipc.c	/^tAPP_AV_CONNECTION *app_av_find_connection_by_handle(tBSA_AV_HNDL handle)$/;"	f
+app_av_find_connection_by_status	source/app_av.c	/^static tAPP_AV_CONNECTION *app_av_find_connection_by_status(BOOLEAN registered, BOOLEAN open)$/;"	f	file:
+app_av_find_connection_by_status	source/app_av_ipc.c	/^static tAPP_AV_CONNECTION *app_av_find_connection_by_status(BOOLEAN registered, BOOLEAN open)$/;"	f	file:
+app_av_get_current_cp_desc	source/app_av.c	/^char *app_av_get_current_cp_desc(void)$/;"	f
+app_av_get_current_cp_desc	source/app_av_ipc.c	/^			char *app_av_get_current_cp_desc(void)$/;"	f
+app_av_get_notification_string	source/app_av.c	/^char *app_av_get_notification_string(UINT8 command)$/;"	f
+app_av_get_notification_string	source/app_av_ipc.c	/^			char *app_av_get_notification_string(UINT8 command)$/;"	f
+app_av_get_play_state	source/app_av.c	/^UINT8 app_av_get_play_state()$/;"	f
+app_av_get_play_state	source/app_av_ipc.c	/^			UINT8 app_av_get_play_state()$/;"	f
+app_av_get_play_type	source/app_av.c	/^UINT8 app_av_get_play_type()$/;"	f
+app_av_get_play_type	source/app_av_ipc.c	/^			UINT8 app_av_get_play_type()$/;"	f
+app_av_get_soundfile_path	source/app_av.c	/^char *app_av_get_soundfile_path(int file_index)$/;"	f
+app_av_get_soundfile_path	source/app_av_ipc.c	/^char *app_av_get_soundfile_path(int file_index)$/;"	f
+app_av_init	source/app_av.c	/^int app_av_init(BOOLEAN boot)$/;"	f
+app_av_init	source/app_av_ipc.c	/^int app_av_init(BOOLEAN boot)$/;"	f
+app_av_init_meta_data	source/app_av.c	/^static void app_av_init_meta_data()$/;"	f	file:
+app_av_init_meta_data	source/app_av_ipc.c	/^static void app_av_init_meta_data()$/;"	f	file:
+app_av_is_connect	source/app_av.c	/^int app_av_is_connect(){$/;"	f
+app_av_is_event_registered	source/app_av.c	/^BOOLEAN app_av_is_event_registered(UINT8 event_id)$/;"	f
+app_av_is_event_registered	source/app_av_ipc.c	/^BOOLEAN app_av_is_event_registered(UINT8 event_id)$/;"	f
+app_av_is_padding_acceptable	source/app_av.c	/^BOOLEAN app_av_is_padding_acceptable(int length, tBSA_AV_MEDIA_FEEDINGS *p_media_feeding)$/;"	f
+app_av_is_padding_acceptable	source/app_av_ipc.c	/^BOOLEAN app_av_is_padding_acceptable(int length, tBSA_AV_MEDIA_FEEDINGS *p_media_feeding)$/;"	f
+app_av_linkdn_notify	source/app_av.c	/^void app_av_linkdn_notify() {$/;"	f
+app_av_notify_cback	sdk/BluetoothServer.cpp	/^void BluetoothServer::app_av_notify_cback(int state) {$/;"	f	class:android::BluetoothServer
+app_av_open	source/app_av.c	/^int app_av_open(BD_ADDR *bd_addr_in)$/;"	f
+app_av_open	source/app_av_ipc.c	/^int app_av_open(BD_ADDR *bd_addr_in)$/;"	f
+app_av_pause	source/app_av.c	/^int app_av_pause(void)$/;"	f
+app_av_pause	source/app_av_ipc.c	/^int app_av_pause(void)$/;"	f
+app_av_play_file	source/app_av.c	/^int app_av_play_file(void)$/;"	f
+app_av_play_file	source/app_av_ipc.c	/^int app_av_play_file(void)$/;"	f
+app_av_play_from_avk	source/app_av.c	/^int app_av_play_from_avk()$/;"	f
+app_av_play_from_avk	source/app_av_ipc.c	/^int app_av_play_from_avk()$/;"	f
+app_av_play_mic	source/app_av.c	/^int app_av_play_mic(void){$/;"	f
+app_av_play_mic	source/app_av_ipc.c	/^int app_av_play_mic(void){$/;"	f
+app_av_play_playlist	source/app_av.c	/^int app_av_play_playlist(UINT8 command)$/;"	f
+app_av_play_playlist	source/app_av_ipc.c	/^int app_av_play_playlist(UINT8 command)$/;"	f
+app_av_play_tone	source/app_av.c	/^int app_av_play_tone(void)$/;"	f
+app_av_play_tone	source/app_av_ipc.c	/^int app_av_play_tone(void)$/;"	f
+app_av_rc_addressed_player_change	source/app_av.c	/^void app_av_rc_addressed_player_change(UINT16 addr_player)$/;"	f
+app_av_rc_addressed_player_change	source/app_av_ipc.c	/^void app_av_rc_addressed_player_change(UINT16 addr_player)$/;"	f
+app_av_rc_change_path_meta_response	source/app_av.c	/^int app_av_rc_change_path_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_change_path_meta_response	source/app_av_ipc.c	/^int app_av_rc_change_path_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_change_play_status	source/app_av.c	/^void app_av_rc_change_play_status(UINT8 new_play_status)$/;"	f
+app_av_rc_change_play_status	source/app_av_ipc.c	/^void app_av_rc_change_play_status(UINT8 new_play_status)$/;"	f
+app_av_rc_change_track	source/app_av.c	/^void app_av_rc_change_track()$/;"	f
+app_av_rc_change_track	source/app_av_ipc.c	/^void app_av_rc_change_track()$/;"	f
+app_av_rc_close	source/app_av.c	/^int app_av_rc_close(int index)$/;"	f
+app_av_rc_close	source/app_av_ipc.c	/^int app_av_rc_close(int index)$/;"	f
+app_av_rc_complete_notification	source/app_av.c	/^void app_av_rc_complete_notification(UINT8 event_id)$/;"	f
+app_av_rc_complete_notification	source/app_av_ipc.c	/^void app_av_rc_complete_notification(UINT8 event_id)$/;"	f
+app_av_rc_get_folder_items	source/app_av.c	/^int app_av_rc_get_folder_items(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_get_folder_items	source/app_av_ipc.c	/^int app_av_rc_get_folder_items(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_get_item_attr_meta_response	source/app_av.c	/^int app_av_rc_get_item_attr_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_get_item_attr_meta_response	source/app_av_ipc.c	/^int app_av_rc_get_item_attr_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_play_item_meta_response	source/app_av.c	/^int app_av_rc_play_item_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_play_item_meta_response	source/app_av_ipc.c	/^int app_av_rc_play_item_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_register_notifications	source/app_av.c	/^int app_av_rc_register_notifications(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_register_notifications	source/app_av_ipc.c	/^int app_av_rc_register_notifications(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_send_absolute_volume_vd_command	source/app_av.c	/^int app_av_rc_send_absolute_volume_vd_command(int index, int volume)$/;"	f
+app_av_rc_send_absolute_volume_vd_command	source/app_av_ipc.c	/^int app_av_rc_send_absolute_volume_vd_command(int index, int volume)$/;"	f
+app_av_rc_send_command	source/app_av.c	/^int app_av_rc_send_command(int index, int command)$/;"	f
+app_av_rc_send_command	source/app_av_ipc.c	/^int app_av_rc_send_command(int index, int command)$/;"	f
+app_av_rc_send_get_element_attributes_meta_response	source/app_av.c	/^int app_av_rc_send_get_element_attributes_meta_response(int index)$/;"	f
+app_av_rc_send_get_element_attributes_meta_response	source/app_av_ipc.c	/^int app_av_rc_send_get_element_attributes_meta_response(int index)$/;"	f
+app_av_rc_send_get_element_attributes_vd_command	source/app_av.c	/^int app_av_rc_send_get_element_attributes_vd_command(int index)$/;"	f
+app_av_rc_send_get_element_attributes_vd_command	source/app_av_ipc.c	/^int app_av_rc_send_get_element_attributes_vd_command(int index)$/;"	f
+app_av_rc_send_get_element_attributes_vd_response	source/app_av.c	/^int app_av_rc_send_get_element_attributes_vd_response(int index)$/;"	f
+app_av_rc_send_get_element_attributes_vd_response	source/app_av_ipc.c	/^int app_av_rc_send_get_element_attributes_vd_response(int index)$/;"	f
+app_av_rc_send_play_status_meta_response	source/app_av.c	/^int app_av_rc_send_play_status_meta_response(int index)$/;"	f
+app_av_rc_send_play_status_meta_response	source/app_av_ipc.c	/^int app_av_rc_send_play_status_meta_response(int index)$/;"	f
+app_av_rc_set_addr_player_meta_response	source/app_av.c	/^int app_av_rc_set_addr_player_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_set_addr_player_meta_response	source/app_av_ipc.c	/^int app_av_rc_set_addr_player_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_set_browsed_player_meta_response	source/app_av.c	/^int app_av_rc_set_browsed_player_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_set_browsed_player_meta_response	source/app_av_ipc.c	/^int app_av_rc_set_browsed_player_meta_response(int index, tBSA_AV_META_MSG_MSG *pMetaMsg)$/;"	f
+app_av_rc_settings_change	source/app_av.c	/^void app_av_rc_settings_change(UINT8 setting, UINT8 value)$/;"	f
+app_av_rc_settings_change	source/app_av_ipc.c	/^void app_av_rc_settings_change(UINT8 setting, UINT8 value)$/;"	f
+app_av_read_test	source/app_av.c	/^void app_av_read_test(short * pOut, int nb_bytes)$/;"	f
+app_av_read_test	source/app_av_ipc.c	/^void app_av_read_test(short * pOut, int nb_bytes)$/;"	f
+app_av_read_tone	source/app_av.c	/^void app_av_read_tone(short * pOut, int nb_bytes, UINT8 sinus_type, UINT8 *p_sinus_index)$/;"	f
+app_av_read_tone	source/app_av_ipc.c	/^void app_av_read_tone(short * pOut, int nb_bytes, UINT8 sinus_type, UINT8 *p_sinus_index)$/;"	f
+app_av_register	source/app_av.c	/^int app_av_register(void)$/;"	f
+app_av_register	source/app_av_ipc.c	/^int app_av_register(void)$/;"	f
+app_av_resume	source/app_av.c	/^int app_av_resume(void)$/;"	f
+app_av_resume	source/app_av_ipc.c	/^int app_av_resume(void)$/;"	f
+app_av_set_busy_level	source/app_av.c	/^int app_av_set_busy_level(UINT8 level)$/;"	f
+app_av_set_busy_level	source/app_av_ipc.c	/^			int app_av_set_busy_level(UINT8 level)$/;"	f
+app_av_set_cback	source/app_av.c	/^void app_av_set_cback(tAvCallback pcb)$/;"	f
+app_av_set_cback	source/app_av_ipc.c	/^			void app_av_set_cback(tAvCallback pcb)$/;"	f
+app_av_set_notify_cb	source/app_av.c	/^void app_av_set_notify_cb(void (*app_av_notify_cb)(int state)) {$/;"	f
+app_av_set_tone_sample_frequency	source/app_av.c	/^void app_av_set_tone_sample_frequency(UINT16 sample_freq)$/;"	f
+app_av_set_tone_sample_frequency	source/app_av_ipc.c	/^void app_av_set_tone_sample_frequency(UINT16 sample_freq)$/;"	f
+app_av_socket_connect	source/app_av.c	/^void app_av_socket_connect()$/;"	f
+app_av_stop	source/app_av.c	/^int app_av_stop(void)$/;"	f
+app_av_stop	source/app_av_ipc.c	/^int app_av_stop(void)$/;"	f
+app_av_stop_current	source/app_av.c	/^static int app_av_stop_current(void)$/;"	f	file:
+app_av_stop_current	source/app_av_ipc.c	/^static int app_av_stop_current(void)$/;"	f	file:
+app_av_test_sec_codec	source/app_av.c	/^int app_av_test_sec_codec(BOOLEAN use_prev_samp_freq)$/;"	f
+app_av_test_sec_codec	source/app_av_ipc.c	/^			int app_av_test_sec_codec(BOOLEAN use_prev_samp_freq)$/;"	f
+app_av_toggle_tone	source/app_av.c	/^void app_av_toggle_tone(void)$/;"	f
+app_av_toggle_tone	source/app_av_ipc.c	/^void app_av_toggle_tone(void)$/;"	f
+app_av_uipc_reconfig	source/app_av.c	/^static int app_av_uipc_reconfig(void)$/;"	f	file:
+app_av_uipc_reconfig	source/app_av_ipc.c	/^static int app_av_uipc_reconfig(void)$/;"	f	file:
+app_av_wait_delay	source/app_av.c	/^void app_av_wait_delay(int count, tAPP_AV_DELAY *p_delay, tAPP_AV_UIPC *p_uipc_cfg)$/;"	f
+app_av_wait_delay	source/app_av_ipc.c	/^				void app_av_wait_delay(int count, tAPP_AV_DELAY *p_delay, tAPP_AV_UIPC *p_uipc_cfg)$/;"	f
+app_avk_cancel	source/app_avk.c	/^void app_avk_cancel()$/;"	f
+app_avk_cb	source/app_avk.c	/^tAPP_AVK_CB app_avk_cb;$/;"	v
+app_avk_cback	source/app_avk.c	/^static void app_avk_cback(tBSA_AVK_EVT event, tBSA_AVK_MSG *p_data)$/;"	f	file:
+app_avk_close	source/app_avk.c	/^void app_avk_close(void)$/;"	f
+app_avk_close_rc	source/app_avk.c	/^void app_avk_close_rc()$/;"	f
+app_avk_close_wave_file	source/app_avk.c	/^static void app_avk_close_wave_file(void)$/;"	f	file:
+app_avk_create_aac_file	source/app_avk.c	/^static void app_avk_create_aac_file(void)$/;"	f	file:
+app_avk_create_wave_file	source/app_avk.c	/^static void app_avk_create_wave_file(void)$/;"	f	file:
+app_avk_deregister	source/app_avk.c	/^void app_avk_deregister(void)$/;"	f
+app_avk_end	source/app_avk.c	/^void app_avk_end(void)$/;"	f
+app_avk_handle_start	source/app_avk.c	/^static void app_avk_handle_start(tBSA_AVK_MSG *p_data)$/;"	f	file:
+app_avk_init	source/app_avk.c	/^int app_avk_init(tAvkCallback pcb)$/;"	f
+app_avk_open	source/app_avk.c	/^void app_avk_open(void)$/;"	f
+app_avk_open_rc	source/app_avk.c	/^void app_avk_open_rc(void)$/;"	f
+app_avk_play_next_track	source/app_avk.c	/^void app_avk_play_next_track(void)$/;"	f
+app_avk_play_pause	source/app_avk.c	/^void app_avk_play_pause(void)$/;"	f
+app_avk_play_previous_track	source/app_avk.c	/^void app_avk_play_previous_track(void)$/;"	f
+app_avk_play_start	source/app_avk.c	/^void app_avk_play_start(void)$/;"	f
+app_avk_play_stop	source/app_avk.c	/^void app_avk_play_stop(void)$/;"	f
+app_avk_rc_abs_volume_down	source/app_avk.c	/^void app_avk_rc_abs_volume_down(void)$/;"	f
+app_avk_rc_abs_volume_up	source/app_avk.c	/^void app_avk_rc_abs_volume_up(void)$/;"	f
+app_avk_rc_add_to_play	source/app_avk.c	/^void app_avk_rc_add_to_play(UINT8  scope, tAVRC_UID  uid, UINT16  uid_counter)$/;"	f
+app_avk_rc_change_path_command	source/app_avk.c	/^void app_avk_rc_change_path_command(UINT16   uid_counter, UINT8  direction, tAVRC_UID folder_uid)$/;"	f
+app_avk_rc_cmd	source/app_avk.c	/^void app_avk_rc_cmd(void)$/;"	f
+app_avk_rc_command_thread	source/app_av.c	/^static void app_avk_rc_command_thread(void)$/;"	f	file:
+app_avk_rc_command_thread	source/app_av_ipc.c	/^static void app_avk_rc_command_thread(void)$/;"	f	file:
+app_avk_rc_get_element_attr_command	source/app_avk.c	/^void app_avk_rc_get_element_attr_command()$/;"	f
+app_avk_rc_get_folder_items	source/app_avk.c	/^void app_avk_rc_get_folder_items(UINT8  scope, UINT32  start_item, UINT32  end_item)$/;"	f
+app_avk_rc_get_items_attr	source/app_avk.c	/^void app_avk_rc_get_items_attr(UINT8  scope, tAVRC_UID  uid, UINT16  uid_counter)$/;"	f
+app_avk_rc_get_play_status_command	source/app_avk.c	/^void app_avk_rc_get_play_status_command()$/;"	f
+app_avk_rc_get_player_value_command	source/app_avk.c	/^void app_avk_rc_get_player_value_command(UINT8 *attrs, UINT8 num_attr)$/;"	f
+app_avk_rc_list_player_attr_command	source/app_avk.c	/^void app_avk_rc_list_player_attr_command()$/;"	f
+app_avk_rc_list_player_attr_value_command	source/app_avk.c	/^void app_avk_rc_list_player_attr_value_command(UINT8 attr)$/;"	f
+app_avk_rc_play_item	source/app_avk.c	/^void app_avk_rc_play_item(UINT8  scope, tAVRC_UID  uid, UINT16  uid_counter)$/;"	f
+app_avk_rc_send_click	source/app_avk.c	/^void app_avk_rc_send_click(UINT8 command)$/;"	f
+app_avk_rc_send_command	source/app_avk.c	/^void app_avk_rc_send_command(UINT8 key_state, UINT8 command)$/;"	f
+app_avk_rc_set_addressed_player_command	source/app_avk.c	/^void app_avk_rc_set_addressed_player_command(UINT16  player_id)$/;"	f
+app_avk_rc_set_browsed_player_command	source/app_avk.c	/^void app_avk_rc_set_browsed_player_command(UINT16  player_id)$/;"	f
+app_avk_rc_set_player_value_command	source/app_avk.c	/^void app_avk_rc_set_player_value_command(UINT8 num_attr, UINT8 *attr_ids, UINT8 * attr_val)$/;"	f
+app_avk_reg_notfn_rsp	source/app_avk.c	/^void app_avk_reg_notfn_rsp(UINT8 volume, UINT8 rc_handle, UINT8 label, UINT8 event,$/;"	f
+app_avk_register	source/app_avk.c	/^int app_avk_register(void)$/;"	f
+app_avk_send_delay_report	source/app_avk.c	/^void app_avk_send_delay_report(UINT16 delay)$/;"	f
+app_avk_send_get_capabilities	source/app_avk.c	/^void app_avk_send_get_capabilities(void)$/;"	f
+app_avk_send_get_element_attributes_cmd	source/app_avk.c	/^void app_avk_send_get_element_attributes_cmd(void)$/;"	f
+app_avk_send_register_notification	source/app_avk.c	/^void app_avk_send_register_notification(int evt)$/;"	f
+app_avk_set_abs_vol_rsp	source/app_avk.c	/^void app_avk_set_abs_vol_rsp(UINT8 volume, UINT8 rc_handle, UINT8 label)$/;"	f
+app_avk_start	source/app_avk.c	/^void app_avk_start(void)$/;"	f
+app_avk_stop	source/app_avk.c	/^void app_avk_stop(BOOLEAN suspend)$/;"	f
+app_avk_uipc_cback	source/app_avk.c	/^static void app_avk_uipc_cback(BT_HDR *p_msg)$/;"	f	file:
+app_ble_cb	source/app_ble.c	/^tAPP_BLE_CB app_ble_cb;$/;"	v
+app_ble_config_adv_data	source/app_ble_server.c	/^int app_ble_config_adv_data(void) {$/;"	f
+app_ble_display_service_name	source/app_ble.c	/^char *app_ble_display_service_name(UINT16 uuid)$/;"	f
+app_ble_exit	source/app_ble.c	/^int app_ble_exit(void)$/;"	f
+app_ble_init	source/app_ble.c	/^int app_ble_init(void)$/;"	f
+app_ble_server_add_char	source/app_ble_server.c	/^int app_ble_server_add_char(int server_id, int server_num, UINT8* charac_uuid, int properties, int permissions)$/;"	f
+app_ble_server_close	source/app_ble_server.c	/^int app_ble_server_close(void) {$/;"	f
+app_ble_server_create_service	source/app_ble_server.c	/^int app_ble_server_create_service(int server_num, UINT8* service_uuid, bool is_primary, int number) {$/;"	f
+app_ble_server_deregister	source/app_ble_server.c	/^int app_ble_server_deregister(void) {$/;"	f
+app_ble_server_display	source/app_ble_server.c	/^void app_ble_server_display(void) {$/;"	f
+app_ble_server_find_free_attr	source/app_ble_server.c	/^int app_ble_server_find_free_attr(UINT16 server) {$/;"	f
+app_ble_server_find_free_server	source/app_ble_server.c	/^int app_ble_server_find_free_server(void) {$/;"	f
+app_ble_server_find_index_by_conn_id	source/app_ble_server.c	/^int app_ble_server_find_index_by_conn_id(UINT16 conn_id) {$/;"	f
+app_ble_server_find_index_by_interface	source/app_ble_server.c	/^int app_ble_server_find_index_by_interface(tBSA_BLE_IF if_num) {$/;"	f
+app_ble_server_find_reg_pending_index	source/app_ble_server.c	/^int app_ble_server_find_reg_pending_index(void) {$/;"	f
+app_ble_server_open	source/app_ble_server.c	/^int app_ble_server_open(void) {$/;"	f
+app_ble_server_profile_cback	source/app_ble_server.c	/^void app_ble_server_profile_cback(tBSA_BLE_EVT event, tBSA_BLE_MSG *p_data) {$/;"	f
+app_ble_server_register	source/app_ble_server.c	/^int app_ble_server_register(UINT16 uuid, tBSA_BLE_CBACK *p_cback) {$/;"	f
+app_ble_server_register_connectstate_cback	source/app_ble_server.c	/^void app_ble_server_register_connectstate_cback(void (*onConnectionStateChange)(char *add, int state)) {$/;"	f
+app_ble_server_register_write_cback	source/app_ble_server.c	/^int app_ble_server_register_write_cback(void (*receiveWriteRequestCback)(char *addr, int conn_id, char *data, int size)) {$/;"	f
+app_ble_server_send_indication	source/app_ble_server.c	/^int app_ble_server_send_indication(int conn_id, char *indication, int size) {$/;"	f
+app_ble_server_start_service	source/app_ble_server.c	/^int app_ble_server_start_service(int server_id, int num) {$/;"	f
+app_ble_start	source/app_ble.c	/^int app_ble_start(void)$/;"	f
+app_ble_wake_configure	source/app_ble.c	/^int app_ble_wake_configure(void)$/;"	f
+app_create_thread	source/app_common/app_thread.c	/^int app_create_thread(APP_THREAD_ENTRY task_entry, UINT16 *stack, UINT16 stacksize, tAPP_THREAD *p_thread)$/;"	f
+app_delete_mutex	source/app_common/app_mutex.c	/^int app_delete_mutex(tAPP_MUTEX *p_mutex)$/;"	f
+app_dg_any_connections	source/app_dg.c	/^BOOLEAN app_dg_any_connections()$/;"	f
+app_dg_cb	source/app_dg.c	/^tAPP_DG_CB app_dg_cb;$/;"	v
+app_dg_cback	source/app_dg.c	/^void app_dg_cback(tBSA_DG_EVT event, tBSA_DG_MSG *p_data)$/;"	f
+app_dg_close	source/app_dg.c	/^int  app_dg_close(int connection)$/;"	f
+app_dg_close_socket	source/app_dg.c	/^void app_dg_close_socket(int connection){$/;"	f
+app_dg_close_tty	source/app_dg.c	/^void app_dg_close_tty(int connection)$/;"	f
+app_dg_con_alloc	source/app_dg.c	/^int app_dg_con_alloc(void)$/;"	f
+app_dg_con_display	source/app_dg.c	/^void app_dg_con_display(void)$/;"	f
+app_dg_con_display_debug	source/app_dg.c	/^void app_dg_con_display_debug(void)$/;"	f
+app_dg_con_free	source/app_dg.c	/^void app_dg_con_free(int connection)$/;"	f
+app_dg_con_free_all	source/app_dg.c	/^void app_dg_con_free_all(void)$/;"	f
+app_dg_con_get_from_handle	source/app_dg.c	/^int app_dg_con_get_from_handle(tBSA_DG_HNDL handle, BOOLEAN *p_is_server)$/;"	f
+app_dg_con_get_from_uipc	source/app_dg.c	/^int app_dg_con_get_from_uipc(tUIPC_CH_ID channel_id)$/;"	f
+app_dg_find_service	source/app_dg.c	/^int app_dg_find_service(void)$/;"	f
+app_dg_find_service_evt	source/app_dg.c	/^void app_dg_find_service_evt(tBSA_DG_MSG *p_data)$/;"	f
+app_dg_get_srv_desc	source/app_dg.c	/^char *app_dg_get_srv_desc(tBSA_SERVICE_ID service)$/;"	f
+app_dg_init	source/app_dg.c	/^int app_dg_init(void)$/;"	f
+app_dg_listen	source/app_dg.c	/^int app_dg_listen(void)$/;"	f
+app_dg_loopback_toggle	source/app_dg.c	/^void app_dg_loopback_toggle(void)$/;"	f
+app_dg_open	source/app_dg.c	/^int app_dg_open()$/;"	f
+app_dg_open_ex	source/app_dg.c	/^int app_dg_open_ex(int single_conn_only)$/;"	f
+app_dg_open_socket	source/app_dg.c	/^int app_dg_open_socket(int connection){$/;"	f
+app_dg_open_tty	source/app_dg.c	/^int app_dg_open_tty(int connection)$/;"	f
+app_dg_read	source/app_dg.c	/^int app_dg_read(int connection)$/;"	f
+app_dg_read_proc	source/app_dg.c	/^void * app_dg_read_proc(void *data)$/;"	f
+app_dg_register_data_cback	source/app_dg.c	/^int app_dg_register_data_cback(void *user, void (*receiveSppDataCback)(void *user, int conn_id, char * data, int size)){$/;"	f
+app_dg_register_link_state_cback	source/app_dg.c	/^int app_dg_register_link_state_cback(void *user, void (*linkStateCback)(void *user,int con_id, BOOLEAN linked,char * remote_addr, int size)){$/;"	f
+app_dg_rx_close_evt	source/app_dg.c	/^void app_dg_rx_close_evt(tBSA_DG_MSG *p_data)$/;"	f
+app_dg_rx_open_evt	source/app_dg.c	/^void app_dg_rx_open_evt(tBSA_DG_MSG *p_data)$/;"	f
+app_dg_send	source/app_dg.c	/^int app_dg_send(int connection, char * data, int nBytes)$/;"	f
+app_dg_send_data	source/app_dg.c	/^int app_dg_send_data(int connection)$/;"	f
+app_dg_send_file	source/app_dg.c	/^int app_dg_send_file(char * p_file_name, int connection)$/;"	f
+app_dg_sendbuf	source/app_dg.c	/^int app_dg_sendbuf(int connection, BT_HDR *p_msg)$/;"	f
+app_dg_sendto_socket	source/app_dg.c	/^void app_dg_sendto_socket(char * rx_buffer,int length,int connection)$/;"	f
+app_dg_sendto_vtty	source/app_dg.c	/^void app_dg_sendto_vtty(char * rx_buffer,int length,int connection)$/;"	f
+app_dg_shutdown	source/app_dg.c	/^int app_dg_shutdown(int connection)$/;"	f
+app_dg_socket_proc	source/app_dg.c	/^void * app_dg_socket_proc(void *data)$/;"	f
+app_dg_start	source/app_dg.c	/^int app_dg_start(void)$/;"	f
+app_dg_stop	source/app_dg.c	/^int app_dg_stop(void)$/;"	f
+app_dg_tx_mutex	source/app_dg.c	/^	tAPP_MUTEX app_dg_tx_mutex[APP_DG_NB_CON_MAX];$/;"	m	struct:__anon24	file:
+app_dg_uipc_cback	source/app_dg.c	/^void app_dg_uipc_cback(BT_HDR *p_msg)$/;"	f
+app_disc_abort	source/app_common/app_disc.c	/^int app_disc_abort(void)$/;"	f
+app_disc_address_type_desc	source/app_common/app_disc.c	/^char *app_disc_address_type_desc(UINT8 device_type)$/;"	f
+app_disc_cb	source/app_common/app_disc.c	/^tAPP_DISC_CB app_disc_cb;$/;"	v
+app_disc_cback	sdk/BluetoothServer.cpp	/^void BluetoothServer::app_disc_cback(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+app_disc_cback	source/app_manager.c	/^void app_disc_cback(tBSA_DISC_EVT event, tBSA_DISC_MSG *p_data){$/;"	f
+app_disc_device_type_desc	source/app_common/app_disc.c	/^char *app_disc_device_type_desc(UINT8 device_type)$/;"	f
+app_disc_display_devices	source/app_common/app_disc.c	/^void app_disc_display_devices(void)$/;"	f
+app_disc_find_device	source/app_common/app_disc.c	/^tBSA_DISC_DEV *app_disc_find_device(BD_ADDR bda)$/;"	f
+app_disc_get_uuid16_desc	source/app_common/app_disc.c	/^static char *app_disc_get_uuid16_desc(UINT16 uuid16)$/;"	f	file:
+app_disc_inquiry_type_desc	source/app_common/app_disc.c	/^char *app_disc_inquiry_type_desc(UINT8 device_type)$/;"	f
+app_disc_parse_eir	source/app_common/app_disc.c	/^void app_disc_parse_eir(UINT8 *p_eir)$/;"	f
+app_disc_parse_eir_3d	source/app_common/app_disc.c	/^static void app_disc_parse_eir_3d(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_ble_appearance	source/app_common/app_disc.c	/^static void app_disc_parse_eir_ble_appearance(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_device_id	source/app_common/app_disc.c	/^static void app_disc_parse_eir_device_id(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_flags	source/app_common/app_disc.c	/^static void app_disc_parse_eir_flags(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_manuf_specific	source/app_common/app_disc.c	/^static void app_disc_parse_eir_manuf_specific(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_name	source/app_common/app_disc.c	/^static void app_disc_parse_eir_name(char *p_type, UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_tx_power	source/app_common/app_disc.c	/^static void app_disc_parse_eir_tx_power(UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_uuid128	source/app_common/app_disc.c	/^static void app_disc_parse_eir_uuid128(char *p_type, UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_uuid16	source/app_common/app_disc.c	/^static void app_disc_parse_eir_uuid16(char *p_type, UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_parse_eir_uuid32	source/app_common/app_disc.c	/^static void app_disc_parse_eir_uuid32(char *p_type, UINT8 *p_eir, UINT8 data_length)$/;"	f	file:
+app_disc_read_remote_device_name	source/app_common/app_disc.c	/^int app_disc_read_remote_device_name(BD_ADDR bd_addr,tBSA_TRANSPORT transport)$/;"	f
+app_disc_service_cback	source/app_dg.c	/^static void app_disc_service_cback(tBSA_DISC_EVT event, tBSA_DISC_MSG *p_data)$/;"	f	file:
+app_disc_set_nb_devices	source/app_common/app_disc.c	/^int app_disc_set_nb_devices(int nb_devices)$/;"	f
+app_disc_start_bdaddr	source/app_common/app_disc.c	/^int app_disc_start_bdaddr(BD_ADDR bd_addr, BOOLEAN name_req,$/;"	f
+app_disc_start_bdaddr_services	source/app_common/app_disc.c	/^int app_disc_start_bdaddr_services(BD_ADDR bd_addr,$/;"	f
+app_disc_start_ble_regular	source/app_common/app_disc.c	/^int app_disc_start_ble_regular(tBSA_DISC_CBACK *p_custom_disc_cback)$/;"	f
+app_disc_start_brcm_filter_cod	source/app_common/app_disc.c	/^int app_disc_start_brcm_filter_cod(tBSA_DISC_BRCM_FILTER brcm_filter,$/;"	f
+app_disc_start_cod	source/app_common/app_disc.c	/^int app_disc_start_cod(unsigned short services, unsigned char major, unsigned char minor,$/;"	f
+app_disc_start_dev_info	source/app_common/app_disc.c	/^int app_disc_start_dev_info(BD_ADDR bd_addr, tBSA_DISC_CBACK *p_custom_disc_cback)$/;"	f
+app_disc_start_limited	source/app_common/app_disc.c	/^int app_disc_start_limited(void)$/;"	f
+app_disc_start_power	source/app_common/app_disc.c	/^int app_disc_start_power(INT8 inq_tx_power)$/;"	f
+app_disc_start_regular	source/app_common/app_disc.c	/^int app_disc_start_regular(tBSA_DISC_CBACK *p_custom_disc_cback, int duration)$/;"	f
+app_disc_start_services	source/app_common/app_disc.c	/^int app_disc_start_services(tBSA_SERVICE_MASK services)$/;"	f
+app_disc_start_update	source/app_common/app_disc.c	/^int app_disc_start_update(tBSA_DISC_UPDATE update)$/;"	f
+app_discovery_cb	source/app_common/app_disc.c	/^tAPP_DISCOVERY_CB app_discovery_cb;$/;"	v
+app_dm_ensure_ble_visibility	source/app_common/app_dm.c	/^int app_dm_ensure_ble_visibility(void){$/;"	f
+app_dm_get_ble_adv_param	source/app_common/app_dm.c	/^int app_dm_get_ble_adv_param(void)$/;"	f
+app_dm_get_ble_visibility	source/app_common/app_dm.c	/^BOOLEAN app_dm_get_ble_visibility(void){$/;"	f
+app_dm_get_chip_id	source/app_common/app_dm.c	/^int app_dm_get_chip_id(void)$/;"	f
+app_dm_get_dual_stack_mode	source/app_common/app_dm.c	/^int app_dm_get_dual_stack_mode(void)$/;"	f
+app_dm_get_local_bt_config	source/app_common/app_dm.c	/^int app_dm_get_local_bt_config(void)$/;"	f
+app_dm_monitor_rssi	source/app_common/app_dm.c	/^int app_dm_monitor_rssi(BOOLEAN enable, UINT16 period)$/;"	f
+app_dm_set_ble_adv_data	source/app_common/app_dm.c	/^int app_dm_set_ble_adv_data(tBSA_DM_BLE_ADV_CONFIG *p_data)$/;"	f
+app_dm_set_ble_adv_param	source/app_common/app_dm.c	/^int app_dm_set_ble_adv_param(tBSA_DM_BLE_ADV_PARAM *p_req)$/;"	f
+app_dm_set_ble_bg_conn_type	source/app_common/app_dm.c	/^int app_dm_set_ble_bg_conn_type(int type)$/;"	f
+app_dm_set_ble_conn_param	source/app_common/app_dm.c	/^int app_dm_set_ble_conn_param(tBSA_DM_BLE_CONN_PARAM *p_req)$/;"	f
+app_dm_set_ble_local_privacy	source/app_common/app_dm.c	/^int app_dm_set_ble_local_privacy(BOOLEAN privacy_enable)$/;"	f
+app_dm_set_ble_scan_param	source/app_common/app_dm.c	/^int app_dm_set_ble_scan_param(UINT16 interval, UINT16 window)$/;"	f
+app_dm_set_ble_visibility	source/app_common/app_dm.c	/^int app_dm_set_ble_visibility(BOOLEAN discoverable, BOOLEAN connectable)$/;"	f
+app_dm_set_channel_map	source/app_common/app_dm.c	/^int app_dm_set_channel_map(int first_afh_ch, int last_afh_ch)$/;"	f
+app_dm_set_device_class	source/app_common/app_dm.c	/^int app_dm_set_device_class(UINT16 services, UINT8 major, UINT8 minor)$/;"	f
+app_dm_set_dual_stack_mode	source/app_common/app_dm.c	/^int app_dm_set_dual_stack_mode(tBSA_DM_DUAL_STACK_MODE dual_stack_mode)$/;"	f
+app_dm_set_inquiry_scan_param	source/app_common/app_dm.c	/^int app_dm_set_inquiry_scan_param(UINT16 interval, UINT16 window)$/;"	f
+app_dm_set_local_bt_config	source/app_common/app_dm.c	/^int app_dm_set_local_bt_config(BOOLEAN enable)$/;"	f
+app_dm_set_page_scan_param	source/app_common/app_dm.c	/^int app_dm_set_page_scan_param(UINT16 interval, UINT16 window)$/;"	f
+app_dm_set_tx_class	source/app_common/app_dm.c	/^int app_dm_set_tx_class(UINT8 tx_power)$/;"	f
+app_dm_set_visibility	source/app_common/app_dm.c	/^int app_dm_set_visibility(BOOLEAN discoverable, BOOLEAN connectable)$/;"	f
+app_file_size	source/app_common/app_utils.c	/^int app_file_size(int fd)$/;"	f
+app_generic_disc_cback	source/app_common/app_disc.c	/^void app_generic_disc_cback(tBSA_DISC_EVT event, tBSA_DISC_MSG *p_data)$/;"	f
+app_get_choice	source/app_common/app_utils.c	/^int app_get_choice(const char *querystring)$/;"	f
+app_get_cod_string	source/app_common/app_utils.c	/^char *app_get_cod_string(const DEV_CLASS class_of_device)$/;"	f
+app_get_dev_platform	source/app_common/app_disc.c	/^static UINT8 app_get_dev_platform(UINT16 vendor, UINT16 vendor_id_source)$/;"	f	file:
+app_get_string	source/app_common/app_utils.c	/^int app_get_string(const char *querystring, char *str, int len)$/;"	f
+app_get_time_stamp	source/app_common/app_utils.c	/^static char *app_get_time_stamp(char *p_buffer, int buffer_size)$/;"	f	file:
+app_getlinked_cback	sdk/BluetoothServer.cpp	/^void BluetoothServer::app_getlinked_cback(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+app_getlinking_cback	sdk/BluetoothServer.cpp	/^void BluetoothServer::app_getlinking_cback(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+app_hex_char	source/app_common/app_utils.c	/^UINT8 app_hex_char(UINT8 c)$/;"	f
+app_hex_convert	source/app_common/app_utils.c	/^int app_hex_convert(UINT8 *p_type, UINT16 *p_offset, UINT8 *p_data, UINT16 *p_len)$/;"	f
+app_hex_read	source/app_common/app_utils.c	/^int app_hex_read(FILE *p_file, UINT8 *p_type, UINT16 *p_offset, UINT8 *p_data, UINT16 *p_len)$/;"	f
+app_hs_answer_call	source/app_hs.c	/^int app_hs_answer_call(void)$/;"	f
+app_hs_audio_close	source/app_hs.c	/^int app_hs_audio_close(void)$/;"	f
+app_hs_audio_open	source/app_hs.c	/^int app_hs_audio_open(void)$/;"	f
+app_hs_call_ind_name	source/app_hs.c	/^const char *app_hs_call_ind_name[] =$/;"	v
+app_hs_callheld_ind_name	source/app_hs.c	/^const char *app_hs_callheld_ind_name[] =$/;"	v
+app_hs_callsetup_ind_name	source/app_hs.c	/^const char *app_hs_callsetup_ind_name[] =$/;"	v
+app_hs_cancel	source/app_hs.c	/^int app_hs_cancel(void)$/;"	f
+app_hs_cb	source/app_hs.c	/^tAPP_HS_CB  app_hs_cb;$/;"	v
+app_hs_cback	source/app_hs.c	/^void app_hs_cback(tBSA_HS_EVT event, tBSA_HS_MSG *p_data)$/;"	f
+app_hs_close	source/app_hs.c	/^int app_hs_close(void)$/;"	f
+app_hs_close_alsa_duplex	source/app_hs.c	/^int app_hs_close_alsa_duplex(void)$/;"	f
+app_hs_close_rec_file	source/app_hs.c	/^void app_hs_close_rec_file(void)$/;"	f
+app_hs_decode_indicator_string	source/app_hs.c	/^static void app_hs_decode_indicator_string(tBSA_HS_CONN_CB *p_conn, char * ind)$/;"	f	file:
+app_hs_dial_num	source/app_hs.c	/^int app_hs_dial_num(const char *num)$/;"	f
+app_hs_enable	source/app_hs.c	/^int app_hs_enable(void)$/;"	f
+app_hs_find_indicator_id	source/app_hs.c	/^static UINT8 app_hs_find_indicator_id(char * ind, char * field)$/;"	f	file:
+app_hs_get_conn_by_handle	source/app_hs.c	/^static tBSA_HS_CONN_CB *app_hs_get_conn_by_handle(UINT16 handle)$/;"	f	file:
+app_hs_get_default_conn	source/app_hs.c	/^tBSA_HS_CONN_CB *app_hs_get_default_conn()$/;"	f
+app_hs_getallIndicatorValues	source/app_hs.c	/^int app_hs_getallIndicatorValues(tBSA_HS_IND_VALS *pIndVals)$/;"	f
+app_hs_hangup	source/app_hs.c	/^int app_hs_hangup(void)$/;"	f
+app_hs_hold_call	source/app_hs.c	/^int app_hs_hold_call(tBSA_BTHF_CHLD_TYPE_T type)$/;"	f
+app_hs_init	source/app_hs.c	/^void app_hs_init(void)$/;"	f
+app_hs_last_num_dial	source/app_hs.c	/^int app_hs_last_num_dial(void)$/;"	f
+app_hs_mute_unmute_microphone	source/app_hs.c	/^int app_hs_mute_unmute_microphone(BOOLEAN bMute)$/;"	f
+app_hs_open	source/app_hs.c	/^int app_hs_open(BD_ADDR *bd_addr_in \/*= NULL*\/)$/;"	f
+app_hs_open_alsa_duplex	source/app_hs.c	/^int app_hs_open_alsa_duplex(void)$/;"	f
+app_hs_open_rec_file	source/app_hs.c	/^void app_hs_open_rec_file(char * filename)$/;"	f
+app_hs_play_file	source/app_hs.c	/^int app_hs_play_file(char * filename)$/;"	f
+app_hs_read_xml_remote_devices	source/app_hs.c	/^int app_hs_read_xml_remote_devices(void)$/;"	f
+app_hs_register	source/app_hs.c	/^int app_hs_register(void)$/;"	f
+app_hs_roam_ind_name	source/app_hs.c	/^const char *app_hs_roam_ind_name[] =$/;"	v
+app_hs_sco_uipc_cback	source/app_hs.c	/^static void app_hs_sco_uipc_cback(BT_HDR *p_buf)$/;"	f	file:
+app_hs_send_clcc_cmd	source/app_hs.c	/^int app_hs_send_clcc_cmd()$/;"	f
+app_hs_send_cnum	source/app_hs.c	/^int app_hs_send_cnum(void)$/;"	f
+app_hs_send_cops_cmd	source/app_hs.c	/^int app_hs_send_cops_cmd(char *cCmd)$/;"	f
+app_hs_send_dtmf	source/app_hs.c	/^int app_hs_send_dtmf(char dtmf)$/;"	f
+app_hs_send_ind_cmd	source/app_hs.c	/^int app_hs_send_ind_cmd()$/;"	f
+app_hs_send_keypress_evt	source/app_hs.c	/^int app_hs_send_keypress_evt(char *cCmd)$/;"	f
+app_hs_send_unat	source/app_hs.c	/^int app_hs_send_unat(char *cCmd)$/;"	f
+app_hs_service_ind_name	source/app_hs.c	/^const char *app_hs_service_ind_name[] =$/;"	v
+app_hs_set_initial_indicator_status	source/app_hs.c	/^static void app_hs_set_initial_indicator_status(tBSA_HS_CONN_CB *p_conn, char * ind)$/;"	f	file:
+app_hs_set_volume	source/app_hs.c	/^int app_hs_set_volume(tBSA_BTHF_VOLUME_TYPE_T type, int volume)$/;"	f
+app_hs_start	source/app_hs.c	/^int app_hs_start(tHsCallback cb)$/;"	f
+app_hs_start_voice_recognition	source/app_hs.c	/^int app_hs_start_voice_recognition(void)$/;"	f
+app_hs_stop	source/app_hs.c	/^void app_hs_stop(void)$/;"	f
+app_hs_stop_voice_recognition	source/app_hs.c	/^int app_hs_stop_voice_recognition(void)$/;"	f
+app_hs_write_to_file	source/app_hs.c	/^static int app_hs_write_to_file(UINT8 *p_buf, int size)$/;"	f	file:
+app_init_mutex	source/app_common/app_mutex.c	/^int app_init_mutex(tAPP_MUTEX *p_mutex)$/;"	f
+app_init_playlist	source/app_av.c	/^int app_init_playlist(char *path)$/;"	f
+app_init_playlist	source/app_av_ipc.c	/^int app_init_playlist(char *path)$/;"	f
+app_is_open_pending	source/app_hs.c	/^BOOLEAN app_is_open_pending()$/;"	f
+app_link_add	source/app_common/app_link.c	/^int app_link_add(BD_ADDR bd_addr, UINT8 *p_class_of_device)$/;"	f
+app_link_display	source/app_common/app_link.c	/^void app_link_display(void)$/;"	f
+app_link_find_by_addr	source/app_common/app_link.c	/^static tAPP_ACL_LINK *app_link_find_by_addr(const BD_ADDR bd_addr)$/;"	f	file:
+app_link_find_by_cod	source/app_common/app_link.c	/^int app_link_find_by_cod(const UINT8 *p_cod, const UINT8 *p_cod_mask)$/;"	f
+app_link_get_bd_addr_from_index	source/app_common/app_link.c	/^int app_link_get_bd_addr_from_index(int index, BD_ADDR bd_addr)$/;"	f
+app_link_get_cod	source/app_common/app_link.c	/^int app_link_get_cod(BD_ADDR bd_addr, UINT8 *p_class_of_device)$/;"	f
+app_link_get_num_active	source/app_common/app_link.c	/^int app_link_get_num_active(void)$/;"	f
+app_link_get_suspended	source/app_common/app_link.c	/^int app_link_get_suspended(BD_ADDR bd_addr)$/;"	f
+app_link_remove	source/app_common/app_link.c	/^int app_link_remove(BD_ADDR bd_addr)$/;"	f
+app_link_set_suspended	source/app_common/app_link.c	/^int app_link_set_suspended(BD_ADDR bd_addr, BOOLEAN suspended)$/;"	f
+app_link_transport_type_desc	source/app_common/app_link.c	/^char *app_link_transport_type_desc(tBSA_TRANSPORT link_type)$/;"	f
+app_lock_mutex	source/app_common/app_mutex.c	/^int app_lock_mutex(tAPP_MUTEX *p_mutex)$/;"	f
+app_mgr_cb	source/app_manager.c	/^tAPP_MGR_CB app_mgr_cb;$/;"	v
+app_mgr_change_dual_stack_mode	source/app_manager.c	/^int app_mgr_change_dual_stack_mode(void)$/;"	f
+app_mgr_config	source/app_manager.c	/^int app_mgr_config(char* bt_name)$/;"	f
+app_mgr_del_linked_devices	source/app_manager.c	/^int app_mgr_del_linked_devices(const BD_ADDR addr)$/;"	f
+app_mgr_di_discovery	source/app_manager.c	/^int app_mgr_di_discovery(void)$/;"	f
+app_mgr_discovery_test	source/app_manager.c	/^int app_mgr_discovery_test(void)$/;"	f
+app_mgr_get_addr	source/app_manager.c	/^int app_mgr_get_addr(char * addr)$/;"	f
+app_mgr_get_bleName	source/app_manager.c	/^int app_mgr_get_bleName(char * name)$/;"	f
+app_mgr_get_ble_name	source/app_ble_server.c	/^int app_mgr_get_ble_name(char *ble_name, int len) {$/;"	f
+app_mgr_get_bt_config	source/app_manager.c	/^int app_mgr_get_bt_config(void)$/;"	f
+app_mgr_get_bt_name	source/app_manager.c	/^int app_mgr_get_bt_name(BD_ADDR bd_addr, BD_NAME *bd_name)$/;"	f
+app_mgr_get_bt_services	source/app_manager.c	/^int app_mgr_get_bt_services(BD_ADDR bd_addr, unsigned char *bd_type)$/;"	f
+app_mgr_get_dev_av_bt_addr	source/app_manager.c	/^int app_mgr_get_dev_av_bt_addr(BD_ADDR bd_addr)$/;"	f
+app_mgr_get_dual_stack_mode_desc	source/app_manager.c	/^char *app_mgr_get_dual_stack_mode_desc(void)$/;"	f
+app_mgr_get_linked_devices	source/app_manager.c	/^int app_mgr_get_linked_devices(void (*appGetLinkedCback)(int event, tAPP_DISC_MSG* p_data), int duration)$/;"	f
+app_mgr_get_linking_btname	source/app_manager.c	/^int app_mgr_get_linking_btname(tLINKING_DEVICE *linking_dev) {$/;"	f
+app_mgr_get_linking_devices	source/app_manager.c	/^int app_mgr_get_linking_devices(void (*appGetLinkingCback)(int event, tAPP_DISC_MSG* p_data), int duration)$/;"	f
+app_mgr_local_oob_evt_data	source/app_manager.c	/^void app_mgr_local_oob_evt_data(tBSA_SEC_LOCAL_OOB_MSG* p_data)$/;"	f
+app_mgr_mgt_callback	ohos_bt.c	/^static BOOLEAN app_mgr_mgt_callback(tBSA_MGT_EVT event, tBSA_MGT_MSG *p_data)$/;"	f	file:
+app_mgr_mgt_callback	source/app_unit.c	/^static BOOLEAN app_mgr_mgt_callback(tBSA_MGT_EVT event, tBSA_MGT_MSG *p_data)$/;"	f	file:
+app_mgr_read_config	source/app_manager.c	/^int app_mgr_read_config(void)$/;"	f
+app_mgr_read_oob_data	source/app_manager.c	/^void app_mgr_read_oob_data()$/;"	f
+app_mgr_read_remote_devices	source/app_manager.c	/^int app_mgr_read_remote_devices(void)$/;"	f
+app_mgr_read_version	source/app_manager.c	/^int app_mgr_read_version(void)$/;"	f
+app_mgr_remove_device	source/app_manager.c	/^int app_mgr_remove_device(BD_ADDR bd_addr)$/;"	f
+app_mgr_sec_bond	source/app_manager.c	/^int app_mgr_sec_bond(const char* bd_name)$/;"	f
+app_mgr_sec_bond_cancel	source/app_manager.c	/^int app_mgr_sec_bond_cancel(void)$/;"	f
+app_mgr_sec_set_security	source/app_manager.c	/^int app_mgr_sec_set_security(void)$/;"	f
+app_mgr_sec_set_sp_cap	source/app_manager.c	/^int app_mgr_sec_set_sp_cap(tBSA_SEC_IO_CAP sp_cap)$/;"	f
+app_mgr_sec_unpair	source/app_manager.c	/^int app_mgr_sec_unpair(const char* bd_name)$/;"	f
+app_mgr_sec_unpair_addr	source/app_manager.c	/^int app_mgr_sec_unpair_addr(BD_ADDR bd_addr)$/;"	f
+app_mgr_security_callback	source/app_manager.c	/^void app_mgr_security_callback(tBSA_SEC_EVT event, tBSA_SEC_MSG *p_data)$/;"	f
+app_mgr_send_passkey	source/app_manager.c	/^void app_mgr_send_passkey(UINT32 passkey)$/;"	f
+app_mgr_send_pincode	source/app_manager.c	/^void app_mgr_send_pincode(tBSA_SEC_PIN_CODE_REPLY pin_code_reply)$/;"	f
+app_mgr_set_ble_name	source/app_ble_server.c	/^int app_mgr_set_ble_name(char *ble_name, int len) {$/;"	f
+app_mgr_set_bt_config	source/app_manager.c	/^int app_mgr_set_bt_config(BOOLEAN enable)$/;"	f
+app_mgr_set_connectable	source/app_manager.c	/^void app_mgr_set_connectable(void)$/;"	f
+app_mgr_set_discoverable	source/app_manager.c	/^void app_mgr_set_discoverable(void)$/;"	f
+app_mgr_set_link_policy	source/app_manager.c	/^void app_mgr_set_link_policy(BD_ADDR bd_addr, tBSA_DM_LP_MASK policy_mask, BOOLEAN set)$/;"	f
+app_mgr_set_non_connectable	source/app_manager.c	/^void app_mgr_set_non_connectable(void)$/;"	f
+app_mgr_set_non_discoverable	source/app_manager.c	/^void app_mgr_set_non_discoverable(void)$/;"	f
+app_mgr_set_remote_oob	source/app_manager.c	/^void app_mgr_set_remote_oob()$/;"	f
+app_mgr_sp_cfm_reply	source/app_manager.c	/^int app_mgr_sp_cfm_reply(BOOLEAN accept, BD_ADDR bd_addr)$/;"	f
+app_mgr_start_discovery	source/app_manager.c	/^int app_mgr_start_discovery(void (*appDiscCback)(int event, tAPP_DISC_MSG* p_data), int duration, int type){$/;"	f
+app_mgr_write_config	source/app_manager.c	/^int app_mgr_write_config(void)$/;"	f
+app_mgr_write_remote_devices	source/app_manager.c	/^int app_mgr_write_remote_devices(void)$/;"	f
+app_mgt_cb	source/app_common/app_mgt.c	/^} app_mgt_cb;$/;"	v	typeref:struct:__anon8
+app_mgt_close	source/app_common/app_mgt.c	/^int app_mgt_close(void)$/;"	f
+app_mgt_generic_callback	source/app_common/app_mgt.c	/^static void app_mgt_generic_callback(tBSA_MGT_EVT event, tBSA_MGT_MSG *p_data)$/;"	f	file:
+app_mgt_init	source/app_common/app_mgt.c	/^int app_mgt_init(void)$/;"	f
+app_mgt_kill_server	source/app_common/app_mgt.c	/^int app_mgt_kill_server(void)$/;"	f
+app_mgt_open	source/app_common/app_mgt.c	/^int app_mgt_open(const char *p_uipc_path, tAPP_MGT_CUSTOM_CBACK *p_mgt_callback)$/;"	f
+app_playlist_create	source/app_common/app_playlist.c	/^int app_playlist_create(const char *p_path, char ***ppp_playlist)$/;"	f
+app_playlist_file_supported	source/app_common/app_playlist.c	/^static BOOLEAN app_playlist_file_supported(const char *p_fname)$/;"	f	file:
+app_playlist_free	source/app_common/app_playlist.c	/^void app_playlist_free(char **pp_playlist)$/;"	f
+app_playlist_sort	source/app_common/app_playlist.c	/^void app_playlist_sort(char **pp_playlist, int nb_entry)$/;"	f
+app_print_debug	source/app_common/app_utils.c	/^void app_print_debug(char *format, ...)$/;"	f
+app_print_error	source/app_common/app_utils.c	/^void app_print_error(char *format, ...)$/;"	f
+app_print_info	source/app_common/app_utils.c	/^void app_print_info(char *format, ...)$/;"	f
+app_read_xml_config	source/app_common/app_xml_utils.c	/^int app_read_xml_config(tAPP_XML_CONFIG *p_xml_config)$/;"	f
+app_read_xml_remote_devices	source/app_common/app_xml_utils.c	/^int app_read_xml_remote_devices(void)$/;"	f
+app_read_xml_si_devices	source/app_common/app_xml_utils.c	/^int app_read_xml_si_devices(void)$/;"	f
+app_sec_db_addr	source/app_manager.c	/^BD_ADDR                 app_sec_db_addr;    \/* BdAddr of peer device requesting SP *\/$/;"	v
+app_service_id_to_string	source/app_common/app_services.c	/^const char *app_service_id_to_string(tBSA_SERVICE_ID serviceId)$/;"	f
+app_service_mask_to_string	source/app_common/app_services.c	/^char *app_service_mask_to_string(tBSA_SERVICE_MASK serviceMask)$/;"	f
+app_set_adv_param_thread	BtMain.cpp	/^void app_set_adv_param_thread(void) {$/;"	f
+app_set_trace_color	source/app_common/app_utils.c	/^static void app_set_trace_color(int attribute, int foreground, int background)$/;"	f	file:
+app_stop_thread	source/app_common/app_thread.c	/^int app_stop_thread(tAPP_THREAD thread)$/;"	f
+app_stream_tx_mutex	source/app_av.c	/^tAPP_MUTEX app_stream_tx_mutex;$/;"	v
+app_stream_tx_mutex	source/app_av_ipc.c	/^tAPP_MUTEX app_stream_tx_mutex;$/;"	v
+app_strncat	source/app_common/app_disc.c	/^int app_strncat(char *p_dest, int dest_size, int index, char *p_src)$/;"	f
+app_uipc_tx_thread	source/app_av.c	/^static void app_uipc_tx_thread(void)$/;"	f	file:
+app_uipc_tx_thread	source/app_av_ipc.c	/^static void app_uipc_tx_thread(void)$/;"	f	file:
+app_uipc_tx_thread_struct	source/app_av.c	/^tAPP_THREAD app_uipc_tx_thread_struct;$/;"	v
+app_uipc_tx_thread_struct	source/app_av_ipc.c	/^tAPP_THREAD app_uipc_tx_thread_struct;$/;"	v
+app_unlock_mutex	source/app_common/app_mutex.c	/^int app_unlock_mutex(tAPP_MUTEX *p_mutex)$/;"	f
+app_vendor_apple	source/app_common/app_disc.c	/^static tAPP_VENDOR app_vendor_apple[APP_VENDOR_APPLE_COUNT] =$/;"	v	file:
+app_wav_cb	source/app_common/app_wav.c	/^tAPP_WAV_CB app_wav_cb =$/;"	v
+app_wav_close_file	source/app_common/app_wav.c	/^void app_wav_close_file(int fd, const tAPP_WAV_FILE_FORMAT *p_format)$/;"	f
+app_wav_create_file	source/app_common/app_wav.c	/^int app_wav_create_file(const char *p_fname, int flags)$/;"	f
+app_wav_format	source/app_common/app_wav.c	/^int app_wav_format(const char *p_fname, tAPP_WAV_FILE_FORMAT *p_format)$/;"	f
+app_wav_hdr	source/app_common/app_wav.c	/^const unsigned char app_wav_hdr[APP_WAVE_HDR_SIZE] =$/;"	v
+app_wav_open_file	source/app_common/app_wav.c	/^int app_wav_open_file(const char *p_fname, tAPP_WAV_FILE_FORMAT *p_format)$/;"	f
+app_wav_read_data	source/app_common/app_wav.c	/^int app_wav_read_data(int fd, const tAPP_WAV_FILE_FORMAT *p_format, char *p_data, int len)$/;"	f
+app_write_xml_config	source/app_common/app_xml_utils.c	/^int app_write_xml_config(const tAPP_XML_CONFIG *p_xml_config)$/;"	f
+app_write_xml_remote_devices	source/app_common/app_xml_utils.c	/^int app_write_xml_remote_devices(void)$/;"	f
+app_write_xml_si_devices	source/app_common/app_xml_utils.c	/^int app_write_xml_si_devices(void)$/;"	f
+app_xml_add_dev_db	source/app_common/app_xml_param.c	/^int app_xml_add_dev_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_add_si_dev_db	source/app_common/app_xml_param.c	/^tAPP_XML_SI_DEVICE *app_xml_add_si_dev_db(tAPP_XML_SI_DEVICE *p_stored_device_db,$/;"	f
+app_xml_add_trusted_services_db	source/app_common/app_xml_param.c	/^int app_xml_add_trusted_services_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_close_tag	source/app_common/app_xml_utils.c	/^int app_xml_close_tag(int fd, const char *tag, BOOLEAN cr)$/;"	f
+app_xml_conf_attrBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_conf_attrBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_conf_attrValueCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_conf_attrValueCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_conf_dataCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_conf_dataCallbackFunc(nxml_t handle, const char *data,$/;"	f	file:
+app_xml_conf_tagBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_conf_tagBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_conf_tagEndCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_conf_tagEndCallbackFunc(nxml_t handle, const char *tagName,$/;"	f	file:
+app_xml_config	source/app_manager.c	/^tAPP_XML_CONFIG         app_xml_config;$/;"	v
+app_xml_del_same_services_db	source/app_common/app_xml_param.c	/^int app_xml_del_same_services_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_dev_db_attrBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_dev_db_attrBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_dev_db_attrValueCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_dev_db_attrValueCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_dev_db_dataCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_dev_db_dataCallbackFunc(nxml_t handle, const char *data,$/;"	f	file:
+app_xml_dev_db_tagBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_dev_db_tagBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_dev_db_tagEndCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_dev_db_tagEndCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_display_devices	source/app_common/app_xml_param.c	/^int app_xml_display_devices(const tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_find_dev_db	source/app_common/app_xml_param.c	/^tAPP_XML_REM_DEVICE *app_xml_find_dev_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_get_cod_from_bd	source/app_common/app_xml_utils.c	/^int app_xml_get_cod_from_bd(BD_ADDR bd_addr, DEV_CLASS* p_cod)$/;"	f
+app_xml_init	source/app_common/app_xml_param.c	/^int app_xml_init(void)$/;"	f
+app_xml_is_device_index_valid	source/app_common/app_xml_utils.c	/^int app_xml_is_device_index_valid(int index)$/;"	f
+app_xml_open_close_tag_with_value	source/app_common/app_xml_utils.c	/^int app_xml_open_close_tag_with_value(int fd, char *tag, int value)$/;"	f
+app_xml_open_tag	source/app_common/app_xml_utils.c	/^int app_xml_open_tag(int fd, const char *tag, BOOLEAN cr)$/;"	f
+app_xml_open_tag_with_value	source/app_common/app_xml_utils.c	/^int app_xml_open_tag_with_value(int fd, char *tag, int value)$/;"	f
+app_xml_param_cb	source/app_common/app_xml_param.c	/^tAPP_XML_PARAM_CB app_xml_param_cb;$/;"	v
+app_xml_read_cfg	source/app_common/app_xml_param.c	/^int app_xml_read_cfg(const char *p_fname, tAPP_XML_CONFIG *p_xml_config)$/;"	f
+app_xml_read_data	source/app_common/app_xml_utils.c	/^char *app_xml_read_data(unsigned int *p_datalen, const char *p_buf, unsigned int length)$/;"	f
+app_xml_read_data_length	source/app_common/app_xml_utils.c	/^BOOLEAN app_xml_read_data_length(void *p_data, unsigned int datalen, const char *p_buf, unsigned int length)$/;"	f
+app_xml_read_db	source/app_common/app_xml_param.c	/^int app_xml_read_db(const char *p_fname, tAPP_XML_REM_DEVICE *p_xml_rem_devices,$/;"	f
+app_xml_read_si_db	source/app_common/app_xml_param.c	/^int app_xml_read_si_db(const char *p_fname, tAPP_XML_SI_DEVICE *p_xml_si_devices,$/;"	f
+app_xml_read_string	source/app_common/app_xml_utils.c	/^int app_xml_read_string(void *p_string, int stringlen, const char *p_buf, int length)$/;"	f
+app_xml_read_value	source/app_common/app_xml_utils.c	/^int app_xml_read_value(const char *p_buf, int length)$/;"	f
+app_xml_remote_devices_db	source/app_common/app_xml_utils.c	/^tAPP_XML_REM_DEVICE app_xml_remote_devices_db[APP_MAX_NB_REMOTE_STORED_DEVICES];$/;"	v
+app_xml_si_dev_db_attrBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_si_dev_db_attrBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_si_dev_db_attrValueCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_si_dev_db_attrValueCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_si_dev_db_dataCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_si_dev_db_dataCallbackFunc(nxml_t handle, const char *data,$/;"	f	file:
+app_xml_si_dev_db_tagBeginCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_si_dev_db_tagBeginCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_si_dev_db_tagEndCallbackFunc	source/app_common/app_xml_param.c	/^static void app_xml_si_dev_db_tagEndCallbackFunc(nxml_t handle,$/;"	f	file:
+app_xml_si_devices_db	source/app_common/app_xml_utils.c	/^tAPP_XML_SI_DEVICE app_xml_si_devices_db[APP_MAX_SI_DEVICES];$/;"	v
+app_xml_update_ble_addr_type_db	source/app_common/app_xml_param.c	/^int app_xml_update_ble_addr_type_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_ble_key_db	source/app_common/app_xml_param.c	/^int app_xml_update_ble_key_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_cod_db	source/app_common/app_xml_param.c	/^int app_xml_update_cod_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_device_type_db	source/app_common/app_xml_param.c	/^int app_xml_update_device_type_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_features_db	source/app_common/app_xml_param.c	/^int app_xml_update_features_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_inq_result_type_db	source/app_common/app_xml_param.c	/^int app_xml_update_inq_result_type_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_key_db	source/app_common/app_xml_param.c	/^int app_xml_update_key_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_lmp_version_db	source/app_common/app_xml_param.c	/^int app_xml_update_lmp_version_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_name_db	source/app_common/app_xml_param.c	/^int app_xml_update_name_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_pidvid_db	source/app_common/app_xml_param.c	/^int app_xml_update_pidvid_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_si_dev_platform_db	source/app_common/app_xml_param.c	/^int app_xml_update_si_dev_platform_db(tAPP_XML_SI_DEVICE *p_stored_device_db,$/;"	f
+app_xml_update_version_db	source/app_common/app_xml_param.c	/^int app_xml_update_version_db(tAPP_XML_REM_DEVICE *p_stored_device_db,$/;"	f
+app_xml_write_cfg	source/app_common/app_xml_param.c	/^int app_xml_write_cfg(const char *p_fname, const tAPP_XML_CONFIG *p_xml_config)$/;"	f
+app_xml_write_data	source/app_common/app_xml_utils.c	/^int app_xml_write_data(int fd, const void *p_buf, unsigned int length, BOOLEAN cr)$/;"	f
+app_xml_write_db	source/app_common/app_xml_param.c	/^int app_xml_write_db(const char *p_fname, const tAPP_XML_REM_DEVICE *p_xml_rem_devices, int devices_max)$/;"	f
+app_xml_write_si_db	source/app_common/app_xml_param.c	/^int app_xml_write_si_db(const char *p_fname, const tAPP_XML_SI_DEVICE *p_xml_si_devices,$/;"	f
+aptx_caps	source/app_av.c	/^const tBSA_AV_CODEC_INFO aptx_caps =$/;"	v
+aptx_caps	source/app_av_ipc.c	/^const tBSA_AV_CODEC_INFO aptx_caps =$/;"	v
+attr_count	source/app_av.c	/^	UINT8               attr_count;     \/* The number of attributes in p_attr_list *\/$/;"	m	struct:__anon13	file:
+attr_count	source/app_av_ipc.c	/^	UINT8               attr_count;     \/* The number of attributes in p_attr_list *\/$/;"	m	struct:__anon25	file:
+attr_id_num	source/app_ble_server.c	/^static int attr_id_num[] = {0, 0, 0};$/;"	v	file:
+attr_id_num	source/app_ble_server.c	/^static int attr_id_num[] = {0};$/;"	v	file:
+attr_settings	source/app_av.c	/^	tBSA_AV_META_ATTRIB_SETTINGS attr_settings[2];$/;"	m	struct:__anon16	file:
+attr_settings	source/app_av_ipc.c	/^	tBSA_AV_META_ATTRIB_SETTINGS attr_settings[2];$/;"	m	struct:__anon28	file:
+attrib_id	source/app_av.c	/^	UINT8   attrib_id;$/;"	m	struct:__anon16	file:
+attrib_id	source/app_av_ipc.c	/^	UINT8   attrib_id;$/;"	m	struct:__anon28	file:
+attrib_str	source/app_av.c	/^	UINT8   attrib_str[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon16	file:
+attrib_str	source/app_av_ipc.c	/^	UINT8   attrib_str[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon28	file:
+audio_buf	source/app_av.c	/^	short audio_buf[APP_AV_MAX_AUDIO_BUF_MAX];$/;"	m	struct:__anon22	file:
+audio_buf	source/app_av_ipc.c	/^	short audio_buf[APP_AV_MAX_AUDIO_BUF_MAX];$/;"	m	struct:__anon34	file:
+audio_buf	source/app_hs.c	/^    short              audio_buf[APP_HS_MAX_AUDIO_BUF];$/;"	m	struct:__anon12	file:
+avLinkDn	sdk/BluetoothController.cpp	/^static bool avLinkDn = false;$/;"	v	file:
+avLinkDnWait	sdk/BluetoothController.cpp	/^static bool avLinkDnWait = false;$/;"	v	file:
+avLinkUp	sdk/BluetoothController.cpp	/^static bool avLinkUp = false;$/;"	v	file:
+avLinkWait	sdk/BluetoothController.cpp	/^static bool avLinkWait = false;$/;"	v	file:
+avSetNotify	sdk/BluetoothServer.cpp	/^void BluetoothServer::avSetNotify(int client_fd, int notify) {$/;"	f	class:android::BluetoothServer
+avk_is_open	source/app_avk.c	/^BOOLEAN avk_is_open(BD_ADDR bda)$/;"	f
+avk_is_open_pending	source/app_avk.c	/^BOOLEAN avk_is_open_pending()$/;"	f
+avk_is_rc_open	source/app_avk.c	/^BOOLEAN avk_is_rc_open()$/;"	f
+avk_is_started	source/app_avk.c	/^BOOLEAN avk_is_started()$/;"	f
+avk_last_open_status	source/app_avk.c	/^tBSA_STATUS avk_last_open_status()$/;"	f
+avk_set_open_pending	source/app_avk.c	/^void avk_set_open_pending(BOOLEAN bopenpend)$/;"	f
+bat_stat	source/app_av.c	/^	UINT8   bat_stat;$/;"	m	struct:__anon19	file:
+bat_stat	source/app_av_ipc.c	/^	UINT8   bat_stat;$/;"	m	struct:__anon31	file:
+bd_addr	sdk/BluetoothUtils.h	/^    BD_ADDR bd_addr; \/* Bluetooth address peer device. *\/$/;"	m	struct:__anon40
+bd_addr	source/app_common/app_link.c	/^    BD_ADDR bd_addr;$/;"	m	struct:__anon10	file:
+bd_addr	source/app_dg.c	/^	BD_ADDR bd_addr;$/;"	m	struct:__anon23	file:
+bd_type	sdk/BluetoothUtils.h	/^    unsigned char bd_type;$/;"	m	struct:__anon40
+bda_connected	source/app_avk.c	/^    BD_ADDR bda_connected;$/;"	m	struct:__anon35	file:
+beacon_ble_adv_enable	BtMain.cpp	/^void beacon_ble_adv_enable(REG_ST st) {$/;"	f
+beacon_intv_settimes	BtMain.cpp	/^unsigned int beacon_intv_settimes = 0;$/;"	v
+beacon_set_adv_param	BtMain.cpp	/^void beacon_set_adv_param(UINT16 para) {$/;"	f
+beacon_set_ble_scanrsp_data	BtMain.cpp	/^void beacon_set_ble_scanrsp_data(void) {$/;"	f
+bit_per_sample	source/app_avk.c	/^    UINT8 bit_per_sample;$/;"	m	struct:__anon35	file:
+bk_ble_beacon_state	BtMain.cpp	/^static int bk_ble_beacon_state=-1;$/;"	v	file:
+bk_ble_beacon_state	source/app_unit.c	/^static int bk_ble_beacon_state=-1;$/;"	v	file:
+bklinkup_dev	source/app_manager.c	/^tBSA_SEC_LINK_UP bklinkup_dev;$/;"	v
+ble_appearance_desc	source/app_common/app_disc.c	/^static tAPP_DISC_APPEARANCE_DESC ble_appearance_desc[]=$/;"	v	file:
+ble_beacon_on_off	BtMain.cpp	/^static int ble_beacon_on_off = 0;$/;"	v	file:
+ble_beacon_on_off	source/app_unit.c	/^static int ble_beacon_on_off = 0;$/;"	v	file:
+ble_beacon_state	source/app_common/app_dm.c	/^static BOOLEAN ble_beacon_state = 0;$/;"	v	file:
+ble_cback	BtMain.cpp	/^BtGattServerCallbacks ble_cback = {$/;"	v
+browsed_player_id	source/app_av.c	/^	UINT16                 browsed_player_id;$/;"	m	struct:__anon20	file:
+browsed_player_id	source/app_av_ipc.c	/^	UINT16                 browsed_player_id;$/;"	m	struct:__anon32	file:
+bsa_av_player1_file	source/app_av.c	/^tBSA_ITEM_PLAYER bsa_av_player1_file =$/;"	v
+bsa_av_player1_file	source/app_av_ipc.c	/^tBSA_ITEM_PLAYER bsa_av_player1_file =$/;"	v
+bsa_av_player2_media_player	source/app_av.c	/^tBSA_ITEM_PLAYER bsa_av_player2_media_player =$/;"	v
+bsa_av_player2_media_player	source/app_av_ipc.c	/^tBSA_ITEM_PLAYER bsa_av_player2_media_player =$/;"	v
+bsa_av_players	source/app_av.c	/^tBSA_ITEM_PLAYER * bsa_av_players [] =$/;"	v
+bsa_av_players	source/app_av_ipc.c	/^tBSA_ITEM_PLAYER * bsa_av_players [] =$/;"	v
+bsa_av_songs	source/app_av.c	/^tBSA_APP_ITEM_MEDIA * bsa_av_songs[] =$/;"	v
+bsa_av_songs	source/app_av_ipc.c	/^tBSA_APP_ITEM_MEDIA * bsa_av_songs[] =$/;"	v
+bsa_sec_set_remote_oob	source/app_manager.c	/^tBSA_SEC_SET_REMOTE_OOB bsa_sec_set_remote_oob;$/;"	v
+bt_callback	ohos_bt.c	/^static BtGattServerCallbacks *bt_callback = NULL;$/;"	v	file:
+bt_characteristic_add_callback	BtMain.cpp	/^void bt_characteristic_add_callback(int status, int serverId, BtUuid *uuid,$/;"	f
+bt_company_id	source/app_common/app_disc.c	/^static tAPP_DISC_BT_COMPANY_ID_DESC bt_company_id[]=$/;"	v	file:
+bt_connect_server_callback	BtMain.cpp	/^void bt_connect_server_callback(int connId, int serverId, const BdAddr *bdAddr)$/;"	f
+bt_context	source/app_hs.c	/^struct bt_context {$/;"	s	file:
+bt_descriptor_add_callback	BtMain.cpp	/^void bt_descriptor_add_callback(int status, int serverId, BtUuid *uuid,$/;"	f
+bt_dev	source/app_hs.c	/^} bt_dev;$/;"	v	typeref:struct:bt_context
+bt_disconnect_server_callback	BtMain.cpp	/^void bt_disconnect_server_callback(int connId, int serverId, const BdAddr *bdAddr)$/;"	f
+bt_end_call	source/app_hs.c	/^int bt_end_call(void)$/;"	f
+bt_include_service_add_callback	BtMain.cpp	/^void bt_include_service_add_callback(int status, int serverId, int srvcHandle, int includeSrvcHandle)$/;"	f
+bt_indication_sent_callback	BtMain.cpp	/^void bt_indication_sent_callback(int connId, int status)$/;"	f
+bt_mtu_change_callback	BtMain.cpp	/^void bt_mtu_change_callback(int connId, int mtu)$/;"	f
+bt_name	BtMain.cpp	/^static string bt_name = "";$/;"	v	file:
+bt_name	ohos_bt.c	/^static char bt_name[128] = "ohos-bt";$/;"	v	file:
+bt_name	source/app_unit.c	/^char* bt_name = NULL;$/;"	v
+bt_r_fd	source/app_hs.c	/^int bt_r_fd = -1;$/;"	v
+bt_register_server_callback	BtMain.cpp	/^void bt_register_server_callback(int status, int serverId, BtUuid *appUuid)$/;"	f
+bt_request_read_callback	BtMain.cpp	/^void bt_request_read_callback(BtReqReadCbPara readCbPara)$/;"	f
+bt_request_write_callback	BtMain.cpp	/^void bt_request_write_callback(BtReqWriteCbPara writeCbPara)$/;"	f
+bt_response_confirmation_callback	BtMain.cpp	/^void bt_response_confirmation_callback(int status, int handle)$/;"	f
+bt_send_times	source/app_ble_server.c	/^static UINT32 bt_send_times = 0, bt_send_totals = 0;$/;"	v	file:
+bt_send_totals	source/app_ble_server.c	/^static UINT32 bt_send_times = 0, bt_send_totals = 0;$/;"	v	file:
+bt_service_add_callback	BtMain.cpp	/^void bt_service_add_callback(int status, int serverId, BtUuid *uuid, int srvcHandle)$/;"	f
+bt_service_delete_callback	BtMain.cpp	/^void bt_service_delete_callback(int status, int serverId, int srvcHandle)$/;"	f
+bt_service_start_callback	BtMain.cpp	/^void bt_service_start_callback(int status, int serverId, int srvcHandle)$/;"	f
+bt_service_stop_callback	BtMain.cpp	/^void bt_service_stop_callback(int status, int serverId, int srvcHandle)$/;"	f
+bt_start_call	source/app_hs.c	/^int bt_start_call(void)$/;"	f
+bt_w_fd	source/app_hs.c	/^int bt_w_fd = -1;$/;"	v
+bt_write_times	source/app_ble_server.c	/^static UINT32 bt_write_times = 0, bt_write_totals = 0;$/;"	v	file:
+bt_write_totals	source/app_ble_server.c	/^static UINT32 bt_write_times = 0, bt_write_totals = 0;$/;"	v	file:
+btcmdStr	sdk/BluetoothController.cpp	/^const char *btcmdStr[] = {$/;"	v
+bytes2Data	protocol/SyncDataTools.cpp	/^int SyncDataTools::bytes2Data(sp<SyncData> & data,char* dataBytes,int size) {$/;"	f	class:android::SyncDataTools
+call_op_handle	source/app_hs.c	/^    UINT32             call_op_handle;$/;"	m	struct:__anon12	file:
+cfg_tag	source/app_common/app_xml_param.c	/^	int cfg_tag;$/;"	m	struct:__anon2	file:
+channel	source/app_avk.c	/^    tBSA_AVK_CHNL channel;$/;"	m	struct:__anon35	file:
+charset_id	source/app_av.c	/^	UINT16                 charset_id;$/;"	m	struct:__anon20	file:
+charset_id	source/app_av_ipc.c	/^	UINT16                 charset_id;$/;"	m	struct:__anon32	file:
+checkBindState	ble/BleProtocol.cpp	/^int BleProtocol::checkBindState(const char *remote_addr) {$/;"	f	class:android::BleProtocol
+checkBindState	protocol/SppProtocol.cpp	/^int SppProtocol::checkBindState(const char *remote_addr)$/;"	f	class:android::SppProtocol
+checkDatabaseDir	protocol/DBHelper.cpp	/^bool DBHelper::checkDatabaseDir(){$/;"	f	class:android::DBHelper
+class_of_device	source/app_common/app_link.c	/^    DEV_CLASS class_of_device;$/;"	m	struct:__anon10	file:
+client_fd	sdk/BluetoothServer.h	/^	int client_fd;$/;"	m	struct:android::BluetoothServer::THREAD_ARG
+client_fd	sdk/HilinkServer.h	/^	int client_fd;$/;"	m	struct:android::HilinkServer::THREAD_ARG
+client_fd	sdk/ThirdPartyServer.h	/^	int client_fd;$/;"	m	struct:android::ThirdPartyServer::THREAD_ARG
+close	sdk/BluetoothController.cpp	/^bool BluetoothController::close() {$/;"	f	class:BluetoothController
+closeBluetooth	sdk/BluetoothServer.cpp	/^void BluetoothServer::closeBluetooth(){$/;"	f	class:android::BluetoothServer
+close_dsp	source/app_hs.c	/^void close_dsp(){$/;"	f
+close_ingenic_audio_oss_input	source/ingenic_oss_input.c	/^int close_ingenic_audio_oss_input(){$/;"	f
+close_ingenic_audio_oss_output	source/ingenic_oss_output.c	/^void close_ingenic_audio_oss_output(){$/;"	f
+cmpstr	sdk/HilinkModule.cpp	/^static const char * const cmpstr[4] = {"bind-state-change:", "msg_send_ret:", "hilink-recv-","ble-close_evt-"};$/;"	m	namespace:android	file:
+cmsMem_alloc	source/app_common/nanoxml.c	/^void *cmsMem_alloc(int size, int flag)$/;"	f
+cmsMem_free	source/app_common/nanoxml.c	/^void cmsMem_free(void *ptr)$/;"	f
+config_device	source/app_hs.c	/^static int config_device(int fd, int *format, UINT32 *channel, UINT32 *speed)$/;"	f	file:
+config_ptr	source/app_common/app_xml_param.c	/^	tAPP_XML_CONFIG *config_ptr;$/;"	m	struct:__anon2	file:
+conn_cb	source/app_hs.c	/^    tBSA_HS_CONN_CB    conn_cb[BSA_HS_MAX_NUM_CONN];$/;"	m	struct:__anon12	file:
+conn_fd	source/app_dg.c	/^    int conn_fd;$/;"	m	struct:__anon23	file:
+connections	source/app_av.c	/^	tAPP_AV_CONNECTION connections[APP_AV_MAX_CONNECTIONS];$/;"	m	struct:__anon22	file:
+connections	source/app_av_ipc.c	/^	tAPP_AV_CONNECTION connections[APP_AV_MAX_CONNECTIONS];$/;"	m	struct:__anon34	file:
+connections	source/app_dg.c	/^	tAPP_DG_CON connections[APP_DG_NB_CON_MAX];$/;"	m	struct:__anon24	file:
+construct_incall	source/app_hs.c	/^	int construct_incall()$/;"	f
+cp_id	source/app_av.c	/^	tBSA_AV_CP_ID cp_id;$/;"	m	struct:__anon22	file:
+cp_id	source/app_av_ipc.c	/^	tBSA_AV_CP_ID cp_id;$/;"	m	struct:__anon34	file:
+cp_scms_flag	source/app_av.c	/^	UINT8 cp_scms_flag;$/;"	m	struct:__anon22	file:
+cp_scms_flag	source/app_av_ipc.c	/^	UINT8 cp_scms_flag;$/;"	m	struct:__anon34	file:
+creatBSAPath	BtMain.cpp	/^int creatBSAPath(){$/;"	f
+creatBond	sdk/BluetoothController.cpp	/^bool BluetoothController::creatBond(const string &bd_name) {$/;"	f	class:BluetoothController
+creatBond	sdk/BluetoothServer.cpp	/^void BluetoothServer::creatBond(const char* bd_name){$/;"	f	class:android::BluetoothServer
+cur_play	source/app_av.c	/^	UINT8               cur_play;$/;"	m	struct:__anon21	file:
+cur_play	source/app_av_ipc.c	/^	UINT8               cur_play;$/;"	m	struct:__anon33	file:
+cur_uid_counter	source/app_av.c	/^	UINT16                 cur_uid_counter;    \/* always 0 -> for database unaware players *\/$/;"	m	struct:__anon20	file:
+cur_uid_counter	source/app_av_ipc.c	/^	UINT16                 cur_uid_counter;    \/* always 0 -> for database unaware players *\/$/;"	m	struct:__anon32	file:
+curr_value	source/app_av.c	/^	UINT8   curr_value;$/;"	m	struct:__anon16	file:
+curr_value	source/app_av_ipc.c	/^	UINT8   curr_value;$/;"	m	struct:__anon28	file:
+current_hs_bcs	source/app_hs.c	/^static int current_hs_bcs = BSA_SCO_CODEC_CVSD;$/;"	v	file:
+cw_handle	source/app_hs.c	/^    UINT32             cw_handle;$/;"	m	struct:__anon12	file:
+data2Bytes	protocol/SyncDataTools.cpp	/^int SyncDataTools::data2Bytes(const sp<SyncData> & data,char* bytes){$/;"	f	class:android::SyncDataTools
+data_size	source/app_hs.c	/^    int                data_size;$/;"	m	struct:__anon12	file:
+datasize	protocol/SyncDataTools.cpp	/^	int datasize;$/;"	m	class:android::SyncDataTools::Decoder	file:
+ddisconnect	sdk/BluetoothController.cpp	/^static bool ddisconnect = false;$/;"	v	file:
+decode	protocol/SyncDataTools.cpp	/^	int decode(sp<SyncData> & data) {$/;"	f	class:android::SyncDataTools::Decoder
+dellink	sdk/BluetoothController.cpp	/^static bool dellink = false;$/;"	v	file:
+dellinked	sdk/BluetoothController.cpp	/^bool BluetoothController::dellinked(const BD_ADDR addr) {$/;"	f	class:BluetoothController
+desc	source/app_common/app_disc.c	/^	char *desc;$/;"	m	struct:__anon5	file:
+desc	source/app_common/app_disc.c	/^	char *desc;$/;"	m	struct:__anon6	file:
+destruct_incall	source/app_hs.c	/^	int destruct_incall()$/;"	f
+dev_instance	source/app_common/app_xml_param.c	/^	int dev_instance;$/;"	m	struct:__anon2	file:
+dev_tag	source/app_common/app_xml_param.c	/^	int dev_tag;$/;"	m	struct:__anon2	file:
+devices_db_ptr	source/app_common/app_xml_param.c	/^	tAPP_XML_REM_DEVICE *devices_db_ptr;$/;"	m	struct:__anon2	file:
+devices_max	source/app_common/app_xml_param.c	/^	int devices_max;$/;"	m	struct:__anon2	file:
+disableBluetooth	sdk/BluetoothServer.cpp	/^void BluetoothServer::disableBluetooth(){$/;"	f	class:android::BluetoothServer
+disc_call_back	sdk/BluetoothController.cpp	/^void (*disc_call_back)(DISC_EVT event, REMOTE_DEVICE *p_data) = NULL;$/;"	v
+disconnect	protocol/SppProtocol.cpp	/^void SppProtocol::disconnect()$/;"	f	class:android::SppProtocol
+disconnect	sdk/BluetoothController.cpp	/^bool BluetoothController::disconnect() {$/;"	f	class:BluetoothController
+encode	protocol/SyncDataTools.cpp	/^    int encode(char* byteData){$/;"	f	class:android::SyncDataTools::Encoder
+equalizer	source/app_av.c	/^	tBSA_AV_META_ATTRIB     equalizer;      \/* Equalizer Status *\/$/;"	m	struct:__anon17	file:
+equalizer	source/app_av_ipc.c	/^	tBSA_AV_META_ATTRIB     equalizer;      \/* Equalizer Status *\/$/;"	m	struct:__anon29	file:
+event_cback	ohos_bt.c	/^void event_cback(tBSA_BLE_EVT event, tBSA_BLE_MSG *p_data) {$/;"	f
+event_id	source/app_av.c	/^	UINT8   event_id;$/;"	m	struct:__anon19	file:
+event_id	source/app_av_ipc.c	/^	UINT8   event_id;$/;"	m	struct:__anon31	file:
+evt_mask	source/app_av.c	/^	tBSA_AV_EVT_MASK    evt_mask;$/;"	m	struct:__anon14	file:
+evt_mask	source/app_av_ipc.c	/^	tBSA_AV_EVT_MASK    evt_mask;$/;"	m	struct:__anon26	file:
+fd	source/app_avk.c	/^    int fd;$/;"	m	struct:__anon35	file:
+features	source/app_avk.c	/^    tBSA_AVK_FEAT features;       \/* features mask *\/$/;"	m	struct:__anon35	file:
+file_index	source/app_av.c	/^	int file_index;$/;"	m	struct:__anon22	file:
+file_index	source/app_av_ipc.c	/^	int file_index;$/;"	m	struct:__anon34	file:
+file_name	source/app_av.c	/^	char file_name[1000];$/;"	m	struct:__anon22	file:
+file_name	source/app_av_ipc.c	/^	char file_name[1000];$/;"	m	struct:__anon34	file:
+format	source/app_avk.c	/^    tBTA_AVK_CODEC format;$/;"	m	struct:__anon35	file:
+g_passkey_reply	source/app_manager.c	/^tBSA_SEC_PASSKEY_REPLY g_passkey_reply;$/;"	v
+g_pin_code_reply	source/app_manager.c	/^static tBSA_SEC_PIN_CODE_REPLY g_pin_code_reply;$/;"	v	file:
+gavBdaddr	source/app_av.c	/^static BD_ADDR gavBdaddr;$/;"	v	file:
+gavStart	source/app_av.c	/^static volatile int gavStart = 0;$/;"	v	file:
+getBTBleBeaconOnOff	BtMain.cpp	/^int getBTBleBeaconOnOff(void){$/;"	f
+getBTBleBeaconOnOff	source/app_unit.c	/^int getBTBleBeaconOnOff(void){$/;"	f
+getBindType	sdk/HilinkModule.cpp	/^BIND_TYPE HilinkModule::getBindType() {$/;"	f	class:android::HilinkModule
+getBindType	sdk/ThirdPartyModule.cpp	/^BIND_TYPE  ThirdPartyModule::getBindType(){$/;"	f	class:android::ThirdPartyModule
+getBleBindedState	ble/BleProtocol.cpp	/^bool BleProtocol::getBleBindedState() {$/;"	f	class:android::BleProtocol
+getBluetoothAddress	sdk/HilinkModule.cpp	/^bool HilinkModule::getBluetoothAddress(string &address) {$/;"	f	class:android::HilinkModule
+getBluetoothAddress	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::getBluetoothAddress(string & address){$/;"	f	class:android::ThirdPartyModule
+getBoolean	protocol/SyncData.cpp	/^int8_t SyncData::getBoolean(const string & key){$/;"	f	class:android::SyncData
+getByteArray	protocol/SyncData.cpp	/^int32_t SyncData::getByteArray(const string & key,char* value){$/;"	f	class:android::SyncData
+getData	ble/BleProtocol.cpp	/^    char *getData() {$/;"	f	class:android::Header
+getDataLen	protocol/SppProtocol.cpp	/^    int getDataLen(){$/;"	f	class:android::ExtraHeader
+getDataType	protocol/SppProtocol.cpp	/^    int getDataType(){$/;"	f	class:android::ExtraHeader
+getInstance	ble/BleProtocol.cpp	/^BleProtocol *BleProtocol::getInstance() {$/;"	f	class:android::BleProtocol
+getInstance	protocol/SppProtocol.cpp	/^SppProtocol* SppProtocol::getInstance()$/;"	f	class:android::SppProtocol
+getInstance	protocol/UnBindModule.cpp	/^UnBindModule* UnBindModule::getInstance(RefBase* protocol)$/;"	f	class:android::UnBindModule
+getInstance	sdk/BluetoothController.cpp	/^BluetoothController *BluetoothController::getInstance() {$/;"	f	class:BluetoothController
+getInstance	sdk/BluetoothServer.cpp	/^BluetoothServer* BluetoothServer::getInstance()$/;"	f	class:android::BluetoothServer
+getInstance	sdk/HilinkServer.cpp	/^HilinkServer* HilinkServer::getInstance(RefBase* protocol)$/;"	f	class:android::HilinkServer
+getInstance	sdk/ThirdPartyServer.cpp	/^ThirdPartyServer* ThirdPartyServer::getInstance(RefBase* protocol)$/;"	f	class:android::ThirdPartyServer
+getInt	protocol/SyncData.cpp	/^int32_t SyncData::getInt(const string & key){$/;"	f	class:android::SyncData
+getLinked	sdk/BluetoothController.cpp	/^bool BluetoothController::getLinked(void (*disc_back)(DISC_EVT event, REMOTE_DEVICE *p_data), int duration) {$/;"	f	class:BluetoothController
+getLinkedDevice	sdk/BluetoothServer.cpp	/^void BluetoothServer::getLinkedDevice(int client_fd, int duration)$/;"	f	class:android::BluetoothServer
+getLinking	sdk/BluetoothController.cpp	/^bool BluetoothController::getLinking(void (*disc_back)(DISC_EVT event, REMOTE_DEVICE *p_data), int duration) {$/;"	f	class:BluetoothController
+getLinkingDevice	sdk/BluetoothServer.cpp	/^void BluetoothServer::getLinkingDevice(int client_fd, int duration)$/;"	f	class:android::BluetoothServer
+getModule	ble/BleProtocol.cpp	/^    void getModule(string &module) {$/;"	f	class:android::Header
+getPkgLen	ble/BleProtocol.cpp	/^    int getPkgLen() {$/;"	f	class:android::Header
+getPkgLen	protocol/SppProtocol.cpp	/^    int getPkgLen(){$/;"	f	class:android::Header
+getReason	protocol/SppProtocol.cpp	/^    char* getReason() {$/;"	f	class:android::Neg
+getSppBindedState	protocol/SppProtocol.cpp	/^bool SppProtocol::getSppBindedState(){$/;"	f	class:android::SppProtocol
+getString	protocol/SyncData.cpp	/^int32_t SyncData::getString(const string & key,string & values){$/;"	f	class:android::SyncData
+getSyncDataSize	sdk/ThirdPartyModule.cpp	/^int ThirdPartyModule::getSyncDataSize(const sp<SyncData> & data){$/;"	f	class:android::ThirdPartyModule
+getType	ble/BleProtocol.cpp	/^    int getType() {$/;"	f	class:android::Header
+getType	protocol/SppProtocol.cpp	/^    int getType(){$/;"	f	class:android::Header
+get_bt_addr	source/app_manager.c	/^int get_bt_addr(BD_ADDR bt_mac)$/;"	f
+get_file_size	BtMain.cpp	/^unsigned long get_file_size(const char *filename)$/;"	f
+get_mac	source/app_manager.c	/^static INT32 get_mac(char *fname, UINT8 * id_buf)$/;"	f	file:
+get_product_sn	BtMain.cpp	/^static int get_product_sn(char *sn) {$/;"	f	file:
+get_socat_pid	source/app_dg.c	/^int get_socat_pid(int conn, char * cmd)$/;"	f
+get_wifi_addr	source/app_manager.c	/^int get_wifi_addr(BD_ADDR wifi_mac){$/;"	f
+get_wifi_on_off	BtMain.cpp	/^int get_wifi_on_off(void) {$/;"	f
+handle	source/app_dg.c	/^	tBSA_DG_HNDL handle;$/;"	m	struct:__anon23	file:
+hfp_serv_name	source/app_ag.c	/^const char hfp_serv_name[] = "BSA Handsfree";$/;"	v
+hilinkOnConnectionStateChange	ble/BleProtocol.cpp	/^void BleProtocol::hilinkOnConnectionStateChange(char *addr, int link_state, int con_id, int server_num) {$/;"	f	class:android::BleProtocol
+hilinkReceiveWriteRequestCback	ble/BleProtocol.cpp	/^void BleProtocol::hilinkReceiveWriteRequestCback(int server_no, char *address, int con_id, char *data, int size) {$/;"	f	class:android::BleProtocol
+hilink_app_ble_server_register_connectstate_cback	source/app_ble_server.c	/^void hilink_app_ble_server_register_connectstate_cback(void (*hilinkOnConnectionStateChange)(char *addr, int link_state, int con_id, int server_num)) {$/;"	f
+hilink_ble_server_register_write_cback	source/app_ble_server.c	/^int hilink_ble_server_register_write_cback(void (*receiveWriteRequestCback)(int server_no, char *addr, int conn_id, char *data, int size)) {$/;"	f
+hilink_ble_uuid	BtMain.cpp	/^static unsigned short hilink_ble_uuid[] = {0xe600, 0xe500};$/;"	v	file:
+hilink_characteristic_of_data	BtMain.cpp	/^static UINT8 *hilink_characteristic_of_data[] = {HILINK_CHAR_DATA_READ, HILINK_CHAR_DATA_WRITE};$/;"	v	file:
+hilink_characteristic_of_reg	BtMain.cpp	/^static UINT8 *hilink_characteristic_of_reg[] = {HILINK_CHAR_REGISTER};$/;"	v	file:
+hilink_characteristic_property_of_data	BtMain.cpp	/^static UINT8 hilink_characteristic_property_of_data[] = {$/;"	v	file:
+hilink_characteristic_property_of_reg	BtMain.cpp	/^static UINT8 hilink_characteristic_property_of_reg[] = {$/;"	v	file:
+hilink_get_state	BtMain.cpp	/^REG_ST hilink_get_state(void) {$/;"	f
+hilink_services	BtMain.cpp	/^static UINT8 *hilink_services[] = {HILINK_SERVICE_RW, HILINK_SERVICE_REGISTER};$/;"	v	file:
+hilink_set_state	BtMain.cpp	/^void hilink_set_state(REG_ST st) {$/;"	f
+hilink_state	BtMain.cpp	/^static int hilink_state = DEV_UNREG;$/;"	v	file:
+hsAnswerCall	sdk/BluetoothServer.cpp	/^void BluetoothServer::hsAnswerCall(){$/;"	f	class:android::BluetoothServer
+hsHangUp	sdk/BluetoothServer.cpp	/^void BluetoothServer::hsHangUp(){$/;"	f	class:android::BluetoothServer
+hsp_serv_name	source/app_ag.c	/^const char hsp_serv_name[] = "BSA Headset";$/;"	v
+id	source/app_common/app_disc.c	/^	UINT16 id;$/;"	m	struct:__anon7	file:
+inAudioStream	source/ingenic_oss_input.c	/^static struct audio_stream_in *inAudioStream = NULL;$/;"	v	typeref:struct:audio_stream_in	file:
+in_use	source/app_common/app_link.c	/^    BOOLEAN in_use;$/;"	m	struct:__anon10	file:
+in_use	source/app_dg.c	/^	BOOLEAN in_use;$/;"	m	struct:__anon23	file:
+ingenicAudioDev	source/ingenic_oss_input.c	/^static struct hw_device_t *ingenicAudioDev = NULL;$/;"	v	typeref:struct:hw_device_t	file:
+ingenic_a2dp_close	source/app_av.c	/^static int ingenic_a2dp_close(){$/;"	f	file:
+ingenic_a2dp_close	source/app_av_ipc.c	/^static int ingenic_a2dp_close(){$/;"	f	file:
+ingenic_a2dp_connect	source/app_av.c	/^static int ingenic_a2dp_connect(){$/;"	f	file:
+ingenic_a2dp_connect	source/app_av_ipc.c	/^static int ingenic_a2dp_connect(){$/;"	f	file:
+ingenic_a2dp_disconnect	source/app_av.c	/^static int ingenic_a2dp_disconnect(){$/;"	f	file:
+ingenic_a2dp_disconnect	source/app_av_ipc.c	/^static int ingenic_a2dp_disconnect(){$/;"	f	file:
+ingenic_a2dp_open	source/app_av.c	/^static int ingenic_a2dp_open(){$/;"	f	file:
+ingenic_a2dp_open	source/app_av_ipc.c	/^static int ingenic_a2dp_open(){$/;"	f	file:
+ingenic_audio_oss_read	source/ingenic_oss_input.c	/^int ingenic_audio_oss_read(char* ref_buf,int size){$/;"	f
+ingenic_audio_oss_write	source/ingenic_oss_output.c	/^int ingenic_audio_oss_write(const char* data,int size){$/;"	f
+ingenic_bluetooth_ag_connect	source/app_ag.c	/^static void ingenic_bluetooth_ag_connect()$/;"	f	file:
+ingenic_bluetooth_ag_disconnect	source/app_ag.c	/^static void ingenic_bluetooth_ag_disconnect()$/;"	f	file:
+isACK2	protocol/SppProtocol.cpp	/^    bool isACK2() {$/;"	f	class:android::Neg
+isBinded	sdk/HilinkModule.h	/^    bool isBinded(){return mIsBinded;};$/;"	f	class:android::HilinkModule
+isBinded	sdk/ThirdPartyModule.h	/^    bool isBinded(){return mIsBinded;};$/;"	f	class:android::ThirdPartyModule
+isBleBinded	protocol/SyncModule.cpp	/^int SyncModule::isBleBinded()$/;"	f	class:android::SyncModule
+isNeedBeacon	BtMain.cpp	/^static int isNeedBeacon(void){$/;"	f	file:
+isOpened	sdk/BluetoothController.cpp	/^bool BluetoothController::isOpened() {$/;"	f	class:BluetoothController
+isOpened	sdk/HilinkModule.cpp	/^bool HilinkModule::isOpened() {$/;"	f	class:android::HilinkModule
+isOpened	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::isOpened(){$/;"	f	class:android::ThirdPartyModule
+isPass	protocol/SppProtocol.cpp	/^    bool isPass() {$/;"	f	class:android::Neg
+isSenddone	sdk/HilinkModule.h	/^    volatile char isSenddone;$/;"	m	class:android::HilinkModule
+isSenddone	sdk/ThirdPartyModule.h	/^    volatile char isSenddone;$/;"	m	class:android::ThirdPartyModule
+is_be	source/app_common/app_wav.c	/^    BOOLEAN is_be;$/;"	m	struct:__anon9	file:
+is_muted	source/app_hs.c	/^    BOOLEAN            is_muted;$/;"	m	struct:__anon12	file:
+is_open	source/app_avk.c	/^    BOOLEAN is_open;$/;"	m	struct:__anon35	file:
+is_open	source/app_dg.c	/^	BOOLEAN is_open;$/;"	m	struct:__anon23	file:
+is_rc_open	source/app_avk.c	/^    BOOLEAN is_rc_open;$/;"	m	struct:__anon35	file:
+is_server	source/app_dg.c	/^	BOOLEAN is_server;$/;"	m	struct:__anon23	file:
+is_started	source/app_avk.c	/^    BOOLEAN is_started;$/;"	m	struct:__anon35	file:
+iscloseok	sdk/BluetoothController.cpp	/^static bool iscloseok = false;$/;"	v	file:
+isdellinked	sdk/BluetoothController.cpp	/^static bool isdellinked = false;$/;"	v	file:
+isopenok	sdk/BluetoothController.cpp	/^static bool isopenok = false;$/;"	v	file:
+isregisterOK	sdk/HilinkModule.h	/^    bool isregisterOK;$/;"	m	class:android::HilinkModule
+isregisterOK	sdk/ThirdPartyModule.h	/^    bool isregisterOK;$/;"	m	class:android::ThirdPartyModule
+key	source/app_common/app_disc.c	/^	UINT16 key;$/;"	m	struct:__anon6	file:
+label	source/app_av.c	/^	UINT8               label[AVRC_NUM_NOTIF_EVENTS];$/;"	m	struct:__anon14	file:
+label	source/app_av.c	/^	UINT8 label;$/;"	m	struct:__anon22	file:
+label	source/app_av_ipc.c	/^	UINT8               label[AVRC_NUM_NOTIF_EVENTS];$/;"	m	struct:__anon26	file:
+label	source/app_av_ipc.c	/^	UINT8 label;$/;"	m	struct:__anon34	file:
+label	source/app_avk.c	/^    UINT8 label;$/;"	m	struct:__anon35	file:
+last_open_status	source/app_avk.c	/^    tBSA_STATUS last_open_status;$/;"	m	struct:__anon35	file:
+last_start_status	source/app_av.c	/^	tBSA_STATUS last_start_status;$/;"	m	struct:__anon22	file:
+last_start_status	source/app_av_ipc.c	/^	tBSA_STATUS last_start_status;$/;"	m	struct:__anon34	file:
+last_start_status	source/app_avk.c	/^    tBSA_STATUS last_start_status;$/;"	m	struct:__anon35	file:
+last_state	BtMain.cpp	/^static int last_state = -1;$/;"	v	file:
+last_state	source/app_unit.c	/^static int last_state = -1;$/;"	v	file:
+linkStateCback	protocol/SppProtocol.cpp	/^void SppProtocol::linkStateCback(void *user,int con_id, bool linked,char * remote_addr, int size){$/;"	f	class:android::SppProtocol
+linked_call_back	sdk/BluetoothController.cpp	/^void (*linked_call_back)(DISC_EVT event, REMOTE_DEVICE *p_data) = NULL;$/;"	v
+linking_call_back	sdk/BluetoothController.cpp	/^void (*linking_call_back)(DISC_EVT event, REMOTE_DEVICE *p_data) = NULL;$/;"	v
+linking_dev	source/app_manager.c	/^tLINKING_DEVICE linking_dev[APP_MAX_NB_REMOTE_STORED_DEVICES];$/;"	v
+listen_fd	source/app_dg.c	/^    int listen_fd;$/;"	m	struct:__anon23	file:
+load_ingenic_audio_oss	source/ingenic_oss_input.c	/^int load_ingenic_audio_oss(){$/;"	f
+loopback	source/app_dg.c	/^	BOOLEAN loopback;$/;"	m	struct:__anon24	file:
+mACK2	protocol/SppProtocol.cpp	/^    bool mACK2;$/;"	m	class:android::Neg	file:
+mAcceptThread	sdk/BluetoothServer.h	/^    pthread_t mAcceptThread;$/;"	m	class:android::BluetoothServer
+mAcceptThread	sdk/HilinkServer.h	/^    pthread_t mAcceptThread;$/;"	m	class:android::HilinkServer
+mAcceptThread	sdk/ThirdPartyServer.h	/^    pthread_t mAcceptThread;$/;"	m	class:android::ThirdPartyServer
+mAddress	sdk/HilinkModule.h	/^    char mAddress[20];$/;"	m	class:android::HilinkModule
+mAddress	sdk/ThirdPartyModule.h	/^    char mAddress[20];$/;"	m	class:android::ThirdPartyModule
+mAppDiscCback	source/app_manager.c	/^void (*mAppDiscCback)(int event, tAPP_DISC_MSG* p_data) = NULL;$/;"	v
+mAvCondition	sdk/BluetoothController.h	/^    pthread_cond_t mAvCondition;$/;"	m	class:BluetoothController
+mAvConditionAttr	sdk/BluetoothController.h	/^    pthread_condattr_t mAvConditionAttr;$/;"	m	class:BluetoothController
+mBindType	sdk/HilinkModule.h	/^    BIND_TYPE mBindType;$/;"	m	class:android::HilinkModule
+mBindType	sdk/ThirdPartyModule.h	/^    BIND_TYPE mBindType;$/;"	m	class:android::ThirdPartyModule
+mBondLock	sdk/BluetoothServer.h	/^    pthread_mutex_t mBondLock;$/;"	m	class:android::BluetoothServer
+mBytes	protocol/SyncDataTools.cpp	/^    char* mBytes;$/;"	m	class:android::SyncDataTools::Encoder	file:
+mConId	ble/BleProtocol.cpp	/^int BleProtocol::mConId = -1;$/;"	m	class:android::BleProtocol	file:
+mCondition	sdk/BluetoothController.h	/^    pthread_cond_t mCondition;$/;"	m	class:BluetoothController
+mCondition	sdk/BluetoothServer.h	/^    pthread_cond_t mCondition;$/;"	m	class:android::BluetoothServer
+mConnectionStateChange	source/app_ble_server.c	/^static void (*mConnectionStateChange)(char *add, int state) = NULL;$/;"	v	file:
+mDatas	ble/BleProtocol.cpp	/^    char *mDatas;$/;"	m	class:android::Header	file:
+mDiscLock	sdk/BluetoothServer.h	/^    pthread_mutex_t mDiscLock;$/;"	m	class:android::BluetoothServer
+mDiscovering	sdk/BluetoothServer.h	/^    bool mDiscovering;$/;"	m	class:android::BluetoothServer
+mDiscoveryManager	sdk/BluetoothServer.h	/^    List<int> mDiscoveryManager;$/;"	m	class:android::BluetoothServer
+mDone	sdk/BluetoothServer.h	/^    bool mDone;$/;"	m	class:android::BluetoothServer
+mDone	sdk/HilinkServer.h	/^    bool mDone;$/;"	m	class:android::HilinkServer
+mDone	sdk/ThirdPartyServer.h	/^    bool mDone;$/;"	m	class:android::ThirdPartyServer
+mGetLinkedDeviceLock	sdk/BluetoothServer.h	/^    pthread_mutex_t mGetLinkedDeviceLock;$/;"	m	class:android::BluetoothServer
+mGetLinkedDeviceManager	sdk/BluetoothServer.h	/^    List<int> mGetLinkedDeviceManager;$/;"	m	class:android::BluetoothServer
+mGetLinkingDeviceLock	sdk/BluetoothServer.h	/^    pthread_mutex_t mGetLinkingDeviceLock;$/;"	m	class:android::BluetoothServer
+mGetLinkingDeviceManager	sdk/BluetoothServer.h	/^    List<int> mGetLinkingDeviceManager;$/;"	m	class:android::BluetoothServer
+mGettingLinkedDevice	sdk/BluetoothServer.h	/^    bool mGettingLinkedDevice;$/;"	m	class:android::BluetoothServer
+mGettingLinkingDevice	sdk/BluetoothServer.h	/^    bool mGettingLinkingDevice;$/;"	m	class:android::BluetoothServer
+mHilinkBLEWriteRequestCback	source/app_ble_server.c	/^static void (*mHilinkBLEWriteRequestCback)(int server_no, char *addr, int conn_id, char *data, int size) = NULL;$/;"	v	file:
+mHilinkConId	ble/BleProtocol.cpp	/^int BleProtocol::mHilinkConId[4] = {-1,-1,-1,-1};$/;"	m	class:android::BleProtocol	file:
+mHilinkConnectionStateChange	source/app_ble_server.c	/^static void (*mHilinkConnectionStateChange)(char *addr, int link_state, int con_id, int server_num) = NULL;$/;"	v	file:
+mIngenicA2dpSocketFd	source/app_av.c	/^static int mIngenicA2dpSocketFd = -1;$/;"	v	file:
+mIngenicA2dpSocketFd	source/app_av_ipc.c	/^static int mIngenicA2dpSocketFd = -1;$/;"	v	file:
+mIsBinded	sdk/HilinkModule.h	/^    bool mIsBinded;$/;"	m	class:android::HilinkModule
+mIsBinded	sdk/HilinkServer.h	/^    bool mIsBinded;$/;"	m	class:android::HilinkServer
+mIsBinded	sdk/ThirdPartyModule.h	/^    bool mIsBinded;$/;"	m	class:android::ThirdPartyModule
+mIsBinded	sdk/ThirdPartyServer.h	/^    bool mIsBinded;$/;"	m	class:android::ThirdPartyServer
+mLinkStateCback	source/app_dg.c	/^void (*mLinkStateCback)(void *user,int con_id, BOOLEAN linked,char * remote_addr, int size) = NULL;$/;"	v
+mListenfd	sdk/BluetoothServer.h	/^    int mListenfd;$/;"	m	class:android::BluetoothServer
+mListenfd	sdk/HilinkServer.h	/^    int mListenfd;$/;"	m	class:android::HilinkServer
+mListenfd	sdk/ThirdPartyServer.h	/^    int mListenfd;$/;"	m	class:android::ThirdPartyServer
+mModule	sdk/HilinkModule.h	/^    HilinkModule* mModule;$/;"	m	class:android::HilinkModule
+mModule	sdk/ThirdPartyModule.h	/^    ThirdPartyModule* mModule;$/;"	m	class:android::ThirdPartyModule
+mModuleMap	sdk/HilinkServer.h	/^    MODULEMAP mModuleMap;$/;"	m	class:android::HilinkServer
+mModuleMap	sdk/ThirdPartyServer.h	/^    MODULEMAP mModuleMap;$/;"	m	class:android::ThirdPartyServer
+mModuleName	ble/BleProtocol.cpp	/^    char *mModuleName;$/;"	m	class:android::Header	file:
+mModuleName	sdk/HilinkModule.h	/^    string mModuleName;$/;"	m	class:android::HilinkModule
+mModuleName	sdk/ThirdPartyModule.h	/^    string mModuleName;$/;"	m	class:android::ThirdPartyModule
+mMutex	sdk/BluetoothController.h	/^    pthread_mutex_t mMutex;$/;"	m	class:BluetoothController
+mMutex	sdk/BluetoothServer.h	/^    pthread_mutex_t mMutex;$/;"	m	class:android::BluetoothServer
+mNeedPrintData	sdk/HilinkModule.h	/^    bool mNeedPrintData;$/;"	m	class:android::HilinkModule
+mNeedPrintData	sdk/ThirdPartyModule.h	/^    bool mNeedPrintData;$/;"	m	class:android::ThirdPartyModule
+mNotifyClientfd	sdk/BluetoothServer.h	/^    int mNotifyClientfd;$/;"	m	class:android::BluetoothServer
+mOneBytes	protocol/SyncDataTools.cpp	/^    char* mOneBytes;$/;"	m	class:android::SyncDataTools::Decoder	file:
+mPass	protocol/SppProtocol.cpp	/^    bool mPass;$/;"	m	class:android::Neg	file:
+mPkgLen	ble/BleProtocol.cpp	/^    int mPkgLen;$/;"	m	class:android::Header	file:
+mPkgLen	protocol/SppProtocol.cpp	/^    int mPkgLen;$/;"	m	class:android::Header	file:
+mPos	protocol/SyncDataTools.cpp	/^    int mPos = 0;$/;"	m	class:android::SyncDataTools::Decoder	file:
+mPos	protocol/SyncDataTools.cpp	/^    int mPos;$/;"	m	class:android::SyncDataTools::Encoder	file:
+mProtocol	sdk/HilinkServer.h	/^    RefBase* mProtocol;$/;"	m	class:android::HilinkServer
+mProtocol	sdk/ThirdPartyServer.h	/^    RefBase* mProtocol;$/;"	m	class:android::ThirdPartyServer
+mReadThread	sdk/BluetoothController.h	/^    pthread_t mReadThread;$/;"	m	class:BluetoothController
+mReadThread	sdk/BluetoothServer.h	/^    pthread_t mReadThread;$/;"	m	class:android::BluetoothServer
+mReadThread	sdk/HilinkModule.h	/^    pthread_t mReadThread;$/;"	m	class:android::HilinkModule
+mReadThread	sdk/HilinkServer.h	/^    pthread_t mReadThread;$/;"	m	class:android::HilinkServer
+mReadThread	sdk/ThirdPartyModule.h	/^    pthread_t mReadThread;$/;"	m	class:android::ThirdPartyModule
+mReadThread	sdk/ThirdPartyServer.h	/^    pthread_t mReadThread;$/;"	m	class:android::ThirdPartyServer
+mReason	protocol/SppProtocol.cpp	/^    int mReason;$/;"	m	class:android::Neg	file:
+mReceiveSppDataCback	source/app_dg.c	/^void (*mReceiveSppDataCback)(void *user, int conn_id, char * data, int size) = NULL;$/;"	v
+mSendLock	sdk/HilinkModule.h	/^    pthread_mutex_t mSendLock;$/;"	m	class:android::HilinkModule
+mSendLock	sdk/ThirdPartyModule.h	/^    pthread_mutex_t mSendLock;$/;"	m	class:android::ThirdPartyModule
+mSocketFd	sdk/BluetoothController.h	/^    int mSocketFd;$/;"	m	class:BluetoothController
+mSocketFd	sdk/HilinkModule.h	/^    int mSocketFd;$/;"	m	class:android::HilinkModule
+mSocketFd	sdk/ThirdPartyModule.h	/^    int mSocketFd;$/;"	m	class:android::ThirdPartyModule
+mSocketFd	source/ingenic_oss_output.c	/^static int mSocketFd = -1;$/;"	v	file:
+mSppUser	source/app_dg.c	/^void *mSppUser = NULL;$/;"	v
+mSyncData	protocol/SyncDataTools.cpp	/^    sp<SyncData> mSyncData;$/;"	m	class:android::SyncDataTools::Encoder	file:
+mType	ble/BleProtocol.cpp	/^    int mType;$/;"	m	class:android::Header	file:
+mType	protocol/SppProtocol.cpp	/^    int mType;$/;"	m	class:android::Header	file:
+mType	sdk/HilinkServer.h	/^    BIND_TYPE mType; $/;"	m	class:android::HilinkServer
+mType	sdk/ThirdPartyServer.h	/^    BIND_TYPE mType; $/;"	m	class:android::ThirdPartyServer
+mWriteRequestCback	source/app_ble_server.c	/^static void (*mWriteRequestCback)(char *addr, int conn_id, char *data, int size) = NULL;$/;"	v	file:
+managerInit	ohos_bt.c	/^int managerInit(const char* name){$/;"	f
+managerInit	source/app_unit.c	/^int managerInit(const char* name){$/;"	f
+mavIsConnected	sdk/BluetoothController.h	/^    int mavIsConnected;$/;"	m	class:BluetoothController
+max_attrib_num	source/app_av.c	/^	UINT8                  max_attrib_num;     \/* app dependent value *\/$/;"	m	struct:__anon20	file:
+max_attrib_num	source/app_av_ipc.c	/^	UINT8                  max_attrib_num;     \/* app dependent value *\/$/;"	m	struct:__anon32	file:
+media_feeding	source/app_av.c	/^	tBSA_AV_MEDIA_FEEDINGS media_feeding;$/;"	m	struct:__anon22	file:
+media_feeding	source/app_av_ipc.c	/^	tBSA_AV_MEDIA_FEEDINGS media_feeding;$/;"	m	struct:__anon34	file:
+meta_info	source/app_av.c	/^	tBSA_AV_METADATA    meta_info;$/;"	m	struct:__anon21	file:
+meta_info	source/app_av_ipc.c	/^	tBSA_AV_METADATA    meta_info;$/;"	m	struct:__anon33	file:
+mgt_custom_cback	source/app_common/app_mgt.c	/^	tAPP_MGT_CUSTOM_CBACK* mgt_custom_cback;$/;"	m	struct:__anon8	file:
+mmDataLen	protocol/SppProtocol.cpp	/^    int mmDataLen;$/;"	m	class:android::ExtraHeader	file:
+mmDataType	protocol/SppProtocol.cpp	/^    int mmDataType;$/;"	m	class:android::ExtraHeader	file:
+mmSerialNum	protocol/SppProtocol.cpp	/^    int mmSerialNum;$/;"	m	class:android::ExtraHeader	file:
+moduleRetrive	ble/BleProtocol.cpp	/^void BleProtocol::moduleRetrive(const char *moduleName, char *data, int size) {$/;"	f	class:android::BleProtocol
+moduleRetrive	protocol/SppProtocol.cpp	/^void SppProtocol::moduleRetrive(const char * moduleName,char * data,int size){$/;"	f	class:android::SppProtocol
+msendLock	sdk/HilinkServer.h	/^    pthread_mutex_t msendLock;$/;"	m	class:android::HilinkServer
+msendLock	sdk/ThirdPartyServer.h	/^    pthread_mutex_t msendLock;$/;"	m	class:android::ThirdPartyServer
+mute_inband_ring	source/app_hs.c	/^    BOOLEAN            mute_inband_ring;$/;"	m	struct:__anon12	file:
+name	sdk/BluetoothUtils.h	/^    char name[BD_NAME_SIZE];   \/* Name of peer device. *\/$/;"	m	struct:__anon40
+name	source/app_av.c	/^	tBSA_FULL_NAME     name;           \/* The media name, name length and character set id. *\/$/;"	m	struct:__anon13	file:
+name	source/app_av_ipc.c	/^	tBSA_FULL_NAME     name;           \/* The media name, name length and character set id. *\/$/;"	m	struct:__anon25	file:
+name	source/app_common/app_disc.c	/^	char *name;$/;"	m	struct:__anon7	file:
+nb_devices	source/app_common/app_disc.c	/^	int nb_devices;$/;"	m	struct:__anon3	file:
+notif_info	source/app_av.c	/^	tBSA_AV_STAT_INFO      notif_info;$/;"	m	struct:__anon20	file:
+notif_info	source/app_av_ipc.c	/^	tBSA_AV_STAT_INFO      notif_info;$/;"	m	struct:__anon32	file:
+num_channel	source/app_avk.c	/^    UINT8 num_channel;$/;"	m	struct:__anon35	file:
+nxml_add_namecache	source/app_common/nanoxml.c	/^static void nxml_add_namecache(nxml_t handle, char *data, int len,$/;"	f	file:
+ohos_event_cback	source/app_ble_server.c	/^tBSA_BLE_CBACK *ohos_event_cback = NULL;$/;"	v
+onConnectionStateChange	ble/BleProtocol.cpp	/^void BleProtocol::onConnectionStateChange(char *addr, int link_state) {$/;"	f	class:android::BleProtocol
+onRetrive	protocol/SyncModule.cpp	/^void SyncModule::onRetrive(const sp<SyncData> & data)$/;"	f	class:android::SyncModule
+onRetrive	protocol/UnBindModule.cpp	/^void UnBindModule::onRetrive(const sp<SyncData> & data)$/;"	f	class:android::UnBindModule
+onRetrive	sdk/HilinkServer.cpp	/^void HilinkServer::onRetrive(const char * moduleName,unsigned char * data,unsigned int size)$/;"	f	class:android::HilinkServer
+onRetrive	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::onRetrive(const char * moduleName,char * data,int size)$/;"	f	class:android::ThirdPartyServer
+open	sdk/BluetoothController.cpp	/^bool BluetoothController::open() {$/;"	f	class:BluetoothController
+openBluetooth	sdk/BluetoothServer.cpp	/^void BluetoothServer::openBluetooth(){$/;"	f	class:android::BluetoothServer
+open_ingenic_audio_oss_input	source/ingenic_oss_input.c	/^int open_ingenic_audio_oss_input(int sample_rate){$/;"	f
+open_ingenic_audio_oss_output	source/ingenic_oss_output.c	/^void open_ingenic_audio_oss_output(char * mode,int mode_size){$/;"	f
+open_pending	source/app_avk.c	/^    volatile BOOLEAN open_pending; \/* Indicate that there is an open pending *\/$/;"	m	struct:__anon35	file:
+open_pending	source/app_hs.c	/^    BOOLEAN            open_pending;$/;"	m	struct:__anon12	file:
+p_app_av_notify_cb	source/app_av.c	/^static void (*p_app_av_notify_cb)(int state)=NULL;$/;"	v	file:
+p_attr_list	source/app_av.c	/^	tBSA_ATTR_ENTRY    p_attr_list[7];    \/* Attribute entry list. *\/$/;"	m	struct:__anon13	file:
+p_attr_list	source/app_av_ipc.c	/^	tBSA_ATTR_ENTRY    p_attr_list[7];    \/* Attribute entry list. *\/$/;"	m	struct:__anon25	file:
+p_bsa_av_cb	source/app_av.c	/^tBSA_AV_CB *p_bsa_av_cb = NULL;$/;"	v
+p_bsa_av_cb	source/app_av_ipc.c	/^tBSA_AV_CB *p_bsa_av_cb = NULL;$/;"	v
+p_disc_cback	source/app_common/app_disc.c	/^	tBSA_DISC_CBACK *p_disc_cback;$/;"	m	struct:__anon3	file:
+p_tx_pending	source/app_dg.c	/^	BT_HDR *p_tx_pending;$/;"	m	struct:__anon23	file:
+parserExtraHeader	protocol/SppProtocol.cpp	/^void SppProtocol::parserExtraHeader(char *buf,int size) {$/;"	f	class:android::SppProtocol
+parserPackage	ble/BleProtocol.cpp	/^void BleProtocol::parserPackage(char *package, int size) {$/;"	f	class:android::BleProtocol
+parserPackageHeader	protocol/SppProtocol.cpp	/^void SppProtocol::parserPackageHeader(char *package,int size) {$/;"	f	class:android::SppProtocol
+pas_info	source/app_av.c	/^	tBSA_AV_PAS_INFO       pas_info;$/;"	m	struct:__anon20	file:
+pas_info	source/app_av_ipc.c	/^	tBSA_AV_PAS_INFO       pas_info;$/;"	m	struct:__anon32	file:
+peer_version	source/app_avk.c	/^    UINT16 peer_version; \/*Avrp version*\/$/;"	m	struct:__anon35	file:
+play_count	source/app_av.c	/^	UINT8               play_count;$/;"	m	struct:__anon21	file:
+play_count	source/app_av_ipc.c	/^	UINT8               play_count;$/;"	m	struct:__anon33	file:
+play_list	source/app_av.c	/^	BOOLEAN play_list;$/;"	m	struct:__anon22	file:
+play_list	source/app_av_ipc.c	/^	BOOLEAN play_list;$/;"	m	struct:__anon34	file:
+play_state	source/app_av.c	/^	volatile UINT8 play_state;$/;"	m	struct:__anon22	file:
+play_state	source/app_av_ipc.c	/^	volatile UINT8 play_state;$/;"	m	struct:__anon34	file:
+play_status	source/app_av.c	/^	UINT8   play_status;$/;"	m	struct:__anon18	file:
+play_status	source/app_av.c	/^	tBSA_AV_META_PLAYSTAT  play_status;$/;"	m	struct:__anon20	file:
+play_status	source/app_av_ipc.c	/^	UINT8   play_status;$/;"	m	struct:__anon30	file:
+play_status	source/app_av_ipc.c	/^	tBSA_AV_META_PLAYSTAT  play_status;$/;"	m	struct:__anon32	file:
+play_type	source/app_av.c	/^	UINT8 play_type;$/;"	m	struct:__anon22	file:
+play_type	source/app_av_ipc.c	/^	UINT8 play_type;$/;"	m	struct:__anon34	file:
+playback_interval	source/app_av.c	/^	UINT32  playback_interval;$/;"	m	struct:__anon19	file:
+playback_interval	source/app_av_ipc.c	/^	UINT32  playback_interval;$/;"	m	struct:__anon31	file:
+playback_pos	source/app_av.c	/^	UINT32  playback_pos;$/;"	m	struct:__anon19	file:
+playback_pos	source/app_av_ipc.c	/^	UINT32  playback_pos;$/;"	m	struct:__anon31	file:
+playst	source/app_av.c	/^tBSA_AV_META_PLAYSTAT playst =$/;"	v
+playst	source/app_av_ipc.c	/^tBSA_AV_META_PLAYSTAT playst =$/;"	v
+printDumpInfo	source/app_ble_server.c	/^void printDumpInfo(const char *title, const char *buf, int size) {$/;"	f
+printPacketInfo	sdk/BluetoothController.cpp	/^void BluetoothController::printPacketInfo(const char *title, const char *buf, int size, bool realy) {$/;"	f	class:BluetoothController
+printPacketInfo	sdk/BluetoothServer.cpp	/^void BluetoothServer::printPacketInfo(const char* title, const char* buf, int size,bool realy)$/;"	f	class:android::BluetoothServer
+printPacketInfo	sdk/HilinkModule.cpp	/^static void printPacketInfo(const char *title, const unsigned char *buf, unsigned int size, bool realy) {$/;"	f	namespace:android
+printPacketInfo	sdk/HilinkServer.cpp	/^static void printPacketInfo(const char* title, const unsigned char* buf, unsigned int size,bool realy)$/;"	f	namespace:android
+printPacketInfo	sdk/ThirdPartyModule.cpp	/^static void printPacketInfo(const char* title, const char* buf, int size,bool realy)$/;"	f	namespace:android
+printPacketInfo	sdk/ThirdPartyServer.cpp	/^static void printPacketInfo(const char* title, const char* buf, int size,bool realy)$/;"	f	namespace:android
+processBindConnectRequest	ble/BleProtocol.cpp	/^void BleProtocol::processBindConnectRequest(char *address, int con_id, int length, char *dataBuf, bool bindRequest) {$/;"	f	class:android::BleProtocol
+processBindRequest	protocol/SppProtocol.cpp	/^void SppProtocol::processBindRequest(int con_id, char * remote_addr, int size){$/;"	f	class:android::SppProtocol
+processPackage	ble/BleProtocol.cpp	/^void BleProtocol::processPackage(char *data, int size) {$/;"	f	class:android::BleProtocol
+product_sn	BtMain.cpp	/^static char product_sn[MAX_SN_LENGTH] = "";$/;"	v	file:
+put	protocol/SyncData.cpp	/^void SyncData::put(const string & key, int type,const char* values,int size) {$/;"	f	class:android::SyncData
+putBoolean	protocol/SyncData.cpp	/^void SyncData::putBoolean(const string & key,bool value){$/;"	f	class:android::SyncData
+putByteArray	protocol/SyncData.cpp	/^void SyncData::putByteArray(const string & key,char* value,int size){$/;"	f	class:android::SyncData
+putInt	protocol/SyncData.cpp	/^void SyncData::putInt(const string & key,int value){$/;"	f	class:android::SyncData
+putLong	protocol/SyncData.cpp	/^void SyncData::putLong(const string & key, int64_t value){$/;"	f	class:android::SyncData
+putString	protocol/SyncData.cpp	/^void SyncData::putString(const string & key,const string & value){$/;"	f	class:android::SyncData
+rc_handle	source/app_avk.c	/^    UINT8 rc_handle;$/;"	m	struct:__anon35	file:
+readBoolean	protocol/SyncData.cpp	/^int8_t SyncData::readBoolean(char* b){$/;"	f	class:android::SyncData
+readBoolean	protocol/SyncDataTools.cpp	/^    bool readBoolean() {$/;"	f	class:android::SyncDataTools::Decoder	file:
+readByte	protocol/SyncDataTools.cpp	/^    uint8_t readByte() {$/;"	f	class:android::SyncDataTools::Decoder	file:
+readInt	protocol/SppProtocol.cpp	/^    static int readInt(char* buf, int offset) {$/;"	f	class:android::ExtraHeader	file:
+readInt	protocol/SyncData.cpp	/^int32_t SyncData::readInt(char* b){$/;"	f	class:android::SyncData
+readInt	protocol/SyncDataTools.cpp	/^    int32_t readInt() {$/;"	f	class:android::SyncDataTools::Decoder	file:
+readLong	protocol/SyncDataTools.cpp	/^    long readLong() {$/;"	f	class:android::SyncDataTools::Decoder	file:
+readObj	protocol/SyncDataTools.cpp	/^    void readObj(){$/;"	f	class:android::SyncDataTools::Decoder	file:
+readShort	protocol/SyncDataTools.cpp	/^     short readShort() {$/;"	f	class:android::SyncDataTools::Decoder	file:
+readStateFromDB	protocol/DBHelper.cpp	/^int DBHelper::readStateFromDB(t_DB_CONFIG & cfg)$/;"	f	class:android::DBHelper
+readString	protocol/SyncDataTools.cpp	/^    void readString(string & str){$/;"	f	class:android::SyncDataTools::Decoder	file:
+read_bt_call	source/app_hs.c	/^BOOLEAN read_bt_call = FALSE;$/;"	v
+read_bt_thread	source/app_hs.c	/^	pthread_t read_bt_thread;$/;"	m	struct:bt_context	file:
+read_bt_thread_func	source/app_hs.c	/^static void *read_bt_thread_func(void *_dev)$/;"	f	file:
+read_dmic_call	source/app_hs.c	/^BOOLEAN read_dmic_call = FALSE;$/;"	v
+read_dmic_thread	source/app_hs.c	/^	pthread_t read_dmic_thread;$/;"	m	struct:bt_context	file:
+read_dmic_thread_func	source/app_hs.c	/^static void *read_dmic_thread_func(void *_dev)$/;"	f	file:
+read_thread	source/app_dg.c	/^	pthread_t read_thread;$/;"	m	struct:__anon23	file:
+rec_fd	source/app_hs.c	/^    int                rec_fd; \/* recording file descriptor *\/$/;"	m	struct:__anon12	file:
+receiveWriteRequestCback	ble/BleProtocol.cpp	/^void BleProtocol::receiveWriteRequestCback(char *address, int con_id, char *data, int size) {$/;"	f	class:android::BleProtocol
+receiveWriteRequestCback	protocol/SppProtocol.cpp	/^void SppProtocol::receiveWriteRequestCback(void *user, int con_id, char * data, int size){$/;"	f	class:android::SppProtocol
+recvUnbond	ble/BleProtocol.cpp	/^void BleProtocol::recvUnbond() {$/;"	f	class:android::BleProtocol
+reg_data	BtMain.cpp	/^static UINT8 reg_data[]   = {0x01, 0x01, 0x07, 0x04, 0x00, 0x11, 0x0f, 0x12, 0x32, 0x44, 0x44, 0x5A, 0xFF, 0x00, 0x0C, 0x02, 0x39, 0x39};$/;"	v	file:
+reg_notifications	source/app_avk.c	/^tBSA_AVK_REG_NOTIFICATIONS reg_notifications =$/;"	v
+registerModule	ble/BleProtocol.cpp	/^void BleProtocol::registerModule(const string &module_name, SyncModule *module) {$/;"	f	class:android::BleProtocol
+registerModule	protocol/SppProtocol.cpp	/^void SppProtocol::registerModule(const string & module_name, SyncModule* module){$/;"	f	class:android::SppProtocol
+registerModule	sdk/HilinkServer.cpp	/^bool HilinkServer::registerModule(string module,int client_fd)$/;"	f	class:android::HilinkServer
+registerModule	sdk/ThirdPartyServer.cpp	/^bool ThirdPartyServer::registerModule(string module,int client_fd)$/;"	f	class:android::ThirdPartyServer
+registered	source/app_hs.c	/^    BOOLEAN            registered;$/;"	m	struct:__anon12	file:
+registered_events	source/app_av.c	/^	tBSA_AV_REG_EVT        registered_events;$/;"	m	struct:__anon20	file:
+registered_events	source/app_av_ipc.c	/^	tBSA_AV_REG_EVT        registered_events;$/;"	m	struct:__anon32	file:
+removeBond	sdk/BluetoothController.cpp	/^bool BluetoothController::removeBond(const string &bd_name) {$/;"	f	class:BluetoothController
+removeBond	sdk/BluetoothServer.cpp	/^void BluetoothServer::removeBond(const char* bd_name){$/;"	f	class:android::BluetoothServer
+repeat	source/app_av.c	/^	tBSA_AV_META_ATTRIB     repeat;         \/* Repeat Mode Status *\/$/;"	m	struct:__anon17	file:
+repeat	source/app_av_ipc.c	/^	tBSA_AV_META_ATTRIB     repeat;         \/* Repeat Mode Status *\/$/;"	m	struct:__anon29	file:
+resetBindState	protocol/SppProtocol.cpp	/^void SppProtocol::resetBindState()$/;"	f	class:android::SppProtocol
+reset_beacon_timer	BtMain.cpp	/^void reset_beacon_timer(void) {$/;"	f
+restartSocketClient	sdk/BluetoothController.cpp	/^bool BluetoothController::restartSocketClient(int retry_times) {$/;"	f	class:BluetoothController
+restartSocketClient	sdk/HilinkModule.cpp	/^bool HilinkModule::restartSocketClient(int retry_times) {$/;"	f	class:android::HilinkModule
+restartSocketClient	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::restartSocketClient(int retry_times){$/;"	f	class:android::ThirdPartyModule
+ring_handle	source/app_hs.c	/^    UINT32             ring_handle;$/;"	m	struct:__anon12	file:
+rx_buffer	source/app_dg.c	/^UINT8 rx_buffer[APP_DG_RX_BUFFER_SIZE];$/;"	v
+sInstance	ble/BleProtocol.cpp	/^BleProtocol *BleProtocol::sInstance = NULL;$/;"	m	class:android::BleProtocol	file:
+sInstance	protocol/SppProtocol.cpp	/^SppProtocol* SppProtocol::sInstance = NULL;$/;"	m	class:android::SppProtocol	file:
+sInstance	protocol/UnBindModule.cpp	/^UnBindModule* UnBindModule::sInstance = NULL;$/;"	m	class:android::UnBindModule	file:
+sInstance	sdk/BluetoothController.cpp	/^BluetoothController *BluetoothController::sInstance = NULL;$/;"	m	class:BluetoothController	file:
+sInstance	sdk/BluetoothController.h	/^    static BluetoothController* sInstance;$/;"	m	class:BluetoothController
+sInstance	sdk/BluetoothServer.cpp	/^BluetoothServer* BluetoothServer::sInstance = NULL;$/;"	m	class:android::BluetoothServer	file:
+sInstance	sdk/BluetoothServer.h	/^    static BluetoothServer* sInstance;$/;"	m	class:android::BluetoothServer
+sInstance	sdk/HilinkServer.cpp	/^HilinkServer* HilinkServer::sInstance = NULL;$/;"	m	class:android::HilinkServer	file:
+sInstance	sdk/HilinkServer.h	/^    static HilinkServer* sInstance;$/;"	m	class:android::HilinkServer
+sInstance	sdk/ThirdPartyServer.cpp	/^ThirdPartyServer* ThirdPartyServer::sInstance = NULL;$/;"	m	class:android::ThirdPartyServer	file:
+sInstance	sdk/ThirdPartyServer.h	/^    static ThirdPartyServer* sInstance;$/;"	m	class:android::ThirdPartyServer
+s_command	source/app_av.c	/^static int s_command = 0;$/;"	v	file:
+s_command	source/app_av_ipc.c	/^static int s_command = 0;$/;"	v	file:
+s_pCallback	source/app_ag.c	/^static tBSA_AG_CBACK *s_pCallback = NULL;$/;"	v	file:
+s_pCallback	source/app_av.c	/^static tAvCallback *s_pCallback = NULL;$/;"	v	file:
+s_pCallback	source/app_av_ipc.c	/^static tAvCallback *s_pCallback = NULL;$/;"	v	file:
+s_pCallback	source/app_avk.c	/^static tAvkCallback *s_pCallback = NULL;$/;"	v	file:
+s_pHsCallback	source/app_hs.c	/^static tHsCallback *s_pHsCallback = NULL;$/;"	v	file:
+sample_rate	source/app_avk.c	/^    UINT16 sample_rate;$/;"	m	struct:__anon35	file:
+sco_route	source/app_hs.c	/^    UINT8              sco_route;$/;"	m	struct:__anon12	file:
+sec_caps	source/app_av.c	/^const tBSA_AV_CODEC_INFO sec_caps =$/;"	v
+sec_caps	source/app_av_ipc.c	/^const tBSA_AV_CODEC_INFO sec_caps =$/;"	v
+sec_frame_size	source/app_av.c	/^	UINT32 sec_frame_size;$/;"	m	struct:__anon22	file:
+sec_frame_size	source/app_av_ipc.c	/^	UINT32 sec_frame_size;$/;"	m	struct:__anon34	file:
+send	protocol/SyncModule.cpp	/^void SyncModule::send(const sp<SyncData> & data)$/;"	f	class:android::SyncModule
+send	sdk/HilinkModule.cpp	/^int HilinkModule::send(const unsigned char *data, unsigned int size) {$/;"	f	class:android::HilinkModule
+send	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::send(const sp<SyncData> & data)$/;"	f	class:android::ThirdPartyModule
+sendDiscDataToClient	sdk/BluetoothServer.cpp	/^void BluetoothServer::sendDiscDataToClient(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+sendLinkedDeviceDataToClient	sdk/BluetoothServer.cpp	/^void BluetoothServer::sendLinkedDeviceDataToClient(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+sendLinkingDeviceDataToClient	sdk/BluetoothServer.cpp	/^void BluetoothServer::sendLinkingDeviceDataToClient(int event, tAPP_DISC_MSG* p_data){$/;"	f	class:android::BluetoothServer
+sendPacket	ble/BleProtocol.cpp	/^int BleProtocol::sendPacket(const string &moduleName, char *data, int size) {$/;"	f	class:android::BleProtocol
+sendPacket	ble/BleProtocol.cpp	/^int BleProtocol::sendPacket(const string &moduleName, char *data, int size, bool ishilink) {$/;"	f	class:android::BleProtocol
+sendPacket	protocol/SppProtocol.cpp	/^int SppProtocol::sendPacket(const string & moduleName,char* data,int size){$/;"	f	class:android::SppProtocol
+sendTimes	sdk/HilinkServer.cpp	/^int HilinkServer::sendTimes(string module,unsigned char* bytes,unsigned int size, int *used_size)$/;"	f	class:android::HilinkServer
+sendTimes	sdk/ThirdPartyServer.cpp	/^bool ThirdPartyServer::sendTimes(string module,char* bytes,int size, int *used_size)$/;"	f	class:android::ThirdPartyServer
+sendToSource	ble/BleProtocol.cpp	/^int BleProtocol::sendToSource(int con_id, char *data, int size) {$/;"	f	class:android::BleProtocol
+sendToSource	protocol/SppProtocol.cpp	/^int SppProtocol::sendToSource(int con_id, char* data, int size)$/;"	f	class:android::SppProtocol
+senddone	sdk/HilinkServer.cpp	/^void HilinkServer::senddone(int client_fd,int ret)$/;"	f	class:android::HilinkServer
+senddone	sdk/ThirdPartyServer.cpp	/^bool ThirdPartyServer::senddone(int client_fd,int ret)$/;"	f	class:android::ThirdPartyServer
+serial_fd	source/app_dg.c	/^	int serial_fd;$/;"	m	struct:__anon23	file:
+server	sdk/BluetoothServer.h	/^	BluetoothServer* server;$/;"	m	struct:android::BluetoothServer::THREAD_ARG
+server	sdk/HilinkServer.h	/^	HilinkServer* server;$/;"	m	struct:android::HilinkServer::THREAD_ARG
+server	sdk/ThirdPartyServer.h	/^	ThirdPartyServer* server;$/;"	m	struct:android::ThirdPartyServer::THREAD_ARG
+service	source/app_dg.c	/^	tBSA_SERVICE_ID service;$/;"	m	struct:__anon23	file:
+services_string	source/app_common/app_services.c	/^static char services_string[BSA_MAX_SERVICE_ID * 7];$/;"	v	file:
+setBTBleBeacon	BtMain.cpp	/^int setBTBleBeacon(int state) {$/;"	f
+setBTBleBeacon	source/app_unit.c	/^int setBTBleBeacon(int state) {$/;"	f
+setBTBleBeaconOnOff	BtMain.cpp	/^void setBTBleBeaconOnOff(int state){$/;"	f
+setBTBleBeaconOnOff	source/app_unit.c	/^void setBTBleBeaconOnOff(int state){$/;"	f
+setBTEnable	ohos_bt.c	/^int setBTEnable(bool enable)$/;"	f
+setBTEnable	source/app_unit.c	/^int setBTEnable(bool enable)$/;"	f
+setBTVisibility	source/app_ble_server.c	/^int setBTVisibility(_Bool discoverable, _Bool connectable) {$/;"	f
+setBTVisibility	source/app_unit.c	/^int setBTVisibility(bool discoverable, bool connectable) {$/;"	f
+setBleBeacon	sdk/BluetoothController.cpp	/^bool BluetoothController::setBleBeacon(int state) {$/;"	f	class:BluetoothController
+setBleBeacon	sdk/BluetoothServer.cpp	/^void BluetoothServer::setBleBeacon(int state){$/;"	f	class:android::BluetoothServer
+setBleVisibility	source/app_unit.c	/^int setBleVisibility(int discoverable, int connectable) {$/;"	f
+setBluetoothVisibility	sdk/BluetoothController.cpp	/^bool BluetoothController::setBluetoothVisibility(bool enable) {$/;"	f	class:BluetoothController
+setBluetoothVisibility	sdk/BluetoothServer.cpp	/^void BluetoothServer::setBluetoothVisibility(bool enable){$/;"	f	class:android::BluetoothServer
+setBtPowerEnable	ohos_bt.c	/^static void setBtPowerEnable(bool enable){$/;"	f	file:
+setBtPowerEnable	source/app_unit.c	/^static void setBtPowerEnable(bool enable){$/;"	f	file:
+setState	incall/InCall.cpp	/^bool InCall::setState(bool isActive)$/;"	f	class:android::InCall
+shuffle	source/app_av.c	/^	tBSA_AV_META_ATTRIB     shuffle;        \/* Shuffle Status *\/$/;"	m	struct:__anon17	file:
+shuffle	source/app_av_ipc.c	/^	tBSA_AV_META_ATTRIB     shuffle;        \/* Shuffle Status *\/$/;"	m	struct:__anon29	file:
+si_dev_db_ptr	source/app_common/app_xml_param.c	/^	tAPP_XML_SI_DEVICE *si_dev_db_ptr;$/;"	m	struct:__anon2	file:
+si_dev_instance	source/app_common/app_xml_param.c	/^	int si_dev_instance;$/;"	m	struct:__anon2	file:
+si_dev_max	source/app_common/app_xml_param.c	/^	int si_dev_max;$/;"	m	struct:__anon2	file:
+si_dev_tag	source/app_common/app_xml_param.c	/^	int si_dev_tag;$/;"	m	struct:__anon2	file:
+sinus_index	source/app_av.c	/^	UINT8 sinus_index;$/;"	m	struct:__anon22	file:
+sinus_index	source/app_av_ipc.c	/^	UINT8 sinus_index;$/;"	m	struct:__anon34	file:
+sinus_type	source/app_av.c	/^	UINT8 sinus_type;$/;"	m	struct:__anon22	file:
+sinus_type	source/app_av_ipc.c	/^	UINT8 sinus_type;$/;"	m	struct:__anon34	file:
+sinwaves	source/app_av.c	/^const short sinwaves[2][64] = {{$/;"	v
+sinwaves	source/app_av_ipc.c	/^const short sinwaves[2][64] = {{$/;"	v
+socat_pid	source/app_dg.c	/^	int socat_pid;$/;"	m	struct:__anon23	file:
+song1	source/app_av_ipc.c	/^tBSA_APP_ITEM_MEDIA song1 =$/;"	v
+song2	source/app_av_ipc.c	/^tBSA_APP_ITEM_MEDIA song2 =$/;"	v
+song3	source/app_av_ipc.c	/^tBSA_APP_ITEM_MEDIA song3 =$/;"	v
+song_length	source/app_av.c	/^	UINT32  song_length;$/;"	m	struct:__anon18	file:
+song_length	source/app_av_ipc.c	/^	UINT32  song_length;$/;"	m	struct:__anon30	file:
+song_pos	source/app_av.c	/^	UINT32  song_pos;$/;"	m	struct:__anon18	file:
+song_pos	source/app_av_ipc.c	/^	UINT32  song_pos;$/;"	m	struct:__anon30	file:
+soundfile_list	source/app_av.c	/^	char **soundfile_list;$/;"	m	struct:__anon22	file:
+soundfile_list	source/app_av_ipc.c	/^	char **soundfile_list;$/;"	m	struct:__anon34	file:
+soundfile_list_size	source/app_av.c	/^	int soundfile_list_size;$/;"	m	struct:__anon22	file:
+soundfile_list_size	source/app_av_ipc.c	/^	int soundfile_list_size;$/;"	m	struct:__anon34	file:
+startDiscovery	sdk/BluetoothController.cpp	/^bool BluetoothController::startDiscovery(void (*disc_back)(DISC_EVT event, REMOTE_DEVICE *p_data), int duration, int type) {$/;"	f	class:BluetoothController
+startDiscovery	sdk/BluetoothServer.cpp	/^void BluetoothServer::startDiscovery(int client_fd, int duration, int type){$/;"	f	class:android::BluetoothServer
+startModule	ble/BleProtocol.cpp	/^void BleProtocol::startModule() {$/;"	f	class:android::BleProtocol
+startModule	protocol/SppProtocol.cpp	/^void SppProtocol::startModule(){$/;"	f	class:android::SppProtocol
+startProfiles	ohos_bt.c	/^int startProfiles(){$/;"	f
+startProfiles	source/app_unit.c	/^int startProfiles(){$/;"	f
+startSocketClient	sdk/BluetoothController.cpp	/^bool BluetoothController::startSocketClient() {$/;"	f	class:BluetoothController
+startSocketClient	sdk/HilinkModule.cpp	/^bool HilinkModule::startSocketClient() {$/;"	f	class:android::HilinkModule
+startSocketClient	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::startSocketClient(){$/;"	f	class:android::ThirdPartyModule
+startSocketServer	sdk/BluetoothServer.cpp	/^void BluetoothServer::startSocketServer(){$/;"	f	class:android::BluetoothServer
+startSocketServer	sdk/HilinkServer.cpp	/^void HilinkServer::startSocketServer(){$/;"	f	class:android::HilinkServer
+startSocketServer	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::startSocketServer(){$/;"	f	class:android::ThirdPartyServer
+stopDiscovery	sdk/BluetoothController.cpp	/^bool BluetoothController::stopDiscovery() {$/;"	f	class:BluetoothController
+stopDiscovery	sdk/BluetoothServer.cpp	/^void BluetoothServer::stopDiscovery(int client_fd){$/;"	f	class:android::BluetoothServer
+stopModule	ble/BleProtocol.cpp	/^void BleProtocol::stopModule() {$/;"	f	class:android::BleProtocol
+stopModule	protocol/SppProtocol.cpp	/^void SppProtocol::stopModule(){$/;"	f	class:android::SppProtocol
+stopProfiles	ohos_bt.c	/^void stopProfiles(){$/;"	f
+stopProfiles	source/app_unit.c	/^static void stopProfiles(){$/;"	f	file:
+stopSocketClient	sdk/BluetoothController.cpp	/^bool BluetoothController::stopSocketClient() {$/;"	f	class:BluetoothController
+stopSocketClient	sdk/HilinkModule.cpp	/^bool HilinkModule::stopSocketClient() {$/;"	f	class:android::HilinkModule
+stopSocketClient	sdk/ThirdPartyModule.cpp	/^bool ThirdPartyModule::stopSocketClient(){$/;"	f	class:android::ThirdPartyModule
+stopSocketServer	sdk/BluetoothServer.cpp	/^void BluetoothServer::stopSocketServer(){$/;"	f	class:android::BluetoothServer
+stopSocketServer	sdk/HilinkServer.cpp	/^void HilinkServer::stopSocketServer(){$/;"	f	class:android::HilinkServer
+stopSocketServer	sdk/ThirdPartyServer.cpp	/^void ThirdPartyServer::stopSocketServer(){$/;"	f	class:android::ThirdPartyServer
+stop_socket	source/app_dg.c	/^    int stop_socket;$/;"	m	struct:__anon23	file:
+stop_tty_read	source/app_dg.c	/^	int stop_tty_read;$/;"	m	struct:__anon23	file:
+stream_uipc_channel	source/app_av.c	/^	tUIPC_CH_ID stream_uipc_channel;$/;"	m	struct:__anon22	file:
+stream_uipc_channel	source/app_av_ipc.c	/^	tUIPC_CH_ID stream_uipc_channel;$/;"	m	struct:__anon34	file:
+strskip	source/app_common/nanoxml.c	52;"	d	file:
+sub_desc	source/app_common/app_disc.c	/^	char *sub_desc;$/;"	m	struct:__anon6	file:
+suspended	source/app_common/app_link.c	/^    BOOLEAN suspended;$/;"	m	struct:__anon10	file:
+sys_stat	source/app_av.c	/^	UINT8   sys_stat;$/;"	m	struct:__anon19	file:
+sys_stat	source/app_av_ipc.c	/^	UINT8   sys_stat;$/;"	m	struct:__anon31	file:
+tAPP_ACL_LINK	source/app_common/app_link.c	/^} tAPP_ACL_LINK;$/;"	t	typeref:struct:__anon10	file:
+tAPP_AVK_CB	source/app_avk.c	/^} tAPP_AVK_CB;$/;"	t	typeref:struct:__anon35	file:
+tAPP_DG_CB	source/app_dg.c	/^} tAPP_DG_CB;$/;"	t	typeref:struct:__anon24	file:
+tAPP_DG_CON	source/app_dg.c	/^} tAPP_DG_CON;$/;"	t	typeref:struct:__anon23	file:
+tAPP_DISC_APPEARANCE_DESC	source/app_common/app_disc.c	/^} tAPP_DISC_APPEARANCE_DESC;$/;"	t	typeref:struct:__anon6	file:
+tAPP_DISC_BT_COMPANY_ID_DESC	source/app_common/app_disc.c	/^} tAPP_DISC_BT_COMPANY_ID_DESC;$/;"	t	typeref:struct:__anon7	file:
+tAPP_DISC_CB	source/app_common/app_disc.c	/^} tAPP_DISC_CB;$/;"	t	typeref:struct:__anon3	file:
+tAPP_DISC_UUID16_DESC	source/app_common/app_disc.c	/^} tAPP_DISC_UUID16_DESC;$/;"	t	typeref:struct:__anon5	file:
+tAPP_HS_CB	source/app_hs.c	/^} tAPP_HS_CB;$/;"	t	typeref:struct:__anon12	file:
+tAPP_VENDOR	source/app_common/app_disc.c	/^} tAPP_VENDOR;$/;"	t	typeref:struct:__anon4	file:
+tAPP_WAV_CB	source/app_common/app_wav.c	/^} tAPP_WAV_CB;$/;"	t	typeref:struct:__anon9	file:
+tAPP_XML_PARAM_CB	source/app_common/app_xml_param.c	/^} tAPP_XML_PARAM_CB;$/;"	t	typeref:struct:__anon2	file:
+tBSA_APP_ITEM_MEDIA	source/app_av.c	/^} tBSA_APP_ITEM_MEDIA;$/;"	t	typeref:struct:__anon13	file:
+tBSA_APP_ITEM_MEDIA	source/app_av_ipc.c	/^} tBSA_APP_ITEM_MEDIA;$/;"	t	typeref:struct:__anon25	file:
+tBSA_AV_CB	source/app_av.c	/^} tBSA_AV_CB;$/;"	t	typeref:struct:__anon21	file:
+tBSA_AV_CB	source/app_av_ipc.c	/^} tBSA_AV_CB;$/;"	t	typeref:struct:__anon33	file:
+tBSA_AV_EVT_MASK	source/app_av.c	/^typedef UINT16          tBSA_AV_EVT_MASK;$/;"	t	file:
+tBSA_AV_EVT_MASK	source/app_av_ipc.c	/^typedef UINT16          tBSA_AV_EVT_MASK;$/;"	t	file:
+tBSA_AV_METADATA	source/app_av.c	/^} tBSA_AV_METADATA;$/;"	t	typeref:struct:__anon20	file:
+tBSA_AV_METADATA	source/app_av_ipc.c	/^} tBSA_AV_METADATA;$/;"	t	typeref:struct:__anon32	file:
+tBSA_AV_META_ATTRIB	source/app_av.c	/^} tBSA_AV_META_ATTRIB;$/;"	t	typeref:struct:__anon16	file:
+tBSA_AV_META_ATTRIB	source/app_av_ipc.c	/^} tBSA_AV_META_ATTRIB;$/;"	t	typeref:struct:__anon28	file:
+tBSA_AV_META_ATTRIB_SETTINGS	source/app_av.c	/^} tBSA_AV_META_ATTRIB_SETTINGS;$/;"	t	typeref:struct:__anon15	file:
+tBSA_AV_META_ATTRIB_SETTINGS	source/app_av_ipc.c	/^} tBSA_AV_META_ATTRIB_SETTINGS;$/;"	t	typeref:struct:__anon27	file:
+tBSA_AV_META_PLAYSTAT	source/app_av.c	/^} tBSA_AV_META_PLAYSTAT;$/;"	t	typeref:struct:__anon18	file:
+tBSA_AV_META_PLAYSTAT	source/app_av_ipc.c	/^} tBSA_AV_META_PLAYSTAT;$/;"	t	typeref:struct:__anon30	file:
+tBSA_AV_PAS_INFO	source/app_av.c	/^} tBSA_AV_PAS_INFO;$/;"	t	typeref:struct:__anon17	file:
+tBSA_AV_PAS_INFO	source/app_av_ipc.c	/^} tBSA_AV_PAS_INFO;$/;"	t	typeref:struct:__anon29	file:
+tBSA_AV_REG_EVT	source/app_av.c	/^} tBSA_AV_REG_EVT;$/;"	t	typeref:struct:__anon14	file:
+tBSA_AV_REG_EVT	source/app_av_ipc.c	/^} tBSA_AV_REG_EVT;$/;"	t	typeref:struct:__anon26	file:
+tBSA_AV_STAT_INFO	source/app_av.c	/^} tBSA_AV_STAT_INFO;$/;"	t	typeref:struct:__anon19	file:
+tBSA_AV_STAT_INFO	source/app_av_ipc.c	/^} tBSA_AV_STAT_INFO;$/;"	t	typeref:struct:__anon31	file:
+t_app_rc_thread	source/app_av.c	/^tAPP_THREAD t_app_rc_thread;$/;"	v
+t_app_rc_thread	source/app_av_ipc.c	/^tAPP_THREAD t_app_rc_thread;$/;"	v
+t_app_set_adv_param_thread	source/app_unit.c	/^tAPP_THREAD t_app_set_adv_param_thread;$/;"	v
+test_sec_sampfreq_index	source/app_av.c	/^	int test_sec_sampfreq_index;$/;"	m	struct:__anon22	file:
+test_sec_sampfreq_index	source/app_av_ipc.c	/^	int test_sec_sampfreq_index;$/;"	m	struct:__anon34	file:
+toBytes	ble/BleProtocol.cpp	/^    void toBytes(char *buffer) {$/;"	f	class:android::Header
+toBytes	protocol/SppProtocol.cpp	/^    void toBytes(char* buffer) {$/;"	f	class:android::ExtraHeader
+toBytes	protocol/SppProtocol.cpp	/^    void toBytes(char* buffer) {$/;"	f	class:android::Header
+toBytes	protocol/SppProtocol.cpp	/^    void toBytes(char* buffer) {$/;"	f	class:android::Neg
+tone_sample_freq	source/app_av.c	/^	UINT16 tone_sample_freq;$/;"	m	struct:__anon22	file:
+tone_sample_freq	source/app_av_ipc.c	/^	UINT16 tone_sample_freq;$/;"	m	struct:__anon34	file:
+track_num	source/app_av.c	/^	UINT8                  track_num;$/;"	m	struct:__anon20	file:
+track_num	source/app_av_ipc.c	/^	UINT8                  track_num;$/;"	m	struct:__anon32	file:
+treelevel	source/app_common/app_xml_utils.c	/^int treelevel = 0;$/;"	v
+type	source/app_av.c	/^	UINT8               type;           \/* Use AVRC_MEDIA_TYPE_AUDIO or AVRC_MEDIA_TYPE_VIDEO. *\/$/;"	m	struct:__anon13	file:
+type	source/app_av_ipc.c	/^	UINT8               type;           \/* Use AVRC_MEDIA_TYPE_AUDIO or AVRC_MEDIA_TYPE_VIDEO. *\/$/;"	m	struct:__anon25	file:
+uid	source/app_av.c	/^	tBSA_UID           uid;            \/* The uid of this media element item *\/$/;"	m	struct:__anon13	file:
+uid	source/app_av_ipc.c	/^	tBSA_UID           uid;            \/* The uid of this media element item *\/$/;"	m	struct:__anon25	file:
+uipc_audio_channel	source/app_avk.c	/^    tUIPC_CH_ID uipc_audio_channel;$/;"	m	struct:__anon35	file:
+uipc_cfg	source/app_av.c	/^	tAPP_AV_UIPC uipc_cfg;$/;"	m	struct:__anon22	file:
+uipc_cfg	source/app_av_ipc.c	/^	tAPP_AV_UIPC uipc_cfg;$/;"	m	struct:__anon34	file:
+uipc_channel	source/app_dg.c	/^	tUIPC_CH_ID uipc_channel;$/;"	m	struct:__anon23	file:
+unRegisterModule	ble/BleProtocol.cpp	/^void BleProtocol::unRegisterModule(const string &module_name) {$/;"	f	class:android::BleProtocol
+unRegisterModule	protocol/SppProtocol.cpp	/^void SppProtocol::unRegisterModule(const string & module_name){$/;"	f	class:android::SppProtocol
+unRegisterModule	sdk/HilinkServer.cpp	/^bool HilinkServer::unRegisterModule(int client_fd)$/;"	f	class:android::HilinkServer
+unRegisterModule	sdk/ThirdPartyServer.cpp	/^bool ThirdPartyServer::unRegisterModule(int client_fd)$/;"	f	class:android::ThirdPartyServer
+unbond	ble/BleProtocol.cpp	/^int BleProtocol::unbond() {$/;"	f	class:android::BleProtocol
+unreg_data	BtMain.cpp	/^static UINT8 unreg_data[] = {0x01, 0x01, 0x07, 0x04, 0x00, 0x11, 0x0f, 0x12, 0x32, 0x44, 0x44, 0x5A, 0xFF, 0x00, 0x04, 0x02, 0x39, 0x39};$/;"	v	file:
+uuid	source/app_common/app_disc.c	/^	UINT16 uuid;$/;"	m	struct:__anon5	file:
+uuid16_desc	source/app_common/app_disc.c	/^static tAPP_DISC_UUID16_DESC uuid16_desc[]=$/;"	v	file:
+val1	source/app_av.c	/^	UINT8   val1[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon15	file:
+val1	source/app_av_ipc.c	/^	UINT8   val1[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon27	file:
+val2	source/app_av.c	/^	UINT8   val2[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon15	file:
+val2	source/app_av_ipc.c	/^	UINT8   val2[BSA_ATTR_STRING_LEN];$/;"	m	struct:__anon27	file:
+value_updated	source/app_av.c	/^	BOOLEAN value_updated;$/;"	m	struct:__anon16	file:
+value_updated	source/app_av_ipc.c	/^	BOOLEAN value_updated;$/;"	m	struct:__anon28	file:
+vendor	source/app_common/app_disc.c	/^	UINT16 vendor;$/;"	m	struct:__anon4	file:
+vendor_id_source	source/app_common/app_disc.c	/^	UINT16 vendor_id_source;$/;"	m	struct:__anon4	file:
+volLabel	source/app_avk.c	/^    UINT8 volLabel;$/;"	m	struct:__anon35	file:
+volume	source/app_avk.c	/^    UINT8 volume;$/;"	m	struct:__anon35	file:
+waitTrue	sdk/BluetoothController.cpp	/^int BluetoothController::waitTrue(bool *isTrue, int timeout) {$/;"	f	class:BluetoothController
+wifi_onoff_fname	BtMain.cpp	/^const char wifi_onoff_fname[] = "\/tmp\/wifi_use_state";$/;"	v
+writeBoolean	protocol/SyncDataTools.cpp	/^    void writeBoolean(bool b) {$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeByte	protocol/SyncDataTools.cpp	/^    void writeByte(char b) {$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeByteArray	protocol/SyncDataTools.cpp	/^    void writeByteArray(const char * s,int size){$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeInt	protocol/SppProtocol.cpp	/^    static void writeInt(char* buf, int offset, int value) {$/;"	f	class:android::ExtraHeader	file:
+writeInt	protocol/SyncDataTools.cpp	/^    void writeInt(int i){$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeLong	protocol/SyncDataTools.cpp	/^    void writeLong(int64_t l){$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeObject	protocol/SyncDataTools.cpp	/^    void writeObject(const sp<Object> & object){$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeStateToDB	protocol/DBHelper.cpp	/^int DBHelper::writeStateToDB(bool bind_state, const char* bind_addr)$/;"	f	class:android::DBHelper
+writeString	protocol/SyncDataTools.cpp	/^    void writeString(const char * s,int size){$/;"	f	class:android::SyncDataTools::Encoder	file:
+writeString	protocol/SyncDataTools.cpp	/^    void writeString(const string & s){$/;"	f	class:android::SyncDataTools::Encoder	file:
+xmlClose	source/app_common/nanoxml.c	/^void xmlClose(nxml_t handle)$/;"	f
+xmlOpen	source/app_common/nanoxml.c	/^int xmlOpen(nxml_t *handle, const nxml_settings *settings)$/;"	f
+xmlWrite	source/app_common/nanoxml.c	/^int xmlWrite(nxml_t handle, char *data, unsigned len, char **endp)$/;"	f
+~BleProtocol	ble/BleProtocol.cpp	/^BleProtocol::~BleProtocol() {$/;"	f	class:android::BleProtocol
+~BluetoothController	sdk/BluetoothController.cpp	/^BluetoothController::~BluetoothController() {$/;"	f	class:BluetoothController
+~BluetoothServer	sdk/BluetoothServer.cpp	/^BluetoothServer::~BluetoothServer()$/;"	f	class:android::BluetoothServer
+~Decoder	protocol/SyncDataTools.cpp	/^    ~Decoder(){$/;"	f	class:android::SyncDataTools::Decoder
+~Encoder	protocol/SyncDataTools.cpp	/^    ~Encoder(){$/;"	f	class:android::SyncDataTools::Encoder
+~ExtraHeader	protocol/SppProtocol.cpp	/^    ~ExtraHeader(){$/;"	f	class:android::ExtraHeader
+~Header	ble/BleProtocol.cpp	/^    ~Header() {$/;"	f	class:android::Header
+~Header	protocol/SppProtocol.cpp	/^    ~Header(){$/;"	f	class:android::Header
+~HilinkModule	sdk/HilinkModule.cpp	/^HilinkModule::~HilinkModule() {$/;"	f	class:android::HilinkModule
+~HilinkServer	sdk/HilinkServer.cpp	/^HilinkServer::~HilinkServer()$/;"	f	class:android::HilinkServer
+~InCall	incall/InCall.cpp	/^InCall::~InCall()$/;"	f	class:android::InCall
+~Neg	protocol/SppProtocol.cpp	/^    ~Neg(){$/;"	f	class:android::Neg
+~SppProtocol	protocol/SppProtocol.cpp	/^SppProtocol::~SppProtocol() {$/;"	f	class:android::SppProtocol
+~SyncData	protocol/SyncData.cpp	/^SyncData::~SyncData(){$/;"	f	class:android::SyncData
+~SyncModule	protocol/SyncModule.cpp	/^SyncModule::~SyncModule()$/;"	f	class:android::SyncModule
+~ThirdPartyModule	sdk/ThirdPartyModule.cpp	/^ThirdPartyModule::~ThirdPartyModule()$/;"	f	class:android::ThirdPartyModule
+~ThirdPartyServer	sdk/ThirdPartyServer.cpp	/^ThirdPartyServer::~ThirdPartyServer()$/;"	f	class:android::ThirdPartyServer
+~UnBindModule	protocol/UnBindModule.cpp	/^UnBindModule::~UnBindModule()$/;"	f	class:android::UnBindModule
