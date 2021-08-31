@@ -1,0 +1,4 @@
+group("x2000") {
+  deps = [ "prebuilt:copy_mips_gcc" ]
+  print("Ingenic X2000 is under devloping.")
+}
